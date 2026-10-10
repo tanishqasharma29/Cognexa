@@ -1,0 +1,76 @@
+document,version,chunk_id,method,start_char,end_char,text,char_count
+clgdataset.pdf,cropped_header_30pt,1,fixed-size,0,900,"Agents and Environments Roshni Chakraborty Dept. Of Information Technology ABV-IIITM Gwalior September 1, 2026 1 / 27
+
+Outline I 1 Definition and philosophy Quantify Intelligence Thinking Humanly 2 Rational Agents Ideal Rational Agents Vaccum Cleaner Agent 3 Nature of Environment Goal based Agents 2 / 27
+
+Artificial Intelligence Definition and philosophy How to quantify intelligence ? Are humans intelligent? replicating human behavior is an early hallmark of intelligence Are humans always intelligent? Can non-human behavior be intelligent? Definition The study of how to make computers do things at which, at the moment, people are better The branch of computer science that is concerned with the automation of intelligent behavior Objectives Systems that think like humans/rationally Systems that act like humans /rationally 3 / 27
+
+Artificial Intelligence Thinking Humanly Cognitive Science V",900
+clgdataset.pdf,cropped_header_30pt,2,fixed-size,780,1680,"rationally Systems that act like humans /rationally 3 / 27
+
+Artificial Intelligence Thinking Humanly Cognitive Science Very hard to understand how humans think Do we want a machine that beats humans in chess or a machine that thinks like humans while beating humans in chess? Deep Blue supposedly DOESN’T think like humans Thinking like humans is important Intelligent tutoring, Expressing emotions in interfaces 4 / 27
+
+Artificial Intelligence Thinking Humanly Laws of Thought Every art and every inquiry, and similarly every action and every pursuit is thought to aim at some good If the human cannot tell whether the responses from the other side of a wall are coming from a human or computer, then the computer is intelligent. Rational behavior: doing the right thing Need not always be deliberative – Reflexive Reproducible, constructive or mathematically analyzable machines that act intelligen",900
+clgdataset.pdf,cropped_header_30pt,3,fixed-size,1560,2460," always be deliberative – Reflexive Reproducible, constructive or mathematically analyzable machines that act intelligent have to think intelligently too 5 / 27
+
+Artificial Intelligence Rational Agents An agent should strive to do the right thing based on what it can perceive and the actions it can perform right action is the one that will cause the agent to be most successful Performance measure An objective criterion for success of an agent’s behavior performance measure of a vacuum-cleaner agent could be amount of dirt cleaned up amount of time taken amount of electricity consumed amount of noise generated, etc. 6 / 27
+
+Artificial Intelligence Example 7 / 27
+
+Artificial Intelligence Ideal Rational Agent For each possible percept sequence, does whatever action is expected to maximize its performance measure on the basis of evidence perceived so far and built-in knowledge An agent is an",900
+clgdataset.pdf,cropped_header_30pt,4,fixed-size,2340,3240,"cted to maximize its performance measure on the basis of evidence perceived so far and built-in knowledge An agent is anything that can be viewed as perceiving its environment through sensors acting upon that environment through actuators Human agent eyes, ears, and other organs for sensors hands, legs, mouth, and other body parts for actuators Robotic agent cameras and laser range finders for sensors– various motors for actuators Objective a good job of acting on their environment 8 / 27
+
+Artificial Intelligence Ideal Rational Agent This world is so simple that we can describe everything that happens Its an imaginary world for our sake Environment Two Squares A and B Perceive which square am I in? Is there dirt here? Actions choose to move left, move right cleanup or do nothing if the current square is dirty, then clean; otherwise, move to the other square 9 / 27
+
+Artificial Intelligenc",900
+clgdataset.pdf,cropped_header_30pt,5,fixed-size,3120,4020,"o nothing if the current square is dirty, then clean; otherwise, move to the other square 9 / 27
+
+Artificial Intelligence Percept Sequence 10 / 27
+
+Artificial Intelligence Ideal Rational Agent A rational agent is one that does the right thing This is better than doing the wrong thing, implication ? the right action is the one that will cause the agent to be most successful decide how and when to evaluate the agent’s success. performance measure the criteria that determine how successful an agent is considering the consequences of the agent’s behavior generates a sequence of actions according to the percepts it receives this sequence of actions impacts the environment which undergoes a sequence of states Is this desirable? can be measured by performance measure 11 / 27
+
+Artificial Intelligence Ideal Rational Agent : Performance Measure Consider an agent which is vacuum a dirty floor how a",900
+clgdataset.pdf,cropped_header_30pt,6,fixed-size,3900,4800,"Artificial Intelligence Ideal Rational Agent : Performance Measure Consider an agent which is vacuum a dirty floor how about the amount of dirt cleaned up in a single eight-hour shift how about the amount of electricity consumed and the amount of noise generated how about the cleans the floor quietly and efficiently finds time to go windsurfing at the weekend. clean floor is based on average cleanliness over time average cleanliness is better when? one of which does a mediocre job all the time other cleans energetically but takes long breaks 12 / 27
+
+Artificial Intelligence Ideal Rational Agent When to evaluate measured how much dirt the agent had cleaned up in the first hour of the day punishing those that work consistently The performance measure that defines degree of success Everything that the agent has perceived so far The percept sequence What the agent knows about the environment",900
+clgdataset.pdf,cropped_header_30pt,7,fixed-size,4680,5580,"f success Everything that the agent has perceived so far The percept sequence What the agent knows about the environment The actions that the agent can perform For each possible percept sequence, an ideal rational agent should do whatever action is expected to maximize its performance measure, on the basis of the evidence provided by the percept sequence and whatever built-in knowledge the agent has 13 / 27
+
+Artificial Intelligence Vaccum Cleaner Agent Objective cleans a square if it is dirty and moves to the other square if not Is this a rational agent? what is the performance measure ? awards one point for each clean square at each time step, over a lifetime of 1000 time steps geography of the environment is known a priori dirt distribution and the initial location of the agent are not allowed actions are left, right and do nothing 14 / 27
+
+Artificial Intelligence Vaccum Cleaner Agent ",900
+clgdataset.pdf,cropped_header_30pt,8,fixed-size,5460,6360," the agent are not allowed actions are left, right and do nothing 14 / 27
+
+Artificial Intelligence Vaccum Cleaner Agent Can it ever be irrational Keeps on oscillating across clean rooms How to prevent? a penalty of one point for each movement left or right A better agent for this case would do nothing once it is sure that all the squares are clean occasionally check and clean only if needed Two important factors for being rational agent are information gathering and learning the behavior of a rational agent can become effectively independent of its prior knowledge enough built-in reflexes so that they can survive long enough to learn for themselves 15 / 27
+
+Intelligent Agents Nature of Environment Definition of rational agent is clear Focus on building the rational agent task environments are problems rational agents are the solutions Specifying the task environment Performance measure, ",900
+clgdataset.pdf,cropped_header_30pt,9,fixed-size,6240,7140,"t task environments are problems rational agents are the solutions Specifying the task environment Performance measure, Environment, agent’s Actuators and Sensors (PEAS) design as much in detail as possible Example : Automated Driving Performance measures Reach correct destination Minimize violations of traffic laws and disturbances to other drivers Minimize fuel consumption and wear and tear Maximize profits Any conflicts in the goals? trade off required? 16 / 27
+
+Intelligent Agents Nature of Environment Environment variety of roads, ranging from rural lanes and urban alleys to 12-lane freeways humans, other vehicles, different forms of vehicles, condition varies on the basis of location Actuators accelerator, clutch, brake, steering wheel Sensors controllable TV cameras, the speedometer, and the odometer, GPS 17 / 27
+
+Intelligent Agents Nature of Environment Medical Diagnosis System Pe",900
+clgdataset.pdf,cropped_header_30pt,10,fixed-size,7020,7920,"as, the speedometer, and the odometer, GPS 17 / 27
+
+Intelligent Agents Nature of Environment Medical Diagnosis System Performance : Detection accuracy, patients current health Environment : condition of hospital, staff, patient Actuator : Diagnosis system, tests, discussions Sensors : entry of symptoms, patient’s verbal answers Might work in completely artificial environments, ’learn’ and ’adapt’ 18 / 27
+
+Intelligent Agents Properties of Environment Range of task environments is huge categorize environments aid in agent design and applicability, implementation Fully Observable vs Partially Observable A task environment is effectively fully observable if the sensors detect all aspects that are relevant to the choice of action Partially observable because of noisy and inaccurate sensors non consideration of the information Example automated driving agents can not see what others are thinki",900
+clgdataset.pdf,cropped_header_30pt,11,fixed-size,7800,8700,"ccurate sensors non consideration of the information Example automated driving agents can not see what others are thinking If the agent has no sensor at all environment is unobservable Chatbot? 19 / 27
+
+Intelligent Agents Properties of Environment Single Agent vs Multiagents an agent solving a crossword puzzle by itself is in a single-agent environment an agent playing chess is in a two agent environment When an entity may be viewed as an agent ? whether our agent’s performance is dependent on this agent’s behavior Competitive vs Cooperative multi agent system Chess is Competitive multiagent Puzzle solving is Cooperative multiagent Driving then? 20 / 27
+
+Intelligent Agents Properties of Environment Deterministic vs Stochastic next state of the environment is completely determined current state the action executed by the agent An agent need not worry about uncertainty in fully observable ",900
+clgdataset.pdf,cropped_header_30pt,12,fixed-size,8580,9480,"determined current state the action executed by the agent An agent need not worry about uncertainty in fully observable and deterministic environment Taxi driving is clearly stochastic in this sense can never predict the behavior of traffic exactly scenarios during driving Vacuum world as we described it is deterministic what happens if something suddenly happens? An environment is uncertain if not fully observable and deterministic partially observable environments seem stochastic impossible to keep track of all variables 21 / 27
+
+Intelligent Agents Properties of Environment Deterministic vs Stochastic stochastic implies uncertainty about outcomes is expressed through probabilities non deterministic implies actions are by possible outcomes might be through performance measure Episodic vs. Sequential agent’s experience is divided into atomic episodes each episode consists of the agent pe",900
+clgdataset.pdf,cropped_header_30pt,13,fixed-size,9360,10260,"measure Episodic vs. Sequential agent’s experience is divided into atomic episodes each episode consists of the agent perceiving and then performing action independent of previous action classification tasks are episodic episodic environments are simpler in all senses needs no planning Sequential current decision would affect all future decisions can have long-term consequences chess and driving are sequential 22 / 27
+
+Search based Solutions Goal based Agents The simplest agents were the reflex agents base their actions on a direct mapping from states to actions cannot operate well in environments this mapping would be too large to store would take too long to learn no idea about objective or learning We will focus on goal based agents consider future actions desirability of their outcomes They consider State centric representation What is a State? All information about the environment T",900
+clgdataset.pdf,cropped_header_30pt,14,fixed-size,10140,11040,"ty of their outcomes They consider State centric representation What is a State? All information about the environment This may become prohibitively huge All information necessary to make a decision for the task at hand. 23 / 27
+
+Search based Solutions Goal based Agents Who decides the states ? a human who has the problem in mind will design the states, i.e., domain designer AI engineer is focussed on solving Atomic State States are indivisible No internal structure 24 / 27
+
+Search based Solutions Goal based Agents Intelligent agents are supposed to maximize their performance measure through definition of goal understanding of whether it is being satisfied Suppose the agent is in Shillong goal can be hiking, cuisine tasting, simple rest, understand the life and locals, etc different goals, different approaches Goals help organize behavior by limiting the objectives that the agent is tryi",900
+clgdataset.pdf,cropped_header_30pt,15,fixed-size,10920,11621,"etc different goals, different approaches Goals help organize behavior by limiting the objectives that the agent is trying to achieve first step in problem solving Goal is a task agent task is to reach the goal state through a sequence of actions 25 / 27
+
+Search based Solutions Example Reach Guwahati from Gwalior several options through Kolkata, Delhi, Bangalore Agent has no prior knowledge to decide which possible actions is best does not know enough about the state that results from taking each action can do is choose one of the actions at random Search first examine different possible sequences of actions that lead to known states then choosing the best sequence 26 / 27
+
+Thank you! 27 / 27",701
