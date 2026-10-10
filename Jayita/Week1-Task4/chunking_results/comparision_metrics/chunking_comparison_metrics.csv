@@ -1,0 +1,7 @@
+Document,Method,Chunks,Mean chars,Median chars,Min chars,Max chars,Std dev chars,Tiny chunks (<100),Tiny chunks (%),Oversized chunks (>1200),Oversized chunks (%),Adjacent overlap chars (est.),Overlap / chunk chars (%),Chunk chars / source chars,Starts mid-word (%),Ends mid-word (%),Boundary-fragment chunks (%),Continuation punctuation (%),Starts with heading (%),Heading in middle (%),Heading coverage (%)
+Kaggle,Fixed-size,11,837.6,900.0,214,900,197.2,0,0.0,0,0.0,1200,13.02,1.15,81.8,90.9,100.0,0.0,9.1,90.9,
+Kaggle,Paragraph-based,11,804.3,892.0,424,899,151.9,0,0.0,0,0.0,839,9.48,1.104,63.6,63.6,90.9,0.0,0.0,0.0,
+Kaggle,Heading-based,21,380.5,324.0,18,893,306.3,7,33.3,0,0.0,2,0.03,0.998,4.8,23.8,28.6,9.5,90.5,0.0,100.0
+CLG dataset (cropped),Fixed-size,15,886.7,900.0,701,900,49.6,0,0.0,0,0.0,1680,12.63,1.147,86.7,73.3,93.3,6.7,0.0,26.7,
+CLG dataset (cropped),Paragraph-based,22,526.3,543.0,305,804,126.3,0,0.0,0,0.0,0,0.0,0.999,0.0,0.0,0.0,0.0,0.0,0.0,
+CLG dataset (cropped),Heading-based,36,317.9,379.0,18,855,258.7,13,36.1,0,0.0,0,0.0,0.987,0.0,36.1,36.1,0.0,97.2,63.9,100.0
