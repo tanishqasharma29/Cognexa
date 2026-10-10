@@ -1,0 +1,117 @@
+Assessment,Document,Chunking Method,Chunk Number,Previous Chunk,Selected Chunk,Next Chunk,Chunk Length
+Bad,Kaggle,Heading,2,Peer Review Framework for Predictive Analytics,"in Humanitarian Response
+MODEL REPORT:",Typhoon impact model,38
+Bad,Kaggle,Fixed-size,3,"
+before a typhoon hit, based on the predicted number of houses damaged in the regions of Bicol
+and Eastern Visayas. To find out more about this application, please see the Anticipatory Action
+Framework for the Philippines.
+This peer review was conducted between September 2021 and July 2022.
+2. Main Findings and Recommendations
+The documentation regarding the model, its application and the review process can be found at
+the following links:
+●
+The Model Card describes version 1.0 of the model and was completed in September
+2021.
+●
+The Model Evaluation Matrix was completed in October 2021 by a technical expert from
+Leiden University, and in February 2022 by the client.
+●
+The Implementation Plan was completed in October 2021. It summarises the concrete
+actions that the model will trigger or inform as part of the 2021-2022 OCHA anticipatory
+action framework in the Philippines
+●
+The Ethical Ma","l will trigger or inform as part of the 2021-2022 OCHA anticipatory
+action framework in the Philippines
+●
+The Ethical Matrix aims to identify all stakeholders and potential issues regarding the
+intended use of the model. It was completed in November 2021 by an expert from the
+London School of Economics; and updated in July 2022.
+A summary of the main findings and recommendations is provided below.
+2.1 Technical Review
+
+Intended Use
+●
+The target of the model is P (#damaged houses > threshold t). Several combinations of
+Probability P and threshold t are used as a trigger for early action. Make a clear
+statement under which circumstance which combination is used. This will help with later
+evaluation of the model and transparency of its use.
+Model Development
+●
+As mentioned in the ethical review, more information about the sources of the input data
+is desirable. The model should include info"," in the ethical review, more information about the sources of the input data
+is desirable. The model should include information on how often the data sets are
+updated, and how often the model is retrained to reflect these updates.
+Model Evaluation
+●
+The model is compared against a damage curve that is currently used to estimate
+damage. Adjust this benchmark to whichever model or algorithm is used by the
+Philippine authorities to estimate damage.
+●
+Specify how much variance in model performance is acceptable, i.e., with the model
+working
+on
+average
+better
+than
+the
+benchmark,
+how
+much
+extreme
+over
+/
+underestimation is acceptable for field use. More specifically, indicate how robust the
+model performance is over different typhoons.
+Operational Readiness
+●
+For every model version, make a model release and keep an updated list of associated
+input data. This will make reproducibility of earlie",900
+Bad,CLG,Heading,3,"Outline I
+1
+Definition and philosophy
+Quantify Intelligence
+Thinking Humanly
+2
+Rational Agents
+Ideal Rational Agents
+Vaccum Cleaner Agent
+3
+Nature of Environment
+Goal based Agents
+2 / 27",Artificial Intelligence,"Definition and philosophy
+How to quantify intelligence ?
+Are humans intelligent?
+replicating human behavior is an early hallmark of intelligence
+Are humans always intelligent?
+Can non-human behavior be intelligent?
+Definition
+The study of how to make computers do things at which, at the
+moment, people are better
+The branch of computer science that is concerned with the
+automation of intelligent behavior
+Objectives
+Systems that think like humans/rationally
+Systems that act like humans /rationally
+3 / 27",23
+Good,Kaggle,Paragraph,11,"rtance / weightage of the variables in the model is unclear. ● Recommendation: The model requires clear documentation of the different datasets used, particularly the rationale behind parameters used and their disaggregation, e.g., poverty index. Discrepancies on this front exist between the model card and implementation plan, and the model would benefit from their harmonisation. It would also be useful to include these in an overview of the model development process, i.e., the relative weighting and importance of these variables, and how the model changes when they change.","Lack of Transparency The model is open source and has undergone technical review but is missing some documentation. ● Recommendation: The model would benefit from better documentation of the modelling process, rationale for the algorithm selection, its fitness for purpose, inclusion/ exclusion criteria for variables, etc. Systemic Bias Systemic bias is the inherent tendency of a process to support specific outcomes. In this mode, social vulnerability and poverty data are not substantially disaggregated. The move from 'common dataset' to 'composite dataset' involved ranking of variables. ● Recommendation: Clarity, rationale and disaggregation of parameters like social vulnerability and poverty would be beneficial. Clarity required in relative weights of variables when ranking.",,786
+Good,CLG,Heading,22,Intelligent Agents,"Nature of Environment
+Medical Diagnosis System
+Performance : Detection accuracy, patients current health
+Environment : condition of hospital, staff, patient
+Actuator : Diagnosis system, tests, discussions
+Sensors : entry of symptoms, patient’s verbal answers
+Might work in completely artificial environments, ’learn’ and ’adapt’
+18 / 27",Intelligent Agents,336
+Good,CLG,Fixed-size,6,"o nothing if the current square is dirty, then clean; otherwise, move to the other square 9 / 27
+
+Artificial Intelligence Percept Sequence 10 / 27
+
+Artificial Intelligence Ideal Rational Agent A rational agent is one that does the right thing This is better than doing the wrong thing, implication ? the right action is the one that will cause the agent to be most successful decide how and when to evaluate the agent’s success. performance measure the criteria that determine how successful an agent is considering the consequences of the agent’s behavior generates a sequence of actions according to the percepts it receives this sequence of actions impacts the environment which undergoes a sequence of states Is this desirable? can be measured by performance measure 11 / 27
+
+Artificial Intelligence Ideal Rational Agent : Performance Measure Consider an agent which is vacuum a dirty floor how a","Artificial Intelligence Ideal Rational Agent : Performance Measure Consider an agent which is vacuum a dirty floor how about the amount of dirt cleaned up in a single eight-hour shift how about the amount of electricity consumed and the amount of noise generated how about the cleans the floor quietly and efficiently finds time to go windsurfing at the weekend. clean floor is based on average cleanliness over time average cleanliness is better when? one of which does a mediocre job all the time other cleans energetically but takes long breaks 12 / 27
+
+Artificial Intelligence Ideal Rational Agent When to evaluate measured how much dirt the agent had cleaned up in the first hour of the day punishing those that work consistently The performance measure that defines degree of success Everything that the agent has perceived so far The percept sequence What the agent knows about the environment","f success Everything that the agent has perceived so far The percept sequence What the agent knows about the environment The actions that the agent can perform For each possible percept sequence, an ideal rational agent should do whatever action is expected to maximize its performance measure, on the basis of the evidence provided by the percept sequence and whatever built-in knowledge the agent has 13 / 27
+
+Artificial Intelligence Vaccum Cleaner Agent Objective cleans a square if it is dirty and moves to the other square if not Is this a rational agent? what is the performance measure ? awards one point for each clean square at each time step, over a lifetime of 1000 time steps geography of the environment is known a priori dirt distribution and the initial location of the agent are not allowed actions are left, right and do nothing 14 / 27
+
+Artificial Intelligence Vaccum Cleaner Agent ",900
