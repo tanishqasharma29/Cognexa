@@ -4,6 +4,7 @@
 - [x] **Task 2** — Aastha (2024 IMG-001)
 - [x] **Task 3** — Tanishqa Sharma (2024 IMG -048)
 - [x] **Task 4** — Jayita Yadav (2024 IMT -031)
-- [x] **Task 5** — Sanchi Gokhale (2024 IMT -0)
+- [x] **Task 5** — Sanchi Gokhale (2024 IMT -027)
+      
 
 # Week 2
