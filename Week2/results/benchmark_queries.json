@@ -1,0 +1,62 @@
+[
+  {
+    "id": "q1",
+    "query": "What is retrieval-augmented generation?",
+    "expected_chunks": ["d1_p1_c1", "d1_p2_c1"],
+    "answerable": true
+  },
+  {
+    "id": "q2",
+    "query": "What are the two types of memory combined in RAG?",
+    "expected_chunks": ["d1_p1_c1", "d1_p2_c1"],
+    "answerable": true
+  },
+  {
+    "id": "q3",
+    "query": "What is the Transformer architecture based on?",
+    "expected_chunks": ["d2_p1_c1", "d2_p2_c1"],
+    "answerable": true
+  },
+  {
+    "id": "q4",
+    "query": "What is self-attention in the Transformer?",
+    "expected_chunks": ["d2_p1_c1", "d2_p2_c1"],
+    "answerable": true
+  },
+  {
+    "id": "q5",
+    "query": "Why does the Transformer allow more parallelization than recurrent models?",
+    "expected_chunks": ["d2_p2_c1"],
+    "answerable": true
+  },
+  {
+    "id": "q6",
+    "query": "What is hashing used for?",
+    "expected_chunks": ["d3_p1_c1"],
+    "answerable": true
+  },
+  {
+    "id": "q7",
+    "query": "What is a collision in hashing?",
+    "expected_chunks": ["d3_p1_c1", "d3_p2_c1"],
+    "answerable": true
+  },
+  {
+    "id": "q8",
+    "query": "How does chaining handle hash table collisions?",
+    "expected_chunks": ["d3_p2_c1"],
+    "answerable": true
+  },
+  {
+    "id": "q9",
+    "query": "What is Maximum Inner Product Search used for in RAG?",
+    "expected_chunks": ["d1_p2_c1"],
+    "answerable": true
+  },
+  {
+    "id": "q10",
+    "query": "What is the capital of France?",
+    "expected_chunks": [],
+    "answerable": false
+  }
+]

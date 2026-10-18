@@ -1,0 +1,185 @@
+{
+  "questions": [
+    {
+      "question": "What model uses the same retrieved document to predict each target token across the complete sequence?",
+      "answer": "The RAG-Sequence model.",
+      "supporting_excerpt": "In one approach, RAG-Sequence, the model uses the same document to predict each target token.",
+      "source_file": "d1.pdf",
+      "page": 3,
+      "chunk_id": "d1_p3_c1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How does RAG-Token differ from RAG-Sequence in terms of latent document selection?",
+      "answer": "RAG-Token can draw a different latent document for each target token and marginalize accordingly, whereas RAG-Sequence uses the same retrieved document for the complete sequence.",
+      "supporting_excerpt": "In the RAG-Token model we can draw a different latent document for each target token and marginalize accordingly. This allows the generator to choose content from several documents when producing an answer.",
+      "source_file": "d1.pdf",
+      "page": 3,
+      "chunk_id": "d1_p3_c1",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Under what condition are RAG-Sequence and RAG-Token equivalent?",
+      "answer": "They are equivalent for sequence classification tasks by considering the target class as a target sequence of length one.",
+      "supporting_excerpt": "Finally, we note that RAG can be used for sequence classiﬁcation tasks by considering the target class as a target sequence of length one, in which case RAG-Sequence and RAG-Token are equivalent.",
+      "source_file": "d1.pdf",
+      "page": 3,
+      "chunk_id": "d1_p3_c1",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What architecture does the DPR retriever component follow in RAG?",
+      "answer": "A bi-encoder architecture.",
+      "supporting_excerpt": "The retrieval component pη(z|x) is based on DPR [26]. DPR follows a bi-encoder architecture: pη(z|x) ∝exp d(z)⊤q(x)",
+      "source_file": "d1.pdf",
+      "page": 3,
+      "chunk_id": "d1_p3_c1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What specific model is used for the generator component in RAG, and how many parameters does it have?",
+      "answer": "BART-large, with 400M parameters.",
+      "supporting_excerpt": "We use BART-large [32], a pre-trained seq2seq transformer [58] with 400M parameters.",
+      "source_file": "d1.pdf",
+      "page": 3,
+      "chunk_id": "d1_p3_c1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How is the input x combined with the retrieved content z when generating text using BART in RAG?",
+      "answer": "They are simply concatenated.",
+      "supporting_excerpt": "To combine the input x with the retrieved content z when generating from BART, we simply concatenate them.",
+      "source_file": "d1.pdf",
+      "page": 3,
+      "chunk_id": "d1_p3_c1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "In RAG, what term is used to refer to the document index versus the BART generator parameters θ?",
+      "answer": "The document index is referred to as non-parametric memory, and the BART generator parameters θ are referred to as parametric memory.",
+      "supporting_excerpt": "We refer to the document index as the non-parametric memory. 2.3 Generator: BART ... We refer to the BART generator parameters θ as the parametric memory henceforth.",
+      "source_file": "d1.pdf",
+      "page": 3,
+      "chunk_id": "d1_p3_c1",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How many identical layers make up the Transformer encoder stack?",
+      "answer": "6 identical layers (N = 6).",
+      "supporting_excerpt": "Encoder: The encoder is composed of a stack of N = 6 identical layers.",
+      "source_file": "d2.pdf",
+      "page": 3,
+      "chunk_id": "d2_p3_c1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What are the two sub-layers present in each layer of the Transformer encoder?",
+      "answer": "A multi-head self-attention mechanism and a simple, position-wise fully connected feed-forward network.",
+      "supporting_excerpt": "Each layer has two sub-layers. The first is a multi-head self-attention mechanism, and the second is a simple, position- wise fully connected feed-forward network.",
+      "source_file": "d2.pdf",
+      "page": 3,
+      "chunk_id": "d2_p3_c1",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the output dimension (dmodel) of all sub-layers and embedding layers in the Transformer?",
+      "answer": "512.",
+      "supporting_excerpt": "To facilitate these residual connections, all sub-layers in the model, as well as the embedding layers, produce outputs of dimension dmodel = 512.",
+      "source_file": "d2.pdf",
+      "page": 3,
+      "chunk_id": "d2_p3_c1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the third sub-layer inserted into each layer of the Transformer decoder stack?",
+      "answer": "A sub-layer that performs multi-head attention over the output of the encoder stack.",
+      "supporting_excerpt": "In addition to the two sub-layers in each encoder layer, the decoder inserts a third sub-layer, which performs multi-head attention over the output of the encoder stack.",
+      "source_file": "d2.pdf",
+      "page": 3,
+      "chunk_id": "d2_p3_c1",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why is the self-attention sub-layer modified in the Transformer decoder stack?",
+      "answer": "To prevent positions from attending to subsequent positions.",
+      "supporting_excerpt": "We also modify the self-attention sub-layer in the decoder stack to prevent positions from attending to subsequent positions.",
+      "source_file": "d2.pdf",
+      "page": 3,
+      "chunk_id": "d2_p3_c1",
+      "difficulty": "medium"
+    },
+    {
+      "question": "In the comparison model, what binary outputs can comparisons produce?",
+      "answer": "True or False.",
+      "supporting_excerpt": "Comparisons are <, ≤, >, ≥, =, =6 , outputs are binary: True or False",
+      "source_file": "d3.pdf",
+      "page": 1,
+      "chunk_id": "d3_p1_c1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "In a decision tree representation of a comparison search algorithm, what does a leaf represent?",
+      "answer": "Algorithm termination, resulting in an algorithm output.",
+      "supporting_excerpt": "A leaf represents algorithm termination, resulting in an algorithm output",
+      "source_file": "d3.pdf",
+      "page": 1,
+      "chunk_id": "d3_p1_c1",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the lower bound on the running time of any comparison sort algorithm?",
+      "answer": "Ω(log n).",
+      "supporting_excerpt": "Height ≥dlg(n + 1)e − 1 = Ω(log n), so running time of any comparison sort is Ω(log n)",
+      "source_file": "d3.pdf",
+      "page": 2,
+      "chunk_id": "d3_p2_c1",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the primary drawback of using a direct access array when the number of items n is much smaller than the universe of keys u (n ≪ u)?",
+      "answer": "It requires O(u) space, which is really bad if n ≪ u.",
+      "supporting_excerpt": "But space O(u), so really bad if n ≪ u... :(",
+      "source_file": "d3.pdf",
+      "page": 2,
+      "chunk_id": "d3_p2_c1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Why is no hash function injective when m ≪ u?",
+      "answer": "By the pigeonhole principle.",
+      "supporting_excerpt": "If m ≪ u, no hash function is injective by pigeonhole principle",
+      "source_file": "d3.pdf",
+      "page": 2,
+      "chunk_id": "d3_p2_c1",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What are the two strategies mentioned for handling collisions where h(a) = h(b)?",
+      "answer": "Storing somewhere else in the array (open addressing) or storing in another data structure supporting dynamic set interface (chaining).",
+      "supporting_excerpt": "Can’t store both items at same index, so where to store? Either: – store somewhere else in the array (open addressing) ∗ complicated analysis, but common and practical – store in another data structure supporting dynamic set interface (chaining)",
+      "source_file": "d3.pdf",
+      "page": 3,
+      "chunk_id": "d3_p3_c1",
+      "difficulty": "medium"
+    },
+    {
+      "question": "In hashing with chaining, what is the chain size if keys are roughly evenly distributed over m indices where m = Ω(n)?",
+      "answer": "O(1) (specifically, n/m = n/Ω(n) = O(1)).",
+      "supporting_excerpt": "If keys roughly evenly distributed over indices, chain size is n/m = n/Ω(n) = O(1)!",
+      "source_file": "d3.pdf",
+      "page": 3,
+      "chunk_id": "d3_p3_c1",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What mathematical formula represents the division hash function?",
+      "answer": "h(k) = (k mod m).",
+      "supporting_excerpt": "Hash Functions Division (bad): h(k) = (k mod m)",
+      "source_file": "d3.pdf",
+      "page": 3,
+      "chunk_id": "d3_p3_c1",
+      "difficulty": "easy"
+    }
+  ],
+  "insufficient_evidence": false
+}

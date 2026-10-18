@@ -1,0 +1,1432 @@
+{
+  "benchmark": {
+    "top_k": 5,
+    "rrf_k": 60,
+    "num_queries": 10
+  },
+  "queries": [
+    {
+      "query_id": "q1",
+      "query": "What is retrieval-augmented generation?",
+      "answerable": true,
+      "expected_chunks": [
+        "d1_p1_c1",
+        "d1_p2_c1"
+      ],
+      "methods": {
+        "lexical": {
+          "results": [
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 2.4620055761668707,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d1_p1_c1",
+              "score": 2.2541699583756656,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 1.5590497186707915,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p2_c1",
+              "score": 1.511592409270511,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 0.7886411920973461,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.5,
+          "unsupported_clean": null,
+          "time_seconds": 0.00024583299999925146
+        },
+        "dense": {
+          "results": [
+            {
+              "chunk_id": "d1_p1_c1",
+              "score": 0.4746755063533783,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d1_p2_c1",
+              "score": 0.384326696395874,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 0.30239588022232056,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d2_p1_c1",
+              "score": 0.21695071458816528,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 0.19752462208271027,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 1.0,
+          "unsupported_clean": null,
+          "time_seconds": 0.28114695900000086
+        },
+        "hybrid": {
+          "results": [
+            {
+              "chunk_id": "d1_p1_c1",
+              "score": 0.03252247488101534,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d1_p2_c1",
+              "score": 0.031754032258064516,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 0.031746031746031744,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 0.03076923076923077,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 0.01639344262295082,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 1.0,
+          "unsupported_clean": null,
+          "time_seconds": 7.5839999986726525e-06
+        },
+        "hybrid_reranking": {
+          "results": [
+            {
+              "chunk_id": "d1_p1_c1",
+              "score": 4.568367958068848,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d1_p2_c1",
+              "score": -0.37852269411087036,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": -7.1925950050354,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": -11.177936553955078,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": -11.320287704467773,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 1.0,
+          "unsupported_clean": null,
+          "time_seconds": 0.11052154200000075
+        }
+      }
+    },
+    {
+      "query_id": "q2",
+      "query": "What are the two types of memory combined in RAG?",
+      "answerable": true,
+      "expected_chunks": [
+        "d1_p1_c1",
+        "d1_p2_c1"
+      ],
+      "methods": {
+        "lexical": {
+          "results": [
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 5.695923704022133,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 4.614899907886794,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 4.485672737952745,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": 3.838173068227873,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d1_p2_c1",
+              "score": 3.8381499786832443,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.2,
+          "unsupported_clean": null,
+          "time_seconds": 0.00010449999999906368
+        },
+        "dense": {
+          "results": [
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 0.3287062346935272,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": 0.24153034389019012,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d1_p1_c1",
+              "score": 0.23207047581672668,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p2_c1",
+              "score": 0.1999698281288147,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d2_p1_c1",
+              "score": 0.1750776767730713,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.3333333333333333,
+          "unsupported_clean": null,
+          "time_seconds": 0.2720237919999988
+        },
+        "hybrid": {
+          "results": [
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 0.032266458495966696,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": 0.031754032258064516,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d1_p2_c1",
+              "score": 0.031009615384615385,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 0.01639344262295082,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 0.016129032258064516,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.3333333333333333,
+          "unsupported_clean": null,
+          "time_seconds": 7.082999999852291e-06
+        },
+        "hybrid_reranking": {
+          "results": [
+            {
+              "chunk_id": "d1_p2_c1",
+              "score": -1.3465864658355713,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": -3.9025344848632812,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": -8.439818382263184,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": -10.837660789489746,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": -10.880517959594727,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 1.0,
+          "unsupported_clean": null,
+          "time_seconds": 0.06349400000000038
+        }
+      }
+    },
+    {
+      "query_id": "q3",
+      "query": "What is the Transformer architecture based on?",
+      "answerable": true,
+      "expected_chunks": [
+        "d2_p1_c1",
+        "d2_p2_c1"
+      ],
+      "methods": {
+        "lexical": {
+          "results": [
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 3.6530736488845332,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": 3.6142726724250127,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 3.249828794108586,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 2.86851048370802,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d2_p1_c1",
+              "score": 2.6508302250259645,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.5,
+          "unsupported_clean": null,
+          "time_seconds": 7.412499999936983e-05
+        },
+        "dense": {
+          "results": [
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 0.45909053087234497,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d2_p1_c1",
+              "score": 0.2109963297843933,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": 0.12177431583404541,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p2_c1",
+              "score": 0.09902725368738174,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d3_p1_c1",
+              "score": 0.07711763679981232,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.5,
+          "unsupported_clean": null,
+          "time_seconds": 0.020072625000000954
+        },
+        "hybrid": {
+          "results": [
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 0.032266458495966696,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": 0.03200204813108039,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d2_p1_c1",
+              "score": 0.0315136476426799,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 0.01639344262295082,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 0.015625,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.5,
+          "unsupported_clean": null,
+          "time_seconds": 7.2089999996194365e-06
+        },
+        "hybrid_reranking": {
+          "results": [
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 3.3121767044067383,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": -0.9340670704841614,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d2_p1_c1",
+              "score": -3.4944090843200684,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": -9.686752319335938,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": -11.147451400756836,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.5,
+          "unsupported_clean": null,
+          "time_seconds": 0.06039229200000129
+        }
+      }
+    },
+    {
+      "query_id": "q4",
+      "query": "What is self-attention in the Transformer?",
+      "answerable": true,
+      "expected_chunks": [
+        "d2_p1_c1",
+        "d2_p2_c1"
+      ],
+      "methods": {
+        "lexical": {
+          "results": [
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 3.629109092234917,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 3.52898625609203,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": 3.213267810550738,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 3.134703886495761,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d2_p1_c1",
+              "score": 2.8362468755853216,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.3333333333333333,
+          "unsupported_clean": null,
+          "time_seconds": 6.899999999987472e-05
+        },
+        "dense": {
+          "results": [
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 0.5516887903213501,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d2_p1_c1",
+              "score": 0.3168181777000427,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": 0.24343635141849518,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 0.11695543676614761,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d1_p1_c1",
+              "score": 0.10495097935199738,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.5,
+          "unsupported_clean": null,
+          "time_seconds": 0.2647388330000009
+        },
+        "hybrid": {
+          "results": [
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 0.03252247488101534,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": 0.031746031746031744,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d2_p1_c1",
+              "score": 0.0315136476426799,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 0.03125,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 0.01639344262295082,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.5,
+          "unsupported_clean": null,
+          "time_seconds": 7.83399999981782e-06
+        },
+        "hybrid_reranking": {
+          "results": [
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 4.583553314208984,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d2_p1_c1",
+              "score": 0.038157254457473755,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": -4.031645774841309,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": -11.18142318725586,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": -11.380104064941406,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.5,
+          "unsupported_clean": null,
+          "time_seconds": 0.0653271670000013
+        }
+      }
+    },
+    {
+      "query_id": "q5",
+      "query": "Why does the Transformer allow more parallelization than recurrent models?",
+      "answerable": true,
+      "expected_chunks": [
+        "d2_p2_c1"
+      ],
+      "methods": {
+        "lexical": {
+          "results": [
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": 5.776287289699637,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d2_p1_c1",
+              "score": 2.628670227258783,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 1.4292378010272588,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p1_c1",
+              "score": 1.3144490637813397,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d1_p2_c1",
+              "score": 1.2948775990643733,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 1.0,
+          "unsupported_clean": null,
+          "time_seconds": 8.995900000030588e-05
+        },
+        "dense": {
+          "results": [
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 0.471953421831131,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": 0.46266090869903564,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d2_p1_c1",
+              "score": 0.4343276619911194,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 0.2433193027973175,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d1_p1_c1",
+              "score": 0.208367258310318,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.5,
+          "unsupported_clean": null,
+          "time_seconds": 0.15809525000000058
+        },
+        "hybrid": {
+          "results": [
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": 0.03252247488101534,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 0.032266458495966696,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d2_p1_c1",
+              "score": 0.03200204813108039,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p1_c1",
+              "score": 0.031009615384615385,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 0.015625,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 1.0,
+          "unsupported_clean": null,
+          "time_seconds": 7.874999999657462e-06
+        },
+        "hybrid_reranking": {
+          "results": [
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": 4.377013206481934,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d2_p1_c1",
+              "score": -1.1901416778564453,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": -2.833646297454834,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": -9.403440475463867,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d1_p1_c1",
+              "score": -10.135828018188477,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 1.0,
+          "unsupported_clean": null,
+          "time_seconds": 0.0637089580000012
+        }
+      }
+    },
+    {
+      "query_id": "q6",
+      "query": "What is hashing used for?",
+      "answerable": true,
+      "expected_chunks": [
+        "d3_p1_c1"
+      ],
+      "methods": {
+        "lexical": {
+          "results": [
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 3.4097652453662732,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 2.4967176740640973,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": 1.9523595314057833,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d3_p1_c1",
+              "score": 1.7183243965511532,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d3_p3_c1",
+              "score": 1.4177190421676675,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.25,
+          "unsupported_clean": null,
+          "time_seconds": 6.737500000042473e-05
+        },
+        "dense": {
+          "results": [
+            {
+              "chunk_id": "d3_p3_c1",
+              "score": 0.447674036026001,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d3_p1_c1",
+              "score": 0.3654364347457886,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 0.2306080162525177,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 0.14124102890491486,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 0.12115687876939774,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.5,
+          "unsupported_clean": null,
+          "time_seconds": 0.005803499999998962
+        },
+        "hybrid": {
+          "results": [
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 0.032266458495966696,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d3_p3_c1",
+              "score": 0.03177805800756621,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d3_p1_c1",
+              "score": 0.031754032258064516,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 0.0315136476426799,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": 0.015873015873015872,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.3333333333333333,
+          "unsupported_clean": null,
+          "time_seconds": 7.625000000288651e-06
+        },
+        "hybrid_reranking": {
+          "results": [
+            {
+              "chunk_id": "d3_p3_c1",
+              "score": -1.1637370586395264,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": -2.055920124053955,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d3_p1_c1",
+              "score": -3.9002187252044678,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": -8.563475608825684,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": -8.741470336914062,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.3333333333333333,
+          "unsupported_clean": null,
+          "time_seconds": 0.06111729100000041
+        }
+      }
+    },
+    {
+      "query_id": "q7",
+      "query": "What is a collision in hashing?",
+      "answerable": true,
+      "expected_chunks": [
+        "d3_p1_c1",
+        "d3_p2_c1"
+      ],
+      "methods": {
+        "lexical": {
+          "results": [
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 3.983202793220665,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 3.108554518234911,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 2.3490647174143375,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": 2.2301819258167765,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d3_p1_c1",
+              "score": 2.0903259044154177,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 1.0,
+          "unsupported_clean": null,
+          "time_seconds": 7.433299999881626e-05
+        },
+        "dense": {
+          "results": [
+            {
+              "chunk_id": "d3_p3_c1",
+              "score": 0.5516490340232849,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d3_p1_c1",
+              "score": 0.36022400856018066,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 0.2709272503852844,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 0.14542773365974426,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d1_p2_c1",
+              "score": 0.1097399890422821,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.5,
+          "unsupported_clean": null,
+          "time_seconds": 0.2822854589999988
+        },
+        "hybrid": {
+          "results": [
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 0.032266458495966696,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 0.031754032258064516,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d3_p1_c1",
+              "score": 0.0315136476426799,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d3_p3_c1",
+              "score": 0.01639344262295082,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 0.015873015873015872,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 1.0,
+          "unsupported_clean": null,
+          "time_seconds": 7.874999999657462e-06
+        },
+        "hybrid_reranking": {
+          "results": [
+            {
+              "chunk_id": "d3_p3_c1",
+              "score": 0.742530107498169,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": -7.1853413581848145,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d3_p1_c1",
+              "score": -8.162510871887207,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": -10.96938419342041,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": -11.154767036437988,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.5,
+          "unsupported_clean": null,
+          "time_seconds": 0.07184612500000043
+        }
+      }
+    },
+    {
+      "query_id": "q8",
+      "query": "How does chaining handle hash table collisions?",
+      "answerable": true,
+      "expected_chunks": [
+        "d3_p2_c1"
+      ],
+      "methods": {
+        "lexical": {
+          "results": [
+            {
+              "chunk_id": "d3_p3_c1",
+              "score": 4.530946531280574,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 4.105575543316637,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 0.0,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p2_c1",
+              "score": 0.0,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d1_p1_c1",
+              "score": 0.0,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.5,
+          "unsupported_clean": null,
+          "time_seconds": 7.370900000047698e-05
+        },
+        "dense": {
+          "results": [
+            {
+              "chunk_id": "d3_p3_c1",
+              "score": 0.5680285096168518,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d3_p1_c1",
+              "score": 0.3560326397418976,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 0.26248639822006226,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 0.12408505380153656,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d1_p2_c1",
+              "score": 0.1043560579419136,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.3333333333333333,
+          "unsupported_clean": null,
+          "time_seconds": 0.006059625000000679
+        },
+        "hybrid": {
+          "results": [
+            {
+              "chunk_id": "d3_p3_c1",
+              "score": 0.03278688524590164,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 0.03200204813108039,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 0.03149801587301587,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p2_c1",
+              "score": 0.031009615384615385,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d3_p1_c1",
+              "score": 0.016129032258064516,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.5,
+          "unsupported_clean": null,
+          "time_seconds": 5.7499999996935e-06
+        },
+        "hybrid_reranking": {
+          "results": [
+            {
+              "chunk_id": "d3_p3_c1",
+              "score": 1.7324488162994385,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": -7.542027473449707,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d3_p1_c1",
+              "score": -9.710979461669922,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": -11.055509567260742,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d1_p2_c1",
+              "score": -11.22117805480957,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.5,
+          "unsupported_clean": null,
+          "time_seconds": 0.061153666999999245
+        }
+      }
+    },
+    {
+      "query_id": "q9",
+      "query": "What is Maximum Inner Product Search used for in RAG?",
+      "answerable": true,
+      "expected_chunks": [
+        "d1_p2_c1"
+      ],
+      "methods": {
+        "lexical": {
+          "results": [
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 6.842596471308611,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d1_p2_c1",
+              "score": 4.730392594729741,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 3.9363393764666363,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": 3.4665096883597335,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d3_p1_c1",
+              "score": 2.2476844080653224,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.5,
+          "unsupported_clean": null,
+          "time_seconds": 9.16249999995955e-05
+        },
+        "dense": {
+          "results": [
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 0.2890682518482208,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d3_p1_c1",
+              "score": 0.26006555557250977,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d1_p2_c1",
+              "score": 0.25079095363616943,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 0.20549985766410828,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d1_p1_c1",
+              "score": 0.13496451079845428,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.3333333333333333,
+          "unsupported_clean": null,
+          "time_seconds": 0.00617508300000047
+        },
+        "hybrid": {
+          "results": [
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 0.032266458495966696,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 0.032018442622950824,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d1_p2_c1",
+              "score": 0.03200204813108039,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d3_p1_c1",
+              "score": 0.0315136476426799,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": 0.015625,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.3333333333333333,
+          "unsupported_clean": null,
+          "time_seconds": 7.2089999996194365e-06
+        },
+        "hybrid_reranking": {
+          "results": [
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": -6.177243232727051,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d1_p2_c1",
+              "score": -6.568141460418701,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": -10.447465896606445,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d3_p1_c1",
+              "score": -11.323784828186035,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": -11.349815368652344,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": 1,
+          "mrr": 0.5,
+          "unsupported_clean": null,
+          "time_seconds": 0.06116650000000057
+        }
+      }
+    },
+    {
+      "query_id": "q10",
+      "query": "What is the capital of France?",
+      "answerable": false,
+      "expected_chunks": [],
+      "methods": {
+        "lexical": {
+          "results": [
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 3.663744254546782,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 3.1598003200483267,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 2.5034235704214876,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": 2.3194419846885928,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d2_p1_c1",
+              "score": 2.2058419475783224,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": null,
+          "mrr": null,
+          "unsupported_clean": false,
+          "time_seconds": 7.920899999902531e-05
+        },
+        "dense": {
+          "results": [
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 0.09752269089221954,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": 0.052696239203214645,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d2_p1_c1",
+              "score": 0.023138336837291718,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 0.0047681378200650215,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d3_p3_c1",
+              "score": -0.014834590256214142,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": null,
+          "mrr": null,
+          "unsupported_clean": false,
+          "time_seconds": 0.005567166000000512
+        },
+        "hybrid": {
+          "results": [
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": 0.032266458495966696,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": 0.031754032258064516,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": 0.031754032258064516,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d2_p1_c1",
+              "score": 0.03125763125763126,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": 0.01639344262295082,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": null,
+          "mrr": null,
+          "unsupported_clean": false,
+          "time_seconds": 6.374999999891884e-06
+        },
+        "hybrid_reranking": {
+          "results": [
+            {
+              "chunk_id": "d2_p1_c1",
+              "score": -10.913911819458008,
+              "rank": 1
+            },
+            {
+              "chunk_id": "d2_p3_c1",
+              "score": -11.215402603149414,
+              "rank": 2
+            },
+            {
+              "chunk_id": "d2_p2_c1",
+              "score": -11.22739028930664,
+              "rank": 3
+            },
+            {
+              "chunk_id": "d1_p3_c1",
+              "score": -11.314302444458008,
+              "rank": 4
+            },
+            {
+              "chunk_id": "d3_p2_c1",
+              "score": -11.436943054199219,
+              "rank": 5
+            }
+          ],
+          "hit_at_5": null,
+          "mrr": null,
+          "unsupported_clean": false,
+          "time_seconds": 0.061083166999999605
+        }
+      }
+    }
+  ]
+}
