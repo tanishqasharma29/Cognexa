@@ -12,6 +12,7 @@ QUERIES_FILE = Path("results/benchmark_queries.json")
 OUTPUT_FILE = Path("results/benchmark_results.json")
 
 TOP_K = 5
+CANDIDATE_K = 10
 RRF_K = 60
 
 
@@ -51,7 +52,7 @@ def build_dense(chunks):
 def lexical_search(query, bm25, chunks):
     scores = bm25.get_scores(tokenize(query))
 
-    ranked = np.argsort(scores)[::-1][:TOP_K]
+    ranked = np.argsort(scores)[::-1][:CANDIDATE_K]
 
     return [
         {
@@ -72,7 +73,7 @@ def dense_search(query, model, embeddings, chunks):
 
     scores = embeddings @ query_embedding
 
-    ranked = np.argsort(scores)[::-1][:TOP_K]
+    ranked = np.argsort(scores)[::-1][:CANDIDATE_K]
 
     return [
         {
@@ -104,7 +105,7 @@ def hybrid_search(lexical, dense):
         scores.items(),
         key=lambda x: x[1],
         reverse=True
-    )[:TOP_K]
+    )[:CANDIDATE_K]
 
     return [
         {
@@ -137,7 +138,7 @@ def rerank(query, hybrid_results, chunks, reranker):
         zip(hybrid_results, scores),
         key=lambda x: float(x[1]),
         reverse=True
-    )[:TOP_K]
+    )[:CANDIDATE_K]
 
     return [
         {
@@ -149,28 +150,51 @@ def rerank(query, hybrid_results, chunks, reranker):
     ]
 
 
-def hit_at_k(results, expected_chunks):
-
+def hit_at_k(results, expected_chunks, k):
     if not expected_chunks:
         return None
 
     returned = {
         item["chunk_id"]
-        for item in results[:TOP_K]
+        for item in results[:k]
     }
 
-    return int(
-        bool(returned.intersection(expected_chunks))
-    )
+    return int(bool(returned.intersection(expected_chunks)))
+
+
+def recall_at_k(results, expected_chunks, k):
+    if not expected_chunks:
+        return None
+
+    returned = {
+        item["chunk_id"]
+        for item in results[:k]
+    }
+
+    relevant_found = returned.intersection(expected_chunks)
+
+    return len(relevant_found) / len(expected_chunks)
+
+
+def precision_at_k(results, expected_chunks, k):
+    if not expected_chunks:
+        return None
+
+    returned = {
+        item["chunk_id"]
+        for item in results[:k]
+    }
+
+    relevant_found = returned.intersection(expected_chunks)
+
+    return len(relevant_found) / k
 
 
 def reciprocal_rank(results, expected_chunks):
-
     if not expected_chunks:
         return None
 
     for item in results[:TOP_K]:
-
         if item["chunk_id"] in expected_chunks:
             return 1 / item["rank"]
 
@@ -296,9 +320,12 @@ def main():
         times = {
             "lexical": lexical_time,
             "dense": dense_time,
-            "hybrid": hybrid_time,
+            "hybrid": lexical_time + dense_time + hybrid_time,
             "hybrid_reranking": (
-                rerank_time
+                lexical_time
+                + dense_time
+                + hybrid_time
+                + rerank_time
             )
         }
 
@@ -308,27 +335,83 @@ def main():
 
             query_result["methods"][method] = {
                 "results": method_result,
+
                 "hit_at_5": hit_at_k(
-                    method_result,
-                    q["expected_chunks"]
-                ),
-                "mrr": reciprocal_rank(
-                    method_result,
-                    q["expected_chunks"]
-                ),
-                "unsupported_clean": unsupported_behavior(
-                    method_result,
-                    q["expected_chunks"]
-                ),
-                "time_seconds": times[method]
-            }
+                method_result,
+                q["expected_chunks"],
+                5
+            ),
+
+            "recall_at_1": recall_at_k(
+                method_result,
+                q["expected_chunks"],
+                1
+            ),
+
+            "recall_at_3": recall_at_k(
+                method_result,
+                q["expected_chunks"],
+                3
+            ),
+
+            "recall_at_5": recall_at_k(
+                method_result,
+                q["expected_chunks"],
+                5
+            ),
+
+            "precision_at_1": precision_at_k(
+                method_result,
+                q["expected_chunks"],
+                1
+            ),
+
+            "precision_at_3": precision_at_k(
+                method_result,
+                q["expected_chunks"],
+                3
+            ),
+
+            "precision_at_5": precision_at_k(
+                method_result,
+                q["expected_chunks"],
+                5
+            ),
+            "recall_at_10": recall_at_k(
+                method_result,
+                q["expected_chunks"],
+                10
+            ),
+
+            "precision_at_10": precision_at_k(
+                method_result,
+                q["expected_chunks"],
+                10
+            ),
+            
+
+            "mrr": reciprocal_rank(
+                method_result,
+                q["expected_chunks"]
+            ),
+
+            "unsupported_clean": unsupported_behavior(
+                method_result,
+                q["expected_chunks"]
+            ),
+
+            "time_seconds": times[method]
+        }
 
         results.append(query_result)
 
     output = {
         "benchmark": {
             "top_k": TOP_K,
+            "candidate_k": CANDIDATE_K,
             "rrf_k": RRF_K,
+            "reranker": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+            "embedding_model": "all-MiniLM-L6-v2",
             "num_queries": len(queries)
         },
         "queries": results

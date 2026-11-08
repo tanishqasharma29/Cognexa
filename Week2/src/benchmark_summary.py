@@ -1,67 +1,108 @@
+
 import json
+from pathlib import Path
 
-with open("results/benchmark_results.json", "r", encoding="utf-8") as f:
-    data = json.load(f)
+INPUT_FILE = Path("results/benchmark_results.json")
+OUTPUT_FILE = Path("results/benchmark_summary.json")
 
-methods = [
+METHODS = [
     "lexical",
     "dense",
     "hybrid",
     "hybrid_reranking"
 ]
 
-answerable = [
-    q for q in data["queries"]
-    if q["answerable"]
+METRICS = [
+    "hit_at_5",
+    "recall_at_1",
+    "recall_at_3",
+    "recall_at_5",
+    "precision_at_1",
+    "precision_at_3",
+    "precision_at_5",
+    "mrr"
 ]
 
-print("\nMETHOD COMPARISON")
-print("-" * 70)
-print(f"{'Method':<24}{'Hit@5':<12}{'MRR':<12}{'Avg Time (s)':<15}")
-print("-" * 70)
 
-for method in methods:
+def average(values):
+    valid = [v for v in values if v is not None]
+    return sum(valid) / len(valid) if valid else None
 
-    hits = [
-        q["methods"][method]["hit_at_5"]
-        for q in answerable
-    ]
 
-    mrrs = [
-        q["methods"][method]["mrr"]
-        for q in answerable
-    ]
+def main():
+    with open(INPUT_FILE, "r", encoding="utf-8") as f:
+        data = json.load(f)
 
-    times = [
-        q["methods"][method]["time_seconds"]
-        for q in data["queries"]
-    ]
+    queries = data["queries"]
+    answerable = [q for q in queries if q["answerable"]]
 
-    avg_hit = sum(hits) / len(hits)
-    avg_mrr = sum(mrrs) / len(mrrs)
-    avg_time = sum(times) / len(times)
+    summary = {
+        "total_queries": len(queries),
+        "answerable_queries": len(answerable),
+        "unsupported_queries": len(queries) - len(answerable),
+        "methods": {}
+    }
 
+    print("\nRECALLROOM - RETRIEVAL BENCHMARK")
+    print("=" * 105)
+    print(f"Total queries: {len(queries)}")
+    print(f"Answerable: {len(answerable)}")
+    print(f"Unsupported: {len(queries) - len(answerable)}")
+
+    for method in METHODS:
+        method_summary = {}
+
+        for metric in METRICS:
+            values = [
+                q["methods"][method][metric]
+                for q in answerable
+            ]
+            method_summary[metric] = average(values)
+
+        times = [
+            q["methods"][method]["time_seconds"]
+            for q in queries
+        ]
+
+        method_summary["avg_time_seconds"] = average(times)
+        summary["methods"][method] = method_summary
+
+    print("\nMETHOD COMPARISON")
+    print("-" * 105)
     print(
-        f"{method:<24}"
-        f"{avg_hit:<12.3f}"
-        f"{avg_mrr:<12.3f}"
-        f"{avg_time:<15.4f}"
+        f"{'Method':<22}"
+        f"{'Hit@5':>9}"
+        f"{'R@1':>9}"
+        f"{'R@3':>9}"
+        f"{'R@5':>9}"
+        f"{'P@1':>9}"
+        f"{'P@3':>9}"
+        f"{'P@5':>9}"
+        f"{'MRR':>9}"
+        f"{'Time(s)':>11}"
     )
 
-print("\nUNSUPPORTED QUERY")
-print("-" * 70)
+    for method, values in summary["methods"].items():
+        print(
+            f"{method:<22}"
+            f"{values['hit_at_5']:>9.3f}"
+            f"{values['recall_at_1']:>9.3f}"
+            f"{values['recall_at_3']:>9.3f}"
+            f"{values['recall_at_5']:>9.3f}"
+            f"{values['precision_at_1']:>9.3f}"
+            f"{values['precision_at_3']:>9.3f}"
+            f"{values['precision_at_5']:>9.3f}"
+            f"{values['mrr']:>9.3f}"
+            f"{values['avg_time_seconds']:>11.4f}"
+        )
 
-for q in data["queries"]:
+    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 
-    if not q["answerable"]:
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        json.dump(summary, f, indent=2)
 
-        print(f"Query: {q['query']}")
+    print(f"\nSummary saved to: {OUTPUT_FILE}")
 
-        for method in methods:
 
-            clean = q["methods"][method]["unsupported_clean"]
-
-            print(
-                f"  {method:<22}: "
-                f"{'No evidence returned' if clean else 'Returned candidates'}"
-            )
+if __name__ == "__main__":
+    main()

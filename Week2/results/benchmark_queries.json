@@ -59,4 +59,17 @@
     "expected_chunks": [],
     "answerable": false
   }
+  ,
+{
+  "id": "q11",
+  "query": "What is the encoder-decoder structure in Transformer models?",
+  "expected_chunks": ["d2_p3_c1"],
+  "answerable": true
+},
+{
+  "id": "q12",
+  "query": "Who won the FIFA World Cup in 2022?",
+  "expected_chunks": [],
+  "answerable": false
+}
 ]
