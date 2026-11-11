@@ -1,0 +1,477 @@
+{
+  "dataset_a_chunks": 19964,
+  "dataset_b_chunks": 22261,
+  "total_query_count": 19,
+  "common_query_count": 9,
+  "ocr_specific_query_count": 10,
+  "full_query_metrics": {
+    "bm25": {
+      "precision@1": {
+        "dataset_a": 0.3157894736842105,
+        "dataset_b": 0.5789473684210527,
+        "change": 0.26315789473684215
+      },
+      "precision@3": {
+        "dataset_a": 0.12280701754385963,
+        "dataset_b": 0.22807017543859648,
+        "change": 0.10526315789473685
+      },
+      "precision@5": {
+        "dataset_a": 0.0736842105263158,
+        "dataset_b": 0.1473684210526316,
+        "change": 0.0736842105263158
+      },
+      "precision@10": {
+        "dataset_a": 0.0368421052631579,
+        "dataset_b": 0.08421052631578947,
+        "change": 0.047368421052631574
+      },
+      "recall@1": {
+        "dataset_a": 0.3157894736842105,
+        "dataset_b": 0.5789473684210527,
+        "change": 0.26315789473684215
+      },
+      "recall@3": {
+        "dataset_a": 0.3684210526315789,
+        "dataset_b": 0.6842105263157895,
+        "change": 0.31578947368421056
+      },
+      "recall@5": {
+        "dataset_a": 0.3684210526315789,
+        "dataset_b": 0.7368421052631579,
+        "change": 0.3684210526315789
+      },
+      "recall@10": {
+        "dataset_a": 0.3684210526315789,
+        "dataset_b": 0.8421052631578947,
+        "change": 0.47368421052631576
+      },
+      "mrr": {
+        "dataset_a": 0.3333333333333333,
+        "dataset_b": 0.6444444444444444,
+        "change": 0.31111111111111106
+      },
+      "retrieval_time_seconds": {
+        "dataset_a": 0.16462490000049002,
+        "dataset_b": 0.16002715789478603,
+        "change": -0.004597742105703989
+      }
+    },
+    "dense": {
+      "precision@1": {
+        "dataset_a": 0.10526315789473684,
+        "dataset_b": 0.15789473684210525,
+        "change": 0.05263157894736842
+      },
+      "precision@3": {
+        "dataset_a": 0.08771929824561403,
+        "dataset_b": 0.15789473684210525,
+        "change": 0.07017543859649122
+      },
+      "precision@5": {
+        "dataset_a": 0.06315789473684212,
+        "dataset_b": 0.11578947368421054,
+        "change": 0.05263157894736842
+      },
+      "precision@10": {
+        "dataset_a": 0.03157894736842106,
+        "dataset_b": 0.06315789473684212,
+        "change": 0.03157894736842106
+      },
+      "recall@1": {
+        "dataset_a": 0.10526315789473684,
+        "dataset_b": 0.15789473684210525,
+        "change": 0.05263157894736842
+      },
+      "recall@3": {
+        "dataset_a": 0.2631578947368421,
+        "dataset_b": 0.47368421052631576,
+        "change": 0.21052631578947367
+      },
+      "recall@5": {
+        "dataset_a": 0.3157894736842105,
+        "dataset_b": 0.5789473684210527,
+        "change": 0.26315789473684215
+      },
+      "recall@10": {
+        "dataset_a": 0.3157894736842105,
+        "dataset_b": 0.631578947368421,
+        "change": 0.3157894736842105
+      },
+      "mrr": {
+        "dataset_a": 0.18859649122807018,
+        "dataset_b": 0.3304093567251462,
+        "change": 0.14181286549707603
+      },
+      "retrieval_time_seconds": {
+        "dataset_a": 0.032985999999962386,
+        "dataset_b": 0.03301807368418514,
+        "change": 3.207368422275536e-05
+      }
+    },
+    "hybrid": {
+      "precision@1": {
+        "dataset_a": 0.2631578947368421,
+        "dataset_b": 0.5263157894736842,
+        "change": 0.2631578947368421
+      },
+      "precision@3": {
+        "dataset_a": 0.10526315789473684,
+        "dataset_b": 0.22807017543859648,
+        "change": 0.12280701754385964
+      },
+      "precision@5": {
+        "dataset_a": 0.06315789473684212,
+        "dataset_b": 0.1368421052631579,
+        "change": 0.07368421052631578
+      },
+      "precision@10": {
+        "dataset_a": 0.042105263157894736,
+        "dataset_b": 0.08947368421052633,
+        "change": 0.047368421052631594
+      },
+      "recall@1": {
+        "dataset_a": 0.2631578947368421,
+        "dataset_b": 0.5263157894736842,
+        "change": 0.2631578947368421
+      },
+      "recall@3": {
+        "dataset_a": 0.3157894736842105,
+        "dataset_b": 0.6842105263157895,
+        "change": 0.368421052631579
+      },
+      "recall@5": {
+        "dataset_a": 0.3157894736842105,
+        "dataset_b": 0.6842105263157895,
+        "change": 0.368421052631579
+      },
+      "recall@10": {
+        "dataset_a": 0.42105263157894735,
+        "dataset_b": 0.8947368421052632,
+        "change": 0.4736842105263158
+      },
+      "mrr": {
+        "dataset_a": 0.3026315789473684,
+        "dataset_b": 0.6054720133667502,
+        "change": 0.30284043441938174
+      },
+      "retrieval_time_seconds": {
+        "dataset_a": 0.19768117777857697,
+        "dataset_b": 0.19311703157865467,
+        "change": -0.004564146199922292
+      }
+    },
+    "hybrid_reranking": {
+      "precision@1": {
+        "dataset_a": 0.3157894736842105,
+        "dataset_b": 0.7368421052631579,
+        "change": 0.42105263157894735
+      },
+      "precision@3": {
+        "dataset_a": 0.14035087719298245,
+        "dataset_b": 0.2982456140350877,
+        "change": 0.15789473684210525
+      },
+      "precision@5": {
+        "dataset_a": 0.08421052631578947,
+        "dataset_b": 0.17894736842105266,
+        "change": 0.09473684210526319
+      },
+      "precision@10": {
+        "dataset_a": 0.042105263157894736,
+        "dataset_b": 0.08947368421052633,
+        "change": 0.047368421052631594
+      },
+      "recall@1": {
+        "dataset_a": 0.3157894736842105,
+        "dataset_b": 0.7368421052631579,
+        "change": 0.42105263157894735
+      },
+      "recall@3": {
+        "dataset_a": 0.42105263157894735,
+        "dataset_b": 0.8947368421052632,
+        "change": 0.4736842105263158
+      },
+      "recall@5": {
+        "dataset_a": 0.42105263157894735,
+        "dataset_b": 0.8947368421052632,
+        "change": 0.4736842105263158
+      },
+      "recall@10": {
+        "dataset_a": 0.42105263157894735,
+        "dataset_b": 0.8947368421052632,
+        "change": 0.4736842105263158
+      },
+      "mrr": {
+        "dataset_a": 0.35964912280701755,
+        "dataset_b": 0.8070175438596492,
+        "change": 0.44736842105263164
+      },
+      "retrieval_time_seconds": {
+        "dataset_a": 1.1639413222219446,
+        "dataset_b": 1.2564103894730674,
+        "change": 0.0924690672511228
+      }
+    }
+  },
+  "common_query_metrics": {
+    "bm25": {
+      "precision@1": {
+        "dataset_a": 0.6666666666666666,
+        "dataset_b": 0.6666666666666666,
+        "change": 0.0
+      },
+      "precision@3": {
+        "dataset_a": 0.25925925925925924,
+        "dataset_b": 0.25925925925925924,
+        "change": 0.0
+      },
+      "precision@5": {
+        "dataset_a": 0.15555555555555556,
+        "dataset_b": 0.15555555555555556,
+        "change": 0.0
+      },
+      "precision@10": {
+        "dataset_a": 0.07777777777777778,
+        "dataset_b": 0.07777777777777778,
+        "change": 0.0
+      },
+      "recall@1": {
+        "dataset_a": 0.6666666666666666,
+        "dataset_b": 0.6666666666666666,
+        "change": 0.0
+      },
+      "recall@3": {
+        "dataset_a": 0.7777777777777778,
+        "dataset_b": 0.7777777777777778,
+        "change": 0.0
+      },
+      "recall@5": {
+        "dataset_a": 0.7777777777777778,
+        "dataset_b": 0.7777777777777778,
+        "change": 0.0
+      },
+      "recall@10": {
+        "dataset_a": 0.7777777777777778,
+        "dataset_b": 0.7777777777777778,
+        "change": 0.0
+      },
+      "mrr": {
+        "dataset_a": 0.7037037037037037,
+        "dataset_b": 0.7037037037037037,
+        "change": 0.0
+      },
+      "retrieval_time_seconds": {
+        "dataset_a": 0.16462490000049002,
+        "dataset_b": 0.1617151222219238,
+        "change": -0.0029097777785662138
+      }
+    },
+    "dense": {
+      "precision@1": {
+        "dataset_a": 0.2222222222222222,
+        "dataset_b": 0.2222222222222222,
+        "change": 0.0
+      },
+      "precision@3": {
+        "dataset_a": 0.18518518518518517,
+        "dataset_b": 0.18518518518518517,
+        "change": 0.0
+      },
+      "precision@5": {
+        "dataset_a": 0.13333333333333336,
+        "dataset_b": 0.13333333333333336,
+        "change": 0.0
+      },
+      "precision@10": {
+        "dataset_a": 0.06666666666666668,
+        "dataset_b": 0.06666666666666668,
+        "change": 0.0
+      },
+      "recall@1": {
+        "dataset_a": 0.2222222222222222,
+        "dataset_b": 0.2222222222222222,
+        "change": 0.0
+      },
+      "recall@3": {
+        "dataset_a": 0.5555555555555556,
+        "dataset_b": 0.5555555555555556,
+        "change": 0.0
+      },
+      "recall@5": {
+        "dataset_a": 0.6666666666666666,
+        "dataset_b": 0.6666666666666666,
+        "change": 0.0
+      },
+      "recall@10": {
+        "dataset_a": 0.6666666666666666,
+        "dataset_b": 0.6666666666666666,
+        "change": 0.0
+      },
+      "mrr": {
+        "dataset_a": 0.39814814814814814,
+        "dataset_b": 0.39814814814814814,
+        "change": 0.0
+      },
+      "retrieval_time_seconds": {
+        "dataset_a": 0.032985999999962386,
+        "dataset_b": 0.0333908999996816,
+        "change": 0.00040489999971921736
+      }
+    },
+    "hybrid": {
+      "precision@1": {
+        "dataset_a": 0.5555555555555556,
+        "dataset_b": 0.5555555555555556,
+        "change": 0.0
+      },
+      "precision@3": {
+        "dataset_a": 0.2222222222222222,
+        "dataset_b": 0.2222222222222222,
+        "change": 0.0
+      },
+      "precision@5": {
+        "dataset_a": 0.13333333333333336,
+        "dataset_b": 0.13333333333333336,
+        "change": 0.0
+      },
+      "precision@10": {
+        "dataset_a": 0.08888888888888889,
+        "dataset_b": 0.08888888888888889,
+        "change": 0.0
+      },
+      "recall@1": {
+        "dataset_a": 0.5555555555555556,
+        "dataset_b": 0.5555555555555556,
+        "change": 0.0
+      },
+      "recall@3": {
+        "dataset_a": 0.6666666666666666,
+        "dataset_b": 0.6666666666666666,
+        "change": 0.0
+      },
+      "recall@5": {
+        "dataset_a": 0.6666666666666666,
+        "dataset_b": 0.6666666666666666,
+        "change": 0.0
+      },
+      "recall@10": {
+        "dataset_a": 0.8888888888888888,
+        "dataset_b": 0.8888888888888888,
+        "change": 0.0
+      },
+      "mrr": {
+        "dataset_a": 0.6388888888888888,
+        "dataset_b": 0.6203703703703703,
+        "change": -0.01851851851851849
+      },
+      "retrieval_time_seconds": {
+        "dataset_a": 0.19768117777857697,
+        "dataset_b": 0.19518455555468486,
+        "change": -0.002496622223892103
+      }
+    },
+    "hybrid_reranking": {
+      "precision@1": {
+        "dataset_a": 0.6666666666666666,
+        "dataset_b": 0.6666666666666666,
+        "change": 0.0
+      },
+      "precision@3": {
+        "dataset_a": 0.2962962962962963,
+        "dataset_b": 0.2962962962962963,
+        "change": 0.0
+      },
+      "precision@5": {
+        "dataset_a": 0.17777777777777778,
+        "dataset_b": 0.17777777777777778,
+        "change": 0.0
+      },
+      "precision@10": {
+        "dataset_a": 0.08888888888888889,
+        "dataset_b": 0.08888888888888889,
+        "change": 0.0
+      },
+      "recall@1": {
+        "dataset_a": 0.6666666666666666,
+        "dataset_b": 0.6666666666666666,
+        "change": 0.0
+      },
+      "recall@3": {
+        "dataset_a": 0.8888888888888888,
+        "dataset_b": 0.8888888888888888,
+        "change": 0.0
+      },
+      "recall@5": {
+        "dataset_a": 0.8888888888888888,
+        "dataset_b": 0.8888888888888888,
+        "change": 0.0
+      },
+      "recall@10": {
+        "dataset_a": 0.8888888888888888,
+        "dataset_b": 0.8888888888888888,
+        "change": 0.0
+      },
+      "mrr": {
+        "dataset_a": 0.7592592592592592,
+        "dataset_b": 0.7592592592592592,
+        "change": 0.0
+      },
+      "retrieval_time_seconds": {
+        "dataset_a": 1.1639413222219446,
+        "dataset_b": 1.1480585444434028,
+        "change": -0.015882777778541746
+      }
+    }
+  },
+  "ocr_specific_metrics": {
+    "bm25": {
+      "precision@1": 0.5,
+      "precision@3": 0.2,
+      "precision@5": 0.14,
+      "precision@10": 0.09,
+      "recall@1": 0.5,
+      "recall@3": 0.6,
+      "recall@5": 0.7,
+      "recall@10": 0.9,
+      "mrr": 0.5911111111111111,
+      "retrieval_time_seconds": 0.15850799000036203
+    },
+    "dense": {
+      "precision@1": 0.1,
+      "precision@3": 0.13333333333333333,
+      "precision@5": 0.1,
+      "precision@10": 0.06000000000000001,
+      "recall@1": 0.1,
+      "recall@3": 0.4,
+      "recall@5": 0.5,
+      "recall@10": 0.6,
+      "mrr": 0.2694444444444445,
+      "retrieval_time_seconds": 0.03268253000023833
+    },
+    "hybrid": {
+      "precision@1": 0.5,
+      "precision@3": 0.2333333333333333,
+      "precision@5": 0.14,
+      "precision@10": 0.09,
+      "recall@1": 0.5,
+      "recall@3": 0.7,
+      "recall@5": 0.7,
+      "recall@10": 0.9,
+      "mrr": 0.5920634920634921,
+      "retrieval_time_seconds": 0.1912562600002275
+    },
+    "hybrid_reranking": {
+      "precision@1": 0.8,
+      "precision@3": 0.3,
+      "precision@5": 0.18,
+      "precision@10": 0.09,
+      "recall@1": 0.8,
+      "recall@3": 0.9,
+      "recall@5": 0.9,
+      "recall@10": 0.9,
+      "mrr": 0.85,
+      "retrieval_time_seconds": 1.3539270499997655
+    }
+  }
+}

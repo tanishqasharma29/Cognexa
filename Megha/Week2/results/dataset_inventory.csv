@@ -1,0 +1,1268 @@
+document_id,source_file,source_path,total_pages,selectable_pages,scanned_pages,ocr_success_pages,status
+doc_00001,2.1 Lexical AnalyserPresentation1-67-89.pdf,data\raw\college\2.1 Lexical AnalyserPresentation1-67-89.pdf,23,22,1,1,success
+doc_00002,3. Introduction to Parsing Compilers-1-23.pdf,data\raw\college\3. Introduction to Parsing Compilers-1-23.pdf,23,22,1,1,success
+doc_00003,3. Introduction to Parsing Compilers-1-46.pdf,data\raw\college\3. Introduction to Parsing Compilers-1-46.pdf,46,44,2,2,success
+doc_00004,3. Introduction to Parsing Compilers-47-71.pdf,data\raw\college\3. Introduction to Parsing Compilers-47-71.pdf,25,23,2,2,success
+doc_00005,4. top down Compiler-1-18.pdf,data\raw\college\4. top down Compiler-1-18.pdf,18,16,2,2,success
+doc_00006,4. top down Compiler-1-43.pdf,data\raw\college\4. top down Compiler-1-43.pdf,43,38,5,5,success
+doc_00007,5. 3 Operator Precedence Parsing.pdf,data\raw\college\5. 3 Operator Precedence Parsing.pdf,12,11,1,1,success
+doc_00008,5. Bottom Up Parser Compiler Design-1-47.pdf,data\raw\college\5. Bottom Up Parser Compiler Design-1-47.pdf,47,35,12,12,success
+doc_00009,5. Bottom Up Parser Compiler Design-47-58.pdf,data\raw\college\5. Bottom Up Parser Compiler Design-47-58.pdf,12,12,0,0,success
+doc_00010,5. Bottom Up Parser Compiler Design-58-86 (1).pdf,data\raw\college\5. Bottom Up Parser Compiler Design-58-86 (1).pdf,29,27,2,2,success
+doc_00011,5. Bottom Up Parser Compiler Design-58-86.pdf,data\raw\college\5. Bottom Up Parser Compiler Design-58-86.pdf,29,27,2,2,success
+doc_00012,5.1 BTP Parser SLR-1-8.pdf,data\raw\college\5.1 BTP Parser SLR-1-8.pdf,8,7,1,1,success
+doc_00013,5.1 BTP Parser SLR.pdf,data\raw\college\5.1 BTP Parser SLR.pdf,42,22,20,20,success
+doc_00014,5.2 LR (1) Compiler Design-1-19.pdf,data\raw\college\5.2 LR (1) Compiler Design-1-19.pdf,19,18,1,1,success
+doc_00015,AC_circuits.pdf,data\raw\college\AC_circuits.pdf,2,1,1,1,success
+doc_00016,ADE UNIT-I.pdf,data\raw\college\ADE UNIT-I.pdf,39,39,0,0,success
+doc_00017,ADE UNIT-II.pdf,data\raw\college\ADE UNIT-II.pdf,34,34,0,0,success
+doc_00018,ADE UNIT-III.pdf,data\raw\college\ADE UNIT-III.pdf,49,48,1,1,success
+doc_00019,ADE UNIT-IV.pdf,data\raw\college\ADE UNIT-IV.pdf,46,40,6,6,success
+doc_00020,ADE UNIT-V.pdf,data\raw\college\ADE UNIT-V.pdf,42,41,1,1,success
+doc_00021,AI_Agents2026.pdf,data\raw\college\AI_Agents2026.pdf,27,27,0,0,success
+doc_00022,AI_L1_2026.pdf,data\raw\college\AI_L1_2026.pdf,24,24,0,0,success
+doc_00023,AP UNIT-I.pdf,data\raw\college\AP UNIT-I.pdf,35,35,0,0,success
+doc_00024,AP UNIT-II.pdf,data\raw\college\AP UNIT-II.pdf,43,40,3,1,success
+doc_00025,AP UNIT-III.pdf,data\raw\college\AP UNIT-III.pdf,14,13,1,0,success
+doc_00026,AP UNIT-IV.pdf,data\raw\college\AP UNIT-IV.pdf,29,29,0,0,success
+doc_00027,AP UNIT-V.pdf,data\raw\college\AP UNIT-V.pdf,20,20,0,0,success
+doc_00028,BEE UNIT-I.pdf,data\raw\college\BEE UNIT-I.pdf,45,44,1,1,success
+doc_00029,BEE UNIT-II.pdf,data\raw\college\BEE UNIT-II.pdf,18,18,0,0,success
+doc_00030,BEE UNIT-III.pdf,data\raw\college\BEE UNIT-III.pdf,28,27,1,1,success
+doc_00031,BEE UNIT-IV.pdf,data\raw\college\BEE UNIT-IV.pdf,18,18,0,0,success
+doc_00032,BEE UNIT-V.pdf,data\raw\college\BEE UNIT-V.pdf,17,17,0,0,success
+doc_00033,BEFA UNIT-I.pdf,data\raw\college\BEFA UNIT-I.pdf,41,41,0,0,success
+doc_00034,BEFA UNIT-II.pdf,data\raw\college\BEFA UNIT-II.pdf,24,24,0,0,success
+doc_00035,BEFA UNIT-III.pdf,data\raw\college\BEFA UNIT-III.pdf,60,60,0,0,success
+doc_00036,BEFA UNIT-IV.pdf,data\raw\college\BEFA UNIT-IV.pdf,70,69,1,0,success
+doc_00037,BEFA UNIY-V.pdf,data\raw\college\BEFA UNIY-V.pdf,11,11,0,0,success
+doc_00038,c++ 10(1).pdf,data\raw\college\c++ 10(1).pdf,11,11,0,0,success
+doc_00039,c++ 10.pdf,data\raw\college\c++ 10.pdf,11,11,0,0,success
+doc_00040,c++ 2(1).pdf,data\raw\college\c++ 2(1).pdf,66,66,0,0,success
+doc_00041,c++ 2.pdf,data\raw\college\c++ 2.pdf,66,66,0,0,success
+doc_00042,c++ 4(1).pdf,data\raw\college\c++ 4(1).pdf,6,6,0,0,success
+doc_00043,c++ 4.pdf,data\raw\college\c++ 4.pdf,6,6,0,0,success
+doc_00044,c++ 5(1).pdf,data\raw\college\c++ 5(1).pdf,7,7,0,0,success
+doc_00045,c++ 5.pdf,data\raw\college\c++ 5.pdf,7,7,0,0,success
+doc_00046,c++ 6(1).pdf,data\raw\college\c++ 6(1).pdf,66,66,0,0,success
+doc_00047,c++ 6.pdf,data\raw\college\c++ 6.pdf,66,66,0,0,success
+doc_00048,c++ 8(1).pdf,data\raw\college\c++ 8(1).pdf,77,77,0,0,success
+doc_00049,c++ 8.pdf,data\raw\college\c++ 8.pdf,77,77,0,0,success
+doc_00050,c++ 9(1).pdf,data\raw\college\c++ 9(1).pdf,7,7,0,0,success
+doc_00051,c++ 9.pdf,data\raw\college\c++ 9.pdf,7,7,0,0,success
+doc_00052,c++(1)(1).pdf,data\raw\college\c++(1)(1).pdf,9,9,0,0,success
+doc_00053,c++(1)(2).pdf,data\raw\college\c++(1)(2).pdf,9,9,0,0,success
+doc_00054,c++(1).pdf,data\raw\college\c++(1).pdf,9,9,0,0,success
+doc_00055,c++.pdf,data\raw\college\c++.pdf,9,9,0,0,success
+doc_00056,c++7(1).pdf,data\raw\college\c++7(1).pdf,8,8,0,0,success
+doc_00057,c++7.pdf,data\raw\college\c++7.pdf,8,8,0,0,success
+doc_00058,CC LAQS.pdf,data\raw\college\CC LAQS.pdf,36,36,0,0,success
+doc_00059,CD LAQS.pdf,data\raw\college\CD LAQS.pdf,29,29,0,0,success
+doc_00060,CD UNIT-I.pdf,data\raw\college\CD UNIT-I.pdf,21,21,0,0,success
+doc_00061,CD UNIT-II.pdf,data\raw\college\CD UNIT-II.pdf,56,56,0,0,success
+doc_00062,CD UNIT-III.pdf,data\raw\college\CD UNIT-III.pdf,20,20,0,0,success
+doc_00063,CD UNIT-IV.pdf,data\raw\college\CD UNIT-IV.pdf,15,15,0,0,success
+doc_00064,CD UNIT-V.pdf,data\raw\college\CD UNIT-V.pdf,14,14,0,0,success
+doc_00065,CD VSAQS.pdf,data\raw\college\CD VSAQS.pdf,8,8,0,0,success
+doc_00066,CHEM UNIT-I.pdf,data\raw\college\CHEM UNIT-I.pdf,31,31,0,0,success
+doc_00067,CHEM UNIT-II.pdf,data\raw\college\CHEM UNIT-II.pdf,18,18,0,0,success
+doc_00068,CHEM UNIT-III.pdf,data\raw\college\CHEM UNIT-III.pdf,29,29,0,0,success
+doc_00069,CHEM UNIT-IV.pdf,data\raw\college\CHEM UNIT-IV.pdf,28,28,0,0,success
+doc_00070,CHEM UNIT-V.pdf,data\raw\college\CHEM UNIT-V.pdf,23,23,0,0,success
+doc_00071,CN UNIT-I.pdf,data\raw\college\CN UNIT-I.pdf,51,48,3,3,success
+doc_00072,CN UNIT-II.pdf,data\raw\college\CN UNIT-II.pdf,40,37,3,2,success
+doc_00073,CN UNIT-III.pdf,data\raw\college\CN UNIT-III.pdf,32,31,1,1,success
+doc_00074,CN UNIT-IV.pdf,data\raw\college\CN UNIT-IV.pdf,24,24,0,0,success
+doc_00075,CN UNIT-V.pdf,data\raw\college\CN UNIT-V.pdf,47,41,6,6,success
+doc_00076,CNS CW ..pdf,data\raw\college\CNS CW ..pdf,151,48,103,102,success
+doc_00077,CNS LAQS.pdf,data\raw\college\CNS LAQS.pdf,45,45,0,0,success
+doc_00078,CNS REV.pdf,data\raw\college\CNS REV.pdf,63,0,63,63,success
+doc_00079,CNS VSAQS.pdf,data\raw\college\CNS VSAQS.pdf,25,25,0,0,success
+doc_00080,COA UNIT-1.pdf,data\raw\college\COA UNIT-1.pdf,50,50,0,0,success
+doc_00081,COA UNIT-2.pdf,data\raw\college\COA UNIT-2.pdf,32,32,0,0,success
+doc_00082,COA UNIT-3.pdf,data\raw\college\COA UNIT-3.pdf,42,42,0,0,success
+doc_00083,COA UNIT-4.pdf,data\raw\college\COA UNIT-4.pdf,38,38,0,0,success
+doc_00084,COA UNIT-5.pdf,data\raw\college\COA UNIT-5.pdf,40,40,0,0,success
+doc_00085,COSM UNIT-I.pdf,data\raw\college\COSM UNIT-I.pdf,54,0,54,54,success
+doc_00086,COSM UNIT-II.pdf,data\raw\college\COSM UNIT-II.pdf,42,0,42,42,success
+doc_00087,COSM UNIT-III.pdf,data\raw\college\COSM UNIT-III.pdf,36,0,36,36,success
+doc_00088,COSM UNIT-IV.pdf,data\raw\college\COSM UNIT-IV.pdf,48,0,48,48,success
+doc_00089,COSM UNIT-V.pdf,data\raw\college\COSM UNIT-V.pdf,22,0,22,22,success
+doc_00090,CPP UNIT-I.pdf,data\raw\college\CPP UNIT-I.pdf,43,43,0,0,success
+doc_00091,CPP UNIT-II.pdf,data\raw\college\CPP UNIT-II.pdf,31,31,0,0,success
+doc_00092,CPP UNIT-III.pdf,data\raw\college\CPP UNIT-III.pdf,40,40,0,0,success
+doc_00093,CPP UNIT-IV.pdf,data\raw\college\CPP UNIT-IV.pdf,21,21,0,0,success
+doc_00094,CPP UNIT-V.pdf,data\raw\college\CPP UNIT-V.pdf,23,23,0,0,success
+doc_00095,DAA UNIT-I.pdf,data\raw\college\DAA UNIT-I.pdf,36,36,0,0,success
+doc_00096,DAA UNIT-II.pdf,data\raw\college\DAA UNIT-II.pdf,21,21,0,0,success
+doc_00097,DAA UNIT-III.pdf,data\raw\college\DAA UNIT-III.pdf,29,29,0,0,success
+doc_00098,DAA UNIT-IV.pdf,data\raw\college\DAA UNIT-IV.pdf,13,13,0,0,success
+doc_00099,DAA UNIT-V.pdf,data\raw\college\DAA UNIT-V.pdf,22,22,0,0,success
+doc_00100,DBMS mix.pdf,data\raw\college\DBMS mix.pdf,248,220,28,24,success
+doc_00101,DBMS UNIT-I.pdf,data\raw\college\DBMS UNIT-I.pdf,32,31,1,1,success
+doc_00102,DBMS UNIT-II.pdf,data\raw\college\DBMS UNIT-II.pdf,16,16,0,0,success
+doc_00103,DBMS UNIT-III.pdf,data\raw\college\DBMS UNIT-III.pdf,35,35,0,0,success
+doc_00104,DBMS UNIT-IV.pdf,data\raw\college\DBMS UNIT-IV.pdf,9,9,0,0,success
+doc_00105,DBMS UNIT-V.pdf,data\raw\college\DBMS UNIT-V.pdf,27,27,0,0,success
+doc_00106,DM LAQS.pdf,data\raw\college\DM LAQS.pdf,14,14,0,0,success
+doc_00107,DPPM UNIT - I.pdf,data\raw\college\DPPM UNIT - I.pdf,16,16,0,0,success
+doc_00108,DPPM UNIT - II.pdf,data\raw\college\DPPM UNIT - II.pdf,6,6,0,0,success
+doc_00109,DPPM UNIT - III.pdf,data\raw\college\DPPM UNIT - III.pdf,18,18,0,0,success
+doc_00110,DPPM UNIT - IV.pdf,data\raw\college\DPPM UNIT - IV.pdf,10,9,1,1,success
+doc_00111,DPPM UNIT - V.pdf,data\raw\college\DPPM UNIT - V.pdf,4,4,0,0,success
+doc_00112,DS UNIT-I.pdf,data\raw\college\DS UNIT-I.pdf,33,33,0,0,success
+doc_00113,DS UNIT-II.pdf,data\raw\college\DS UNIT-II.pdf,12,12,0,0,success
+doc_00114,DS UNIT-III.pdf,data\raw\college\DS UNIT-III.pdf,21,21,0,0,success
+doc_00115,FEE-1.pdf,data\raw\college\FEE-1.pdf,52,50,2,2,success
+doc_00116,FEE-2.pdf,data\raw\college\FEE-2.pdf,68,59,9,9,success
+doc_00117,FLAT UNIT-IV.pdf,data\raw\college\FLAT UNIT-IV.pdf,65,61,4,3,success
+doc_00118,Genetic Algorithm 26116 (2) (1).pdf,data\raw\college\Genetic Algorithm 26116 (2) (1).pdf,54,51,3,3,success
+doc_00119,HCI CW.pdf,data\raw\college\HCI CW.pdf,41,40,1,0,success
+doc_00120,JAVA UNIT-I.pdf,data\raw\college\JAVA UNIT-I.pdf,102,96,6,1,success
+doc_00121,JAVA UNIT-II.pdf,data\raw\college\JAVA UNIT-II.pdf,76,76,0,0,success
+doc_00122,JAVA UNIT-III.pdf,data\raw\college\JAVA UNIT-III.pdf,46,46,0,0,success
+doc_00123,L10-11-DDA_and_Bresenham_Algorithms - Copy.pdf,data\raw\college\L10-11-DDA_and_Bresenham_Algorithms - Copy.pdf,21,20,1,1,success
+doc_00124,L13_Mid_Point_Algorithms_for_Conic_Sections - Copy.pdf,data\raw\college\L13_Mid_Point_Algorithms_for_Conic_Sections - Copy.pdf,19,18,1,1,success
+doc_00125,L14_Region-filling-Algorithms.pdf,data\raw\college\L14_Region-filling-Algorithms.pdf,34,31,3,3,success
+doc_00126,L15_Region-filling-Scan-line Polygon Filling Algo.pdf,data\raw\college\L15_Region-filling-Scan-line Polygon Filling Algo.pdf,21,20,1,1,success
+doc_00127,L1_L2_Introduction_to_Computer_Graphics - 2025-student - Copy.pdf,data\raw\college\L1_L2_Introduction_to_Computer_Graphics - 2025-student - Copy.pdf,36,34,2,2,success
+doc_00128,L4-5-Graphics Pipeline Modified-student - Copy.pdf,data\raw\college\L4-5-Graphics Pipeline Modified-student - Copy.pdf,41,40,1,1,success
+doc_00129,L6-CRT-Display-and-Vector-Scan-Display-System - Copy.pdf,data\raw\college\L6-CRT-Display-and-Vector-Scan-Display-System - Copy.pdf,24,22,2,2,success
+doc_00130,L7-Raster_Scan_Display_System - Copy.pdf,data\raw\college\L7-Raster_Scan_Display_System - Copy.pdf,25,24,1,1,success
+doc_00131,L8-Color_CRT_and_Flat_Panel_Display_Systems - Copy.pdf,data\raw\college\L8-Color_CRT_and_Flat_Panel_Display_Systems - Copy.pdf,29,27,2,2,success
+doc_00132,L9_Rendering_Scene_on_Display_Devices - Copy.pdf,data\raw\college\L9_Rendering_Scene_on_Display_Devices - Copy.pdf,20,19,1,1,success
+doc_00133,Lec-12_Mid_Point_Algorithms_for_Circle _Conic_Section2 - Copy.pdf,data\raw\college\Lec-12_Mid_Point_Algorithms_for_Circle _Conic_Section2 - Copy.pdf,22,22,0,0,success
+doc_00134,Lec-16_Object_Representation_Techniques.pdf,data\raw\college\Lec-16_Object_Representation_Techniques.pdf,20,19,1,1,success
+doc_00135,Lec-17_3D_Object_Representation_Techniques-Curved Surface Representation.pdf,data\raw\college\Lec-17_3D_Object_Representation_Techniques-Curved Surface Representation.pdf,21,20,1,1,success
+doc_00136,Lec-18-20-3D_Object_Representation_Techniques-Spline basic.pdf,data\raw\college\Lec-18-20-3D_Object_Representation_Techniques-Spline basic.pdf,28,27,1,1,success
+doc_00137,M1 UNIT-I.pdf,data\raw\college\M1 UNIT-I.pdf,26,19,7,4,success
+doc_00138,M1 UNIT-II.pdf,data\raw\college\M1 UNIT-II.pdf,19,17,2,1,success
+doc_00139,M1 UNIT-III.pdf,data\raw\college\M1 UNIT-III.pdf,32,22,10,9,success
+doc_00140,M1 UNIT-IV.pdf,data\raw\college\M1 UNIT-IV.pdf,15,15,0,0,success
+doc_00141,M1 UNIT-V.pdf,data\raw\college\M1 UNIT-V.pdf,7,7,0,0,success
+doc_00142,ML UNIT-I.pdf,data\raw\college\ML UNIT-I.pdf,121,113,8,8,success
+doc_00143,ML UNIT-II.pdf,data\raw\college\ML UNIT-II.pdf,147,128,19,19,success
+doc_00144,ML UNIT-III.pdf,data\raw\college\ML UNIT-III.pdf,178,163,15,15,success
+doc_00145,ML UNIT-IV.pdf,data\raw\college\ML UNIT-IV.pdf,136,115,21,21,success
+doc_00146,ML UNIT-V.pdf,data\raw\college\ML UNIT-V.pdf,75,63,12,12,success
+doc_00147,NCES CW.pdf,data\raw\college\NCES CW.pdf,22,22,0,0,success
+doc_00148,NIC Slide2.pptx (1).pdf,data\raw\college\NIC Slide2.pptx (1).pdf,35,32,3,3,success
+doc_00149,NLP TXTBOOK.pdf,data\raw\college\NLP TXTBOOK.pdf,90,0,90,90,success
+doc_00150,NLP UNIT-I.pdf,data\raw\college\NLP UNIT-I.pdf,84,82,2,2,success
+doc_00151,NLP UNIT-II.pdf,data\raw\college\NLP UNIT-II.pdf,118,117,1,1,success
+doc_00152,NLP UNIT-III.pdf,data\raw\college\NLP UNIT-III.pdf,72,64,8,8,success
+doc_00153,NLP UNIT-IV.pdf,data\raw\college\NLP UNIT-IV.pdf,124,115,9,9,success
+doc_00154,NLP UNIT-V.pdf,data\raw\college\NLP UNIT-V.pdf,30,29,1,1,success
+doc_00155,OS UNIT-I.pdf,data\raw\college\OS UNIT-I.pdf,56,49,7,7,success
+doc_00156,OS UNIT-II.pdf,data\raw\college\OS UNIT-II.pdf,64,58,6,6,success
+doc_00157,OS UNIT-III.pdf,data\raw\college\OS UNIT-III.pdf,85,81,4,3,success
+doc_00158,PPL UNIT-I.pdf,data\raw\college\PPL UNIT-I.pdf,17,16,1,1,success
+doc_00159,PPL UNIT-II.pdf,data\raw\college\PPL UNIT-II.pdf,78,62,16,0,success
+doc_00160,PPL UNIT-III.pdf,data\raw\college\PPL UNIT-III.pdf,19,15,4,0,success
+doc_00161,PPL UNIT-IV.pdf,data\raw\college\PPL UNIT-IV.pdf,23,16,7,0,success
+doc_00162,PPL UNIT-V.pdf,data\raw\college\PPL UNIT-V.pdf,15,10,5,0,success
+doc_00163,PPS UNIT-I.pdf,data\raw\college\PPS UNIT-I.pdf,50,49,1,1,success
+doc_00164,PPS UNIT-II.pdf,data\raw\college\PPS UNIT-II.pdf,44,43,1,1,success
+doc_00165,PPS UNIT-III.pdf,data\raw\college\PPS UNIT-III.pdf,34,33,1,1,success
+doc_00166,PPS UNIT-IV.pdf,data\raw\college\PPS UNIT-IV.pdf,17,16,1,1,success
+doc_00167,PPS UNIT-V.pdf,data\raw\college\PPS UNIT-V.pdf,25,19,6,6,success
+doc_00168,RSGIS LAQS.pdf,data\raw\college\RSGIS LAQS.pdf,19,19,0,0,success
+doc_00169,RSGIS VSAQS.pdf,data\raw\college\RSGIS VSAQS.pdf,9,9,0,0,success
+doc_00170,SE UNIT-I.pdf,data\raw\college\SE UNIT-I.pdf,37,34,3,3,success
+doc_00171,SE UNIT-II.pdf,data\raw\college\SE UNIT-II.pdf,24,23,1,1,success
+doc_00172,SE UNIT-III.pdf,data\raw\college\SE UNIT-III.pdf,38,38,0,0,success
+doc_00173,SE UNIT-IV.pdf,data\raw\college\SE UNIT-IV.pdf,24,24,0,0,success
+doc_00174,SE UNIT-V.pdf,data\raw\college\SE UNIT-V.pdf,22,22,0,0,success
+doc_00175,SL-UNIT - 1.pdf,data\raw\college\SL-UNIT - 1.pdf,43,43,0,0,success
+doc_00176,SL-UNIT - 2.pdf,data\raw\college\SL-UNIT - 2.pdf,16,16,0,0,success
+doc_00177,SL-UNIT - 3.pdf,data\raw\college\SL-UNIT - 3.pdf,33,33,0,0,success
+doc_00178,SL-UNIT - 4.pdf,data\raw\college\SL-UNIT - 4.pdf,26,25,1,0,success
+doc_00179,SL-UNIT - 5.pdf,data\raw\college\SL-UNIT - 5.pdf,40,40,0,0,success
+doc_00180,Slide 1 NIC (1) (1).pdf,data\raw\college\Slide 1 NIC (1) (1).pdf,82,76,6,6,success
+doc_00181,SMGOIH PPL Lecture Notes.PDF,data\raw\college\SMGOIH PPL Lecture Notes.PDF,94,94,0,0,success
+doc_00182,SPPM LAQS.pdf,data\raw\college\SPPM LAQS.pdf,26,26,0,0,success
+doc_00183,TrustworthyAI_2026_1.pdf,data\raw\college\TrustworthyAI_2026_1.pdf,20,20,0,0,success
+doc_00184,TrustworthyAI_2026_2.pdf,data\raw\college\TrustworthyAI_2026_2.pdf,17,17,0,0,success
+doc_00185,TrustworthyAI_2026_3 (2).pdf,data\raw\college\TrustworthyAI_2026_3 (2).pdf,33,33,0,0,success
+doc_00186,WT UNIT-I(1).pdf,data\raw\college\WT UNIT-I(1).pdf,64,64,0,0,success
+doc_00187,WT UNIT-I.pdf,data\raw\college\WT UNIT-I.pdf,64,64,0,0,success
+doc_00188,WT UNIT-II.pdf,data\raw\college\WT UNIT-II.pdf,54,54,0,0,success
+doc_00189,WT UNIT-III.pdf,data\raw\college\WT UNIT-III.pdf,45,44,1,1,success
+doc_00190,WT UNIT-IV.pdf,data\raw\college\WT UNIT-IV.pdf,37,34,3,3,success
+doc_00191,WT UNIT-V.pdf,data\raw\college\WT UNIT-V.pdf,22,22,0,0,success
+doc_00192,08036c5a50a93da84c5c45ba468c58159d75281e.pdf,data\raw\kaggle_pdf\08036c5a50a93da84c5c45ba468c58159d75281e.pdf,5,5,0,0,success
+doc_00193,0a29925ccc5e6299e132a73325956a3abef6dd26.pdf,data\raw\kaggle_pdf\0a29925ccc5e6299e132a73325956a3abef6dd26.pdf,2,2,0,0,success
+doc_00194,0e21835a42a6df2405496f62647058ff855743c1.pdf,data\raw\kaggle_pdf\0e21835a42a6df2405496f62647058ff855743c1.pdf,5,5,0,0,success
+doc_00195,11613a97cef51ad28635fdd86915e74d94cff227.pdf,data\raw\kaggle_pdf\11613a97cef51ad28635fdd86915e74d94cff227.pdf,5,5,0,0,success
+doc_00196,12851f0053449570257ff3dfe552621a8dd63d53.pdf,data\raw\kaggle_pdf\12851f0053449570257ff3dfe552621a8dd63d53.pdf,6,6,0,0,success
+doc_00197,17815074de3c9f8af9a5051978a72e2a83f1d18d.pdf,data\raw\kaggle_pdf\17815074de3c9f8af9a5051978a72e2a83f1d18d.pdf,4,4,0,0,success
+doc_00198,183c0f6a2a452dabc05e8eeba962c7b49ad10a62.pdf,data\raw\kaggle_pdf\183c0f6a2a452dabc05e8eeba962c7b49ad10a62.pdf,5,5,0,0,success
+doc_00199,1dcf57a5007b56254583423ba31107d22459bccf.pdf,data\raw\kaggle_pdf\1dcf57a5007b56254583423ba31107d22459bccf.pdf,5,5,0,0,success
+doc_00200,1e8c2332a461a3a142840fa477fa907c66c35dac.pdf,data\raw\kaggle_pdf\1e8c2332a461a3a142840fa477fa907c66c35dac.pdf,5,5,0,0,success
+doc_00201,201ab28823c4a10ca391e800642e9cf381737ed2.pdf,data\raw\kaggle_pdf\201ab28823c4a10ca391e800642e9cf381737ed2.pdf,9,9,0,0,success
+doc_00202,22ZOCVPAF2GSGXR357RM7UT4Z22RS2LH.pdf,data\raw\kaggle_pdf\22ZOCVPAF2GSGXR357RM7UT4Z22RS2LH.pdf,1,1,0,0,success
+doc_00203,23JCEIKVL65X2RGSARNY2VOUNXBTJ5AS.pdf,data\raw\kaggle_pdf\23JCEIKVL65X2RGSARNY2VOUNXBTJ5AS.pdf,5,5,0,0,success
+doc_00204,2544CYX3TC3T5QB2NTVXD3IUFM654GXK.pdf,data\raw\kaggle_pdf\2544CYX3TC3T5QB2NTVXD3IUFM654GXK.pdf,512,512,0,0,success
+doc_00205,27UIROOYZ4IE3FKKNAPCKEQXWBKKN7XM.pdf,data\raw\kaggle_pdf\27UIROOYZ4IE3FKKNAPCKEQXWBKKN7XM.pdf,1,1,0,0,success
+doc_00206,281928eff64137efdd144a833c81ad0ee45284c1.pdf,data\raw\kaggle_pdf\281928eff64137efdd144a833c81ad0ee45284c1.pdf,7,7,0,0,success
+doc_00207,2A2C2V4WI5YRDJHR26XUD4IAULIYGTMA.pdf,data\raw\kaggle_pdf\2A2C2V4WI5YRDJHR26XUD4IAULIYGTMA.pdf,3,3,0,0,success
+doc_00208,2a85b52768ea5761b773be49b09d15f0b95415b0.pdf,data\raw\kaggle_pdf\2a85b52768ea5761b773be49b09d15f0b95415b0.pdf,19,19,0,0,success
+doc_00209,2c143c1675c174d0317c3a1f67b68b2b60047467.pdf,data\raw\kaggle_pdf\2c143c1675c174d0317c3a1f67b68b2b60047467.pdf,8,8,0,0,success
+doc_00210,2ED27NR7CISW7J4PHXXBZ6OFPVDFHMFB.pdf,data\raw\kaggle_pdf\2ED27NR7CISW7J4PHXXBZ6OFPVDFHMFB.pdf,4,4,0,0,success
+doc_00211,2EDEPZ4VHTLPTWSZR6FAVUJ3B2ZVSIPS.pdf,data\raw\kaggle_pdf\2EDEPZ4VHTLPTWSZR6FAVUJ3B2ZVSIPS.pdf,1,1,0,0,success
+doc_00212,2F73J4NP2YHKVISKHDIDJ7RGPDKTQZ7D.pdf,data\raw\kaggle_pdf\2F73J4NP2YHKVISKHDIDJ7RGPDKTQZ7D.pdf,2,2,0,0,success
+doc_00213,2FDPTMT2NZDE6RIJSZZXGBMD7LYL7YHV.pdf,data\raw\kaggle_pdf\2FDPTMT2NZDE6RIJSZZXGBMD7LYL7YHV.pdf,8,0,8,8,success
+doc_00214,2G54QACZZK5MIIKK25USTLNPN66FST63.pdf,data\raw\kaggle_pdf\2G54QACZZK5MIIKK25USTLNPN66FST63.pdf,8,8,0,0,success
+doc_00215,2GFKZ3FSJWFKVKALUPEYHSLSHEJ3OGA6.pdf,data\raw\kaggle_pdf\2GFKZ3FSJWFKVKALUPEYHSLSHEJ3OGA6.pdf,1,1,0,0,success
+doc_00216,2KH4X5DOMVDC44GAIAFOCYEKJMXGQH4T.pdf,data\raw\kaggle_pdf\2KH4X5DOMVDC44GAIAFOCYEKJMXGQH4T.pdf,2,2,0,0,success
+doc_00217,2KPPNYIT75S3H25JKEWTMQ7WRNCCTMJM.pdf,data\raw\kaggle_pdf\2KPPNYIT75S3H25JKEWTMQ7WRNCCTMJM.pdf,1,1,0,0,success
+doc_00218,2KQDEYIMQDVT2DUARRCJV5HEUYY2HO7H.pdf,data\raw\kaggle_pdf\2KQDEYIMQDVT2DUARRCJV5HEUYY2HO7H.pdf,1,1,0,0,success
+doc_00219,2LVOKCURIEQKLK43I6T7QLYYQX3RQUXX.pdf,data\raw\kaggle_pdf\2LVOKCURIEQKLK43I6T7QLYYQX3RQUXX.pdf,113,0,113,112,success
+doc_00220,2QCQAIXCPZZPZPEEBHJT4WUB5BA42DCP.pdf,data\raw\kaggle_pdf\2QCQAIXCPZZPZPEEBHJT4WUB5BA42DCP.pdf,3,3,0,0,success
+doc_00221,2QWDF5JK4N7WQ4NQRZRLF4CYOUF32WTR.pdf,data\raw\kaggle_pdf\2QWDF5JK4N7WQ4NQRZRLF4CYOUF32WTR.pdf,1,0,1,1,success
+doc_00222,2RE7KOL5KV5FFCUG6CYUVEFF4KIUZN2V.pdf,data\raw\kaggle_pdf\2RE7KOL5KV5FFCUG6CYUVEFF4KIUZN2V.pdf,12,12,0,0,success
+doc_00223,2REYVBYLIEUNFBZ5FULJCPTJCZHNOENV.pdf,data\raw\kaggle_pdf\2REYVBYLIEUNFBZ5FULJCPTJCZHNOENV.pdf,10,10,0,0,success
+doc_00224,2S672A3DIW3E7MHKG25AHSCC7GP5IWSS.pdf,data\raw\kaggle_pdf\2S672A3DIW3E7MHKG25AHSCC7GP5IWSS.pdf,5,5,0,0,success
+doc_00225,2SFC5QHEHUKZAZANWGTNYNCLR6KHKDS2.pdf,data\raw\kaggle_pdf\2SFC5QHEHUKZAZANWGTNYNCLR6KHKDS2.pdf,1,1,0,0,success
+doc_00226,2UD7BSKC7GT3V7I6DK5NH5TFKJ6F3EXL.pdf,data\raw\kaggle_pdf\2UD7BSKC7GT3V7I6DK5NH5TFKJ6F3EXL.pdf,18,18,0,0,success
+doc_00227,2WE4HZPD57KVPL4RQKCB4PUG42SQ2RMJ.pdf,data\raw\kaggle_pdf\2WE4HZPD57KVPL4RQKCB4PUG42SQ2RMJ.pdf,8,8,0,0,success
+doc_00228,2XJLJAFHRTLAIWFDDAVMV2U4QJMISM4P.pdf,data\raw\kaggle_pdf\2XJLJAFHRTLAIWFDDAVMV2U4QJMISM4P.pdf,10,10,0,0,success
+doc_00229,2XP6SY3BBU24ICI4JSHCLNQKAKGVMMPG.pdf,data\raw\kaggle_pdf\2XP6SY3BBU24ICI4JSHCLNQKAKGVMMPG.pdf,2,0,2,2,success
+doc_00230,2YS3ALM6OTD5ENWN4Z5LOBWG735756DX.pdf,data\raw\kaggle_pdf\2YS3ALM6OTD5ENWN4Z5LOBWG735756DX.pdf,9,0,9,9,success
+doc_00231,2Z5VOQ6G6CMR5GMVSAAXULXHXTMJPTM2.pdf,data\raw\kaggle_pdf\2Z5VOQ6G6CMR5GMVSAAXULXHXTMJPTM2.pdf,174,159,15,13,success
+doc_00232,2ZJG56HD3YEZGEQZL4RFOYNIMTZISHDX.pdf,data\raw\kaggle_pdf\2ZJG56HD3YEZGEQZL4RFOYNIMTZISHDX.pdf,1,1,0,0,success
+doc_00233,32PQ6TLRU26TDGA4NLYBMYEHYGX3X7US.pdf,data\raw\kaggle_pdf\32PQ6TLRU26TDGA4NLYBMYEHYGX3X7US.pdf,1,1,0,0,success
+doc_00234,343996d0a9beed58eebc1d7c0e133fd2f89fb3ab.pdf,data\raw\kaggle_pdf\343996d0a9beed58eebc1d7c0e133fd2f89fb3ab.pdf,2,2,0,0,success
+doc_00235,35CQZCOMND26DXY46FVVS47WB2AL75OK.pdf,data\raw\kaggle_pdf\35CQZCOMND26DXY46FVVS47WB2AL75OK.pdf,4,4,0,0,success
+doc_00236,35DKLURQRIKJHCGH3IP5TO2BTAOV4CBN.pdf,data\raw\kaggle_pdf\35DKLURQRIKJHCGH3IP5TO2BTAOV4CBN.pdf,4,4,0,0,success
+doc_00237,35REBWQXW3JLUKC6DAANAQ2P3RI5B6A6.pdf,data\raw\kaggle_pdf\35REBWQXW3JLUKC6DAANAQ2P3RI5B6A6.pdf,14,10,4,4,success
+doc_00238,37RZ6AARR76UDY2JH4LRVGQBIPYUQ2A2.pdf,data\raw\kaggle_pdf\37RZ6AARR76UDY2JH4LRVGQBIPYUQ2A2.pdf,1,1,0,0,success
+doc_00239,37WOUPCWLZGR4AFDBNNHKUHNTVLYXVLD.pdf,data\raw\kaggle_pdf\37WOUPCWLZGR4AFDBNNHKUHNTVLYXVLD.pdf,2,2,0,0,success
+doc_00240,380cadf4f7caa0146071865cce258e9aaabac440.pdf,data\raw\kaggle_pdf\380cadf4f7caa0146071865cce258e9aaabac440.pdf,5,5,0,0,success
+doc_00241,391ee0e4abd1e732bd7c3e5c5dac77be1d03f569.pdf,data\raw\kaggle_pdf\391ee0e4abd1e732bd7c3e5c5dac77be1d03f569.pdf,7,7,0,0,success
+doc_00242,3E6NFFOKDMQM3UXDKS73LAJGQXBVDXPE.pdf,data\raw\kaggle_pdf\3E6NFFOKDMQM3UXDKS73LAJGQXBVDXPE.pdf,3,3,0,0,success
+doc_00243,3EG2SKQ4OJ5RGGAPXC4LPRAYJJJNH2XO.pdf,data\raw\kaggle_pdf\3EG2SKQ4OJ5RGGAPXC4LPRAYJJJNH2XO.pdf,1,1,0,0,success
+doc_00244,3fd6a0981cec7cf21e133249fea7e0e4474ec88d.pdf,data\raw\kaggle_pdf\3fd6a0981cec7cf21e133249fea7e0e4474ec88d.pdf,5,5,0,0,success
+doc_00245,3G2C6NNZ42WCE3GQ2SREVI2FQIJMQTVT.pdf,data\raw\kaggle_pdf\3G2C6NNZ42WCE3GQ2SREVI2FQIJMQTVT.pdf,1,1,0,0,success
+doc_00246,3HATKPN6TVEYUNQ6PK5MYH6VA6VX6ECE.pdf,data\raw\kaggle_pdf\3HATKPN6TVEYUNQ6PK5MYH6VA6VX6ECE.pdf,6,6,0,0,success
+doc_00247,3HYJT3CPUFRXVQSY3IJIK5ERD4XWBDUQ.pdf,data\raw\kaggle_pdf\3HYJT3CPUFRXVQSY3IJIK5ERD4XWBDUQ.pdf,1,0,1,1,success
+doc_00248,3I2DH7KNN6KICUFNT6P4MKHUAPPBJD2Y.pdf,data\raw\kaggle_pdf\3I2DH7KNN6KICUFNT6P4MKHUAPPBJD2Y.pdf,1,1,0,0,success
+doc_00249,3I3G2ZKLILXKCZTX77LVBWNF5IR2ZM7E.pdf,data\raw\kaggle_pdf\3I3G2ZKLILXKCZTX77LVBWNF5IR2ZM7E.pdf,2,2,0,0,success
+doc_00250,3IFL3YAHHYK5PMUEVWZZ2PHZ7TYPPTET.pdf,data\raw\kaggle_pdf\3IFL3YAHHYK5PMUEVWZZ2PHZ7TYPPTET.pdf,1,1,0,0,success
+doc_00251,3KF674T52XCSSWUXJN6WRXYXLXBCQI3P.pdf,data\raw\kaggle_pdf\3KF674T52XCSSWUXJN6WRXYXLXBCQI3P.pdf,261,259,2,0,success
+doc_00252,3KT2OE6FWFEQPKT754Z3YHJQ3XTLPQZS.pdf,data\raw\kaggle_pdf\3KT2OE6FWFEQPKT754Z3YHJQ3XTLPQZS.pdf,2,2,0,0,success
+doc_00253,3KYS5FP4VPQMHQKSV6PY3UOXQILNMOPO.pdf,data\raw\kaggle_pdf\3KYS5FP4VPQMHQKSV6PY3UOXQILNMOPO.pdf,4,4,0,0,success
+doc_00254,3OHZBJVNLM4IAL6GLY3AKUQIVCNLPJLO.pdf,data\raw\kaggle_pdf\3OHZBJVNLM4IAL6GLY3AKUQIVCNLPJLO.pdf,7,7,0,0,success
+doc_00255,3P5D3UKXU2R6I2TK4OJSLL6LGIQJ4NY5.pdf,data\raw\kaggle_pdf\3P5D3UKXU2R6I2TK4OJSLL6LGIQJ4NY5.pdf,3,3,0,0,success
+doc_00256,3PILGMQ4BBDRSLAPZCPVAHBNX53K2NUJ.pdf,data\raw\kaggle_pdf\3PILGMQ4BBDRSLAPZCPVAHBNX53K2NUJ.pdf,2,2,0,0,success
+doc_00257,3RCHLDD2YCPDNLHEV4AVKEPBYJP5UBZB.pdf,data\raw\kaggle_pdf\3RCHLDD2YCPDNLHEV4AVKEPBYJP5UBZB.pdf,101,99,2,1,success
+doc_00258,3RFOUAJS2LT6ZCT3K6C2SXFMNCJHTP5Q.pdf,data\raw\kaggle_pdf\3RFOUAJS2LT6ZCT3K6C2SXFMNCJHTP5Q.pdf,2,2,0,0,success
+doc_00259,3SX4ZUITX7U6NVFXAEJBBJXEQ76IJFKV.pdf,data\raw\kaggle_pdf\3SX4ZUITX7U6NVFXAEJBBJXEQ76IJFKV.pdf,3,3,0,0,success
+doc_00260,3WVRGDKMXZRPVBBNRYOLXY3J3VIZROXI.pdf,data\raw\kaggle_pdf\3WVRGDKMXZRPVBBNRYOLXY3J3VIZROXI.pdf,13,13,0,0,success
+doc_00261,3XSJWLQUWUFRCZDJZ2RLJ6KMMDBJZG4D.pdf,data\raw\kaggle_pdf\3XSJWLQUWUFRCZDJZ2RLJ6KMMDBJZG4D.pdf,8,8,0,0,success
+doc_00262,3ZVA64MJREBJXFOQOIXK6WJVPBWFJF7L.pdf,data\raw\kaggle_pdf\3ZVA64MJREBJXFOQOIXK6WJVPBWFJF7L.pdf,2,2,0,0,success
+doc_00263,42727bc0ea22235a316e371df59c49011ef2a328.pdf,data\raw\kaggle_pdf\42727bc0ea22235a316e371df59c49011ef2a328.pdf,22,14,8,8,success
+doc_00264,43QM3XC3PVX5LLMG2IHDTOMSCNYZYA7Y.pdf,data\raw\kaggle_pdf\43QM3XC3PVX5LLMG2IHDTOMSCNYZYA7Y.pdf,3,3,0,0,success
+doc_00265,44CC3S6FHPO5OFLW26RYVMNN3CLMBFU5.pdf,data\raw\kaggle_pdf\44CC3S6FHPO5OFLW26RYVMNN3CLMBFU5.pdf,1,1,0,0,success
+doc_00266,44fd6224a81709051890169e2533ac5fd75cd93a.pdf,data\raw\kaggle_pdf\44fd6224a81709051890169e2533ac5fd75cd93a.pdf,7,7,0,0,success
+doc_00267,44PBM3B5SUUOF74NERNZAUH2PBBU5SPB.pdf,data\raw\kaggle_pdf\44PBM3B5SUUOF74NERNZAUH2PBBU5SPB.pdf,2,2,0,0,success
+doc_00268,45W73IZ4UHYYGASU2Y4JO6Q7SC56OPTI.pdf,data\raw\kaggle_pdf\45W73IZ4UHYYGASU2Y4JO6Q7SC56OPTI.pdf,2,2,0,0,success
+doc_00269,46GSXB43D2TH7HJXKW6TMVNR4RIKCUEO.pdf,data\raw\kaggle_pdf\46GSXB43D2TH7HJXKW6TMVNR4RIKCUEO.pdf,2,2,0,0,success
+doc_00270,46KXLWATPXX7EE6CIIN3H4KUPVN3RX75.pdf,data\raw\kaggle_pdf\46KXLWATPXX7EE6CIIN3H4KUPVN3RX75.pdf,2,2,0,0,success
+doc_00271,46QMULSFORX2CQ75FYZAEACXSD7AJKPG.pdf,data\raw\kaggle_pdf\46QMULSFORX2CQ75FYZAEACXSD7AJKPG.pdf,4,4,0,0,success
+doc_00272,46ZGYJDQNL2COPU447ILTCZ6EUMSQOHA.pdf,data\raw\kaggle_pdf\46ZGYJDQNL2COPU447ILTCZ6EUMSQOHA.pdf,12,12,0,0,success
+doc_00273,47HBHTDSTAKCJIYQ22345FHWVNVJMXJL.pdf,data\raw\kaggle_pdf\47HBHTDSTAKCJIYQ22345FHWVNVJMXJL.pdf,1,1,0,0,success
+doc_00274,47MF5MPMCKI6IZUM67ZZF3JWE2D42DLM.pdf,data\raw\kaggle_pdf\47MF5MPMCKI6IZUM67ZZF3JWE2D42DLM.pdf,2,2,0,0,success
+doc_00275,49833f5cf0647c2295e3b3bf11a68ec47a813414.pdf,data\raw\kaggle_pdf\49833f5cf0647c2295e3b3bf11a68ec47a813414.pdf,10,10,0,0,success
+doc_00276,4ADSQBDDIAH74AABB7OJ4AP5ZVHU7QIF.pdf,data\raw\kaggle_pdf\4ADSQBDDIAH74AABB7OJ4AP5ZVHU7QIF.pdf,4,4,0,0,success
+doc_00277,4ANUUHOJ7LTWU4PYON2VXJMPPUGDYWPD.pdf,data\raw\kaggle_pdf\4ANUUHOJ7LTWU4PYON2VXJMPPUGDYWPD.pdf,4,0,4,4,success
+doc_00278,4BYJ3SJ7LQLUQONSHK7CN7NJFWKW62CX.pdf,data\raw\kaggle_pdf\4BYJ3SJ7LQLUQONSHK7CN7NJFWKW62CX.pdf,155,155,0,0,success
+doc_00279,4C5BLCGBSAKXLBL674TCFLMNISKMFTF7.pdf,data\raw\kaggle_pdf\4C5BLCGBSAKXLBL674TCFLMNISKMFTF7.pdf,1,1,0,0,success
+doc_00280,4CWINULHRRVWF33LXZE4U5EEHETC2SI6.pdf,data\raw\kaggle_pdf\4CWINULHRRVWF33LXZE4U5EEHETC2SI6.pdf,3,3,0,0,success
+doc_00281,4F6ZJS2JPBXSPZK5FG5NMTRHS6NMWKOJ.pdf,data\raw\kaggle_pdf\4F6ZJS2JPBXSPZK5FG5NMTRHS6NMWKOJ.pdf,1,1,0,0,success
+doc_00282,4GJGAIUVBMLM3W7O5SV4EKDNKC4DVOCL.pdf,data\raw\kaggle_pdf\4GJGAIUVBMLM3W7O5SV4EKDNKC4DVOCL.pdf,0,0,0,0,error: document closed or encrypted
+doc_00283,4GJOQXDXU2XKJOU5NUAAVWW7LS4LSYA7.pdf,data\raw\kaggle_pdf\4GJOQXDXU2XKJOU5NUAAVWW7LS4LSYA7.pdf,2,2,0,0,success
+doc_00284,4J72NV3NRCPTITE2IIE2CG2NMBSSLM67.pdf,data\raw\kaggle_pdf\4J72NV3NRCPTITE2IIE2CG2NMBSSLM67.pdf,3,3,0,0,success
+doc_00285,4JIOYSGO26FIUJU47G4MCVYSZUGX7EAE.pdf,data\raw\kaggle_pdf\4JIOYSGO26FIUJU47G4MCVYSZUGX7EAE.pdf,2,2,0,0,success
+doc_00286,4JVIYSW2MHWPE5BXGXLAXTNMHGHJFPUP.pdf,data\raw\kaggle_pdf\4JVIYSW2MHWPE5BXGXLAXTNMHGHJFPUP.pdf,4,4,0,0,success
+doc_00287,4L35CSXFUATM7UTMSDUPULOT54HTIGRP.pdf,data\raw\kaggle_pdf\4L35CSXFUATM7UTMSDUPULOT54HTIGRP.pdf,1,1,0,0,success
+doc_00288,4LRW52I7I5ZTB2VO2BGAW4YQUNGJXAP2.pdf,data\raw\kaggle_pdf\4LRW52I7I5ZTB2VO2BGAW4YQUNGJXAP2.pdf,5,5,0,0,success
+doc_00289,4MXIGGV3UCFRYPPPQ4LGGB27K42PFGQV.pdf,data\raw\kaggle_pdf\4MXIGGV3UCFRYPPPQ4LGGB27K42PFGQV.pdf,2,2,0,0,success
+doc_00290,4NULTK4K27CEH4E6TCVCEHXAWVJJMWSX.pdf,data\raw\kaggle_pdf\4NULTK4K27CEH4E6TCVCEHXAWVJJMWSX.pdf,2,2,0,0,success
+doc_00291,4P4SBCDNQWWUH5CI2KLPHVFIUV54ODLT.pdf,data\raw\kaggle_pdf\4P4SBCDNQWWUH5CI2KLPHVFIUV54ODLT.pdf,215,212,3,3,success
+doc_00292,4RPOXAYQCNHNFQZMBDNNZAZUSVYDBPQJ.pdf,data\raw\kaggle_pdf\4RPOXAYQCNHNFQZMBDNNZAZUSVYDBPQJ.pdf,2,2,0,0,success
+doc_00293,4UCZ4AEHAQQE2MYSFOGR6GRRPKNIAFCW.pdf,data\raw\kaggle_pdf\4UCZ4AEHAQQE2MYSFOGR6GRRPKNIAFCW.pdf,5,5,0,0,success
+doc_00294,4VMUKG4TIVAVUP5H4SRGXIJZUWERU7I2.pdf,data\raw\kaggle_pdf\4VMUKG4TIVAVUP5H4SRGXIJZUWERU7I2.pdf,3,3,0,0,success
+doc_00295,4VXCOS4VUT37JP4BK425KOKWXRYTMJDO.pdf,data\raw\kaggle_pdf\4VXCOS4VUT37JP4BK425KOKWXRYTMJDO.pdf,3,0,3,3,success
+doc_00296,4WDM523HPSRSKBCVFVEJGLJ43DYOQRKO.pdf,data\raw\kaggle_pdf\4WDM523HPSRSKBCVFVEJGLJ43DYOQRKO.pdf,6,6,0,0,success
+doc_00297,50e0b81c3fa67c109bf639a3b90c5850974f7697.pdf,data\raw\kaggle_pdf\50e0b81c3fa67c109bf639a3b90c5850974f7697.pdf,4,4,0,0,success
+doc_00298,536b64435024c919d6b4c3f5819a889d0607f349 (1).pdf,data\raw\kaggle_pdf\536b64435024c919d6b4c3f5819a889d0607f349 (1).pdf,6,6,0,0,success
+doc_00299,536b64435024c919d6b4c3f5819a889d0607f349.pdf,data\raw\kaggle_pdf\536b64435024c919d6b4c3f5819a889d0607f349.pdf,6,6,0,0,success
+doc_00300,53MPVZWCXMT55PDT4CQCJ2MN5JAKIAGV.pdf,data\raw\kaggle_pdf\53MPVZWCXMT55PDT4CQCJ2MN5JAKIAGV.pdf,1,1,0,0,success
+doc_00301,5CCWTN5UI7YVM55N2H5CXFYZ44PMKUB4.pdf,data\raw\kaggle_pdf\5CCWTN5UI7YVM55N2H5CXFYZ44PMKUB4.pdf,9,9,0,0,success
+doc_00302,5DRAZXKISWU5KHFNDUABKC7KUKS6IXDK.pdf,data\raw\kaggle_pdf\5DRAZXKISWU5KHFNDUABKC7KUKS6IXDK.pdf,2,2,0,0,success
+doc_00303,5EAVIV25ANDVUI4BBJQE6S5KDAECENZZ.pdf,data\raw\kaggle_pdf\5EAVIV25ANDVUI4BBJQE6S5KDAECENZZ.pdf,2,2,0,0,success
+doc_00304,5f1daaa6087c0d2d803b23997270dc8d79a1eb40.pdf,data\raw\kaggle_pdf\5f1daaa6087c0d2d803b23997270dc8d79a1eb40.pdf,26,26,0,0,success
+doc_00305,5F7F36M3NZCHDTIFIVI5JQRBDYNY6KJL.pdf,data\raw\kaggle_pdf\5F7F36M3NZCHDTIFIVI5JQRBDYNY6KJL.pdf,1,1,0,0,success
+doc_00306,5IPJIVPM6LCPD36Z6TPNZNJQJNATZVNV.pdf,data\raw\kaggle_pdf\5IPJIVPM6LCPD36Z6TPNZNJQJNATZVNV.pdf,3,3,0,0,success
+doc_00307,5IXFUAXPIWSNS4I6KSOJCGHEFEEBY5IE.pdf,data\raw\kaggle_pdf\5IXFUAXPIWSNS4I6KSOJCGHEFEEBY5IE.pdf,11,8,3,2,success
+doc_00308,5JEF6INEQSUEH2KKAOO5NNONLBEXWTXI.pdf,data\raw\kaggle_pdf\5JEF6INEQSUEH2KKAOO5NNONLBEXWTXI.pdf,1,0,1,1,success
+doc_00309,5JWNPTKTIAPTHTEGVKW7WVNBDBKQMRJO.pdf,data\raw\kaggle_pdf\5JWNPTKTIAPTHTEGVKW7WVNBDBKQMRJO.pdf,9,0,9,9,success
+doc_00310,5LJK3WBGEWURVXHBKF7FQP32FD7C7FQO.pdf,data\raw\kaggle_pdf\5LJK3WBGEWURVXHBKF7FQP32FD7C7FQO.pdf,2,2,0,0,success
+doc_00311,5LSCLZ4YEU5LZUAPARZB6QKKYSPSLW26.pdf,data\raw\kaggle_pdf\5LSCLZ4YEU5LZUAPARZB6QKKYSPSLW26.pdf,1,1,0,0,success
+doc_00312,5M56W5BE4HY6J3WK2TN3HZJ6N3ZMYTJ4.pdf,data\raw\kaggle_pdf\5M56W5BE4HY6J3WK2TN3HZJ6N3ZMYTJ4.pdf,1,1,0,0,success
+doc_00313,5PFVA6CO2FP66IJYJJ4YMWOLK5EHRCCD.pdf,data\raw\kaggle_pdf\5PFVA6CO2FP66IJYJJ4YMWOLK5EHRCCD.pdf,2,2,0,0,success
+doc_00314,5SMHFLT35YOIS6UTY6OKBZYRZSTDMG2Q.pdf,data\raw\kaggle_pdf\5SMHFLT35YOIS6UTY6OKBZYRZSTDMG2Q.pdf,3,3,0,0,success
+doc_00315,5WEKPBBWFKF47XDYW5QBC36KFVBYJFE5.pdf,data\raw\kaggle_pdf\5WEKPBBWFKF47XDYW5QBC36KFVBYJFE5.pdf,1,1,0,0,success
+doc_00316,5WZLEVFSNHYXSOEJSBBALIZP2REQ5BWL.pdf,data\raw\kaggle_pdf\5WZLEVFSNHYXSOEJSBBALIZP2REQ5BWL.pdf,2,2,0,0,success
+doc_00317,5XZTPYHPVJRYA5KPITBHN5UGYNZAVSQA.pdf,data\raw\kaggle_pdf\5XZTPYHPVJRYA5KPITBHN5UGYNZAVSQA.pdf,1,0,1,1,success
+doc_00318,62385983da48ed17e440fb89bcf0e436630b8d6f.pdf,data\raw\kaggle_pdf\62385983da48ed17e440fb89bcf0e436630b8d6f.pdf,9,9,0,0,success
+doc_00319,642c5aed3f342a15e2ae287d5350a5735bae9ebc.pdf,data\raw\kaggle_pdf\642c5aed3f342a15e2ae287d5350a5735bae9ebc.pdf,49,48,1,1,success
+doc_00320,64PJRWTXR43NVMTQCZGEFDUZA3JMJTD7.pdf,data\raw\kaggle_pdf\64PJRWTXR43NVMTQCZGEFDUZA3JMJTD7.pdf,4,4,0,0,success
+doc_00321,65UHUSAELNKVXUYGUXKY2JQLAKWINVC2.pdf,data\raw\kaggle_pdf\65UHUSAELNKVXUYGUXKY2JQLAKWINVC2.pdf,3,3,0,0,success
+doc_00322,65VH6VWWJJCZNGG3XTA7XAPZRAIOGYEV.pdf,data\raw\kaggle_pdf\65VH6VWWJJCZNGG3XTA7XAPZRAIOGYEV.pdf,3,3,0,0,success
+doc_00323,65WL52OJL3MDCHS3SWEUYFWBO5W23F2M.pdf,data\raw\kaggle_pdf\65WL52OJL3MDCHS3SWEUYFWBO5W23F2M.pdf,1,1,0,0,success
+doc_00324,666HXEHN6OLTL3QKGACG3DJ7UL4L5NWL.pdf,data\raw\kaggle_pdf\666HXEHN6OLTL3QKGACG3DJ7UL4L5NWL.pdf,2,2,0,0,success
+doc_00325,672YOEHR4MIARPSZVTI7ERPCKKA3FNIY.pdf,data\raw\kaggle_pdf\672YOEHR4MIARPSZVTI7ERPCKKA3FNIY.pdf,6,6,0,0,success
+doc_00326,67JSPHIB2F6WUL35OLRAOZ2UEDTI2XZ5.pdf,data\raw\kaggle_pdf\67JSPHIB2F6WUL35OLRAOZ2UEDTI2XZ5.pdf,4,4,0,0,success
+doc_00327,6A2V6MYYSW4C6QUKXJX7BEGNPYKZGV6O.pdf,data\raw\kaggle_pdf\6A2V6MYYSW4C6QUKXJX7BEGNPYKZGV6O.pdf,12,12,0,0,success
+doc_00328,6a72e705ce8cec9c77d24212eed6962d99a2883d.pdf,data\raw\kaggle_pdf\6a72e705ce8cec9c77d24212eed6962d99a2883d.pdf,8,8,0,0,success
+doc_00329,6AVXT3OLPGYVAG7L4CBYJHXLAXJE4V6F.pdf,data\raw\kaggle_pdf\6AVXT3OLPGYVAG7L4CBYJHXLAXJE4V6F.pdf,1,1,0,0,success
+doc_00330,6C4F5OS4HOEBDQEKSVUX42XOMOJG3BNW.pdf,data\raw\kaggle_pdf\6C4F5OS4HOEBDQEKSVUX42XOMOJG3BNW.pdf,4,4,0,0,success
+doc_00331,6C5QST2YJX7GA4BOHPZK66SWOSEATYGO.pdf,data\raw\kaggle_pdf\6C5QST2YJX7GA4BOHPZK66SWOSEATYGO.pdf,1,1,0,0,success
+doc_00332,6E3WYLLW5ZLHABZK74PHX5TBLZXXBLGG.pdf,data\raw\kaggle_pdf\6E3WYLLW5ZLHABZK74PHX5TBLZXXBLGG.pdf,43,0,43,43,success
+doc_00333,6F47YISD72RZCG6OYZQCQLCYJX5E7MBK.pdf,data\raw\kaggle_pdf\6F47YISD72RZCG6OYZQCQLCYJX5E7MBK.pdf,6,6,0,0,success
+doc_00334,6fb1b50dc88bf6c0bb775bf32a6b678b4a558c69.pdf,data\raw\kaggle_pdf\6fb1b50dc88bf6c0bb775bf32a6b678b4a558c69.pdf,6,6,0,0,success
+doc_00335,6G5OZCK6EQTZ35IQ7FV4UW64WVMWAW4T.pdf,data\raw\kaggle_pdf\6G5OZCK6EQTZ35IQ7FV4UW64WVMWAW4T.pdf,4,4,0,0,success
+doc_00336,6GHFGNIZJZWEVRNG4J5ILE62VJ3PUURO.pdf,data\raw\kaggle_pdf\6GHFGNIZJZWEVRNG4J5ILE62VJ3PUURO.pdf,5,5,0,0,success
+doc_00337,6HPMFPOTKN7J772QGZBHKGKYSNEYTF3I.pdf,data\raw\kaggle_pdf\6HPMFPOTKN7J772QGZBHKGKYSNEYTF3I.pdf,194,0,194,194,success
+doc_00338,6HTC5FVAQW3DVHYRD7PVJGBBQS7GRZTL.pdf,data\raw\kaggle_pdf\6HTC5FVAQW3DVHYRD7PVJGBBQS7GRZTL.pdf,1,1,0,0,success
+doc_00339,6LM5MPDEKTK4FAVUBSU5HZOLO33XZOV6.pdf,data\raw\kaggle_pdf\6LM5MPDEKTK4FAVUBSU5HZOLO33XZOV6.pdf,2,2,0,0,success
+doc_00340,6MPUNFSLSFKNLOGE2I6WRELWSJOF27UK.pdf,data\raw\kaggle_pdf\6MPUNFSLSFKNLOGE2I6WRELWSJOF27UK.pdf,1,1,0,0,success
+doc_00341,6MVFNNKY5VH3TCVPVECRH6YBKKZQMUFA.pdf,data\raw\kaggle_pdf\6MVFNNKY5VH3TCVPVECRH6YBKKZQMUFA.pdf,3,3,0,0,success
+doc_00342,6OV4KF7OC77SI4QQ6W5MKPRKLFKJFMSA.pdf,data\raw\kaggle_pdf\6OV4KF7OC77SI4QQ6W5MKPRKLFKJFMSA.pdf,1,1,0,0,success
+doc_00343,6QJJJ7KLDUS7SZA75TV36J7KF4BXERLH.pdf,data\raw\kaggle_pdf\6QJJJ7KLDUS7SZA75TV36J7KF4BXERLH.pdf,1,1,0,0,success
+doc_00344,6REZDVWAZINCN3EC63464SLUVI2QJHJW.pdf,data\raw\kaggle_pdf\6REZDVWAZINCN3EC63464SLUVI2QJHJW.pdf,1,1,0,0,success
+doc_00345,6RWOLVNDX4CTI4PAGDGMWC3FFBTVW3TK.pdf,data\raw\kaggle_pdf\6RWOLVNDX4CTI4PAGDGMWC3FFBTVW3TK.pdf,2,2,0,0,success
+doc_00346,6RZXET5EGN7QMGM5PROIXJI447YTCETZ.pdf,data\raw\kaggle_pdf\6RZXET5EGN7QMGM5PROIXJI447YTCETZ.pdf,4,4,0,0,success
+doc_00347,6S4BF3BBWSDF2EUWMDVBVAAUUCVOCTVP.pdf,data\raw\kaggle_pdf\6S4BF3BBWSDF2EUWMDVBVAAUUCVOCTVP.pdf,8,8,0,0,success
+doc_00348,6X3XULQL4IDEVAAER5F2M3RJGJS2REAH.pdf,data\raw\kaggle_pdf\6X3XULQL4IDEVAAER5F2M3RJGJS2REAH.pdf,4,4,0,0,success
+doc_00349,6X7DGVAM2PXFTZ3B6YQOHRCZ3VVBS5LO.pdf,data\raw\kaggle_pdf\6X7DGVAM2PXFTZ3B6YQOHRCZ3VVBS5LO.pdf,2,2,0,0,success
+doc_00350,6Z3CUWVPRPVEBPROWQCD6EZJ22CLL5OY.pdf,data\raw\kaggle_pdf\6Z3CUWVPRPVEBPROWQCD6EZJ22CLL5OY.pdf,1,1,0,0,success
+doc_00351,7096e75ab6e07bb7950205a526f70af2024a802a.pdf,data\raw\kaggle_pdf\7096e75ab6e07bb7950205a526f70af2024a802a.pdf,4,4,0,0,success
+doc_00352,719954f8de432dbfef6253fd5bfaad07dc44e103.pdf,data\raw\kaggle_pdf\719954f8de432dbfef6253fd5bfaad07dc44e103.pdf,5,5,0,0,success
+doc_00353,73KIZM2KPVDJHMKWM5X36DBUKAOOCWZ4.pdf,data\raw\kaggle_pdf\73KIZM2KPVDJHMKWM5X36DBUKAOOCWZ4.pdf,1,1,0,0,success
+doc_00354,74e685ae7e7ff7d88ce66cc6cb6ba62d54c2300a.pdf,data\raw\kaggle_pdf\74e685ae7e7ff7d88ce66cc6cb6ba62d54c2300a.pdf,15,14,1,1,success
+doc_00355,74F5ZIL7U3L5IE7BFTNNS5ISLSFCIIU2.pdf,data\raw\kaggle_pdf\74F5ZIL7U3L5IE7BFTNNS5ISLSFCIIU2.pdf,2,0,2,2,success
+doc_00356,74JU6CDDK5QMBF2HTCNUWTUTJZJONVWI.pdf,data\raw\kaggle_pdf\74JU6CDDK5QMBF2HTCNUWTUTJZJONVWI.pdf,4,4,0,0,success
+doc_00357,7595be6b415543e53ed0cb08ce66dfa5dfb7ec0f.pdf,data\raw\kaggle_pdf\7595be6b415543e53ed0cb08ce66dfa5dfb7ec0f.pdf,7,7,0,0,success
+doc_00358,76884526812b71751da20a1072d81c012ec88486.pdf,data\raw\kaggle_pdf\76884526812b71751da20a1072d81c012ec88486.pdf,6,6,0,0,success
+doc_00359,76P47DRTKG4I3M56ZPDSWTVW4AC37RWI.pdf,data\raw\kaggle_pdf\76P47DRTKG4I3M56ZPDSWTVW4AC37RWI.pdf,1,1,0,0,success
+doc_00360,77e58eba9bdacf3037f2960aff98359105d3611a.pdf,data\raw\kaggle_pdf\77e58eba9bdacf3037f2960aff98359105d3611a.pdf,6,6,0,0,success
+doc_00361,7A3MBRLFC6OU5KGMFIDEQPUOQTROBYUS.pdf,data\raw\kaggle_pdf\7A3MBRLFC6OU5KGMFIDEQPUOQTROBYUS.pdf,6,6,0,0,success
+doc_00362,7AOKCH7TMDCIAHWMUUSKUZBGPH3T5P5N.pdf,data\raw\kaggle_pdf\7AOKCH7TMDCIAHWMUUSKUZBGPH3T5P5N.pdf,21,21,0,0,success
+doc_00363,7AUNHNHEJ5WZYXSDOPHTM3UHLGVPSSX6.pdf,data\raw\kaggle_pdf\7AUNHNHEJ5WZYXSDOPHTM3UHLGVPSSX6.pdf,41,41,0,0,success
+doc_00364,7bee00906c1ce0a45940a9381fe32dd0d79cfd93.pdf,data\raw\kaggle_pdf\7bee00906c1ce0a45940a9381fe32dd0d79cfd93.pdf,1,1,0,0,success
+doc_00365,7CIFOV7XZXS6EHUFYZF6H3NCN637PI2M.pdf,data\raw\kaggle_pdf\7CIFOV7XZXS6EHUFYZF6H3NCN637PI2M.pdf,2,2,0,0,success
+doc_00366,7DHC66NNE4RHBN7MNVPKSCN6E2GFRS2Z.pdf,data\raw\kaggle_pdf\7DHC66NNE4RHBN7MNVPKSCN6E2GFRS2Z.pdf,2,2,0,0,success
+doc_00367,7DTWNUKZRSFNKJJG3QFPB72M3TBLXVRL.pdf,data\raw\kaggle_pdf\7DTWNUKZRSFNKJJG3QFPB72M3TBLXVRL.pdf,176,176,0,0,success
+doc_00368,7GB7EXTYK2SHE3R3CBCOYKLOQT4CMEAF.pdf,data\raw\kaggle_pdf\7GB7EXTYK2SHE3R3CBCOYKLOQT4CMEAF.pdf,14,14,0,0,success
+doc_00369,7GYQLFBVGRTYWE73NKCNCODTJVURFULB.pdf,data\raw\kaggle_pdf\7GYQLFBVGRTYWE73NKCNCODTJVURFULB.pdf,1,1,0,0,success
+doc_00370,7HBBXA2H7AQGVZSBZTLTPKAAEE3ZY2YK.pdf,data\raw\kaggle_pdf\7HBBXA2H7AQGVZSBZTLTPKAAEE3ZY2YK.pdf,8,7,1,1,success
+doc_00371,7ID44TA4ZPWEYUNNLNWPGUFJWDYENEDY.pdf,data\raw\kaggle_pdf\7ID44TA4ZPWEYUNNLNWPGUFJWDYENEDY.pdf,31,31,0,0,success
+doc_00372,7IYBO6EFOFMF4ETCCIZYJEGPTBQY3EE5.pdf,data\raw\kaggle_pdf\7IYBO6EFOFMF4ETCCIZYJEGPTBQY3EE5.pdf,5,5,0,0,success
+doc_00373,7LAHAWE6SGPL25FWUGMRKXCMTD3CWEBO.pdf,data\raw\kaggle_pdf\7LAHAWE6SGPL25FWUGMRKXCMTD3CWEBO.pdf,1,1,0,0,success
+doc_00374,7MHCNBM2ZR4PD2BSWVFLG77BRN3HS3AD.pdf,data\raw\kaggle_pdf\7MHCNBM2ZR4PD2BSWVFLG77BRN3HS3AD.pdf,1,1,0,0,success
+doc_00375,7N6KRBZIEFV4F5QLLW3GBF6LKNNWSWVB.pdf,data\raw\kaggle_pdf\7N6KRBZIEFV4F5QLLW3GBF6LKNNWSWVB.pdf,13,13,0,0,success
+doc_00376,7ODKVGAYKZTRQVTJRVNSXSEK3QC43I3B.pdf,data\raw\kaggle_pdf\7ODKVGAYKZTRQVTJRVNSXSEK3QC43I3B.pdf,8,8,0,0,success
+doc_00377,7PZU4ANBX7CFDAKIK25A2U6GR5OMGEZX.pdf,data\raw\kaggle_pdf\7PZU4ANBX7CFDAKIK25A2U6GR5OMGEZX.pdf,2,2,0,0,success
+doc_00378,7QX6IKZ22UTQYM2ZQVUU64G4ZKYSDE2R.pdf,data\raw\kaggle_pdf\7QX6IKZ22UTQYM2ZQVUU64G4ZKYSDE2R.pdf,1,1,0,0,success
+doc_00379,7RVVK7WHY6HBTX3RU6AVLEEPLNLNQQDZ.pdf,data\raw\kaggle_pdf\7RVVK7WHY6HBTX3RU6AVLEEPLNLNQQDZ.pdf,3,0,3,3,success
+doc_00380,7VDYUYI25N4D4JRD7SKH4HJVX7GYRRFJ.pdf,data\raw\kaggle_pdf\7VDYUYI25N4D4JRD7SKH4HJVX7GYRRFJ.pdf,2,2,0,0,success
+doc_00381,7WOCAN6T6B5JRJB4C5LAIHLE6ERU2V22.pdf,data\raw\kaggle_pdf\7WOCAN6T6B5JRJB4C5LAIHLE6ERU2V22.pdf,2,2,0,0,success
+doc_00382,7YLE2QQTJK2HP5N2PUSAA3IKH662U3Y6.pdf,data\raw\kaggle_pdf\7YLE2QQTJK2HP5N2PUSAA3IKH662U3Y6.pdf,1,1,0,0,success
+doc_00383,80544a7f935d5910e3563d42774ad042e40fe907.pdf,data\raw\kaggle_pdf\80544a7f935d5910e3563d42774ad042e40fe907.pdf,6,6,0,0,success
+doc_00384,814f9f98c59d2d3fcdd3650f2f4c15ca526274cf.pdf,data\raw\kaggle_pdf\814f9f98c59d2d3fcdd3650f2f4c15ca526274cf.pdf,1,1,0,0,success
+doc_00385,8694bf4331c54425ae63b467f3d60213a56ff016.pdf,data\raw\kaggle_pdf\8694bf4331c54425ae63b467f3d60213a56ff016.pdf,6,6,0,0,success
+doc_00386,879ec9e7fed8f827f29acd1f83f3bb75e002360f.pdf,data\raw\kaggle_pdf\879ec9e7fed8f827f29acd1f83f3bb75e002360f.pdf,26,25,1,1,success
+doc_00387,887c6fd22c2be24a023105b3fb23d5e29dfd8055.pdf,data\raw\kaggle_pdf\887c6fd22c2be24a023105b3fb23d5e29dfd8055.pdf,2,2,0,0,success
+doc_00388,8a52f87f42831fabd6d3b69de6424fcb606fa6a9.pdf,data\raw\kaggle_pdf\8a52f87f42831fabd6d3b69de6424fcb606fa6a9.pdf,6,6,0,0,success
+doc_00389,9022c3a507bbfa1e98daeffd0f70f128f19746d3.pdf,data\raw\kaggle_pdf\9022c3a507bbfa1e98daeffd0f70f128f19746d3.pdf,7,7,0,0,success
+doc_00390,9a88dbee11432f3b74011df8eeab1943959dbb20.pdf,data\raw\kaggle_pdf\9a88dbee11432f3b74011df8eeab1943959dbb20.pdf,5,5,0,0,success
+doc_00391,9c4d24605c30d02dcb31fb1cdaa442201d5f00bd.pdf,data\raw\kaggle_pdf\9c4d24605c30d02dcb31fb1cdaa442201d5f00bd.pdf,17,16,1,1,success
+doc_00392,9e6045a3ee13c27de6bd14c7fe85cef8f7a28fbf.pdf,data\raw\kaggle_pdf\9e6045a3ee13c27de6bd14c7fe85cef8f7a28fbf.pdf,6,6,0,0,success
+doc_00393,A5PO2R5VRU5CSRP4JRS5SZNUTAD7P3HA.pdf,data\raw\kaggle_pdf\A5PO2R5VRU5CSRP4JRS5SZNUTAD7P3HA.pdf,4,4,0,0,success
+doc_00394,A5YCHM3QP2ZNRJWUDGZJQNT2PK2FZOQU.pdf,data\raw\kaggle_pdf\A5YCHM3QP2ZNRJWUDGZJQNT2PK2FZOQU.pdf,2,2,0,0,success
+doc_00395,A6C74HSIBPJ2GOACYBE3PWDZSFCEPS4Z.pdf,data\raw\kaggle_pdf\A6C74HSIBPJ2GOACYBE3PWDZSFCEPS4Z.pdf,1,1,0,0,success
+doc_00396,A6DZXB7GJCZULMSWOVPHR6WR6FRXNRAN.pdf,data\raw\kaggle_pdf\A6DZXB7GJCZULMSWOVPHR6WR6FRXNRAN.pdf,6,6,0,0,success
+doc_00397,A7KSCZYZQUBH6PEDXX3YKPP3NRNTAF2X.pdf,data\raw\kaggle_pdf\A7KSCZYZQUBH6PEDXX3YKPP3NRNTAF2X.pdf,1,1,0,0,success
+doc_00398,AA7LE5CV3O4PNQJPJXH2W6ML2O44A2ET.pdf,data\raw\kaggle_pdf\AA7LE5CV3O4PNQJPJXH2W6ML2O44A2ET.pdf,6,6,0,0,success
+doc_00399,aa932e9b0226461291e5f75cc35d2e13c0ab3218.pdf,data\raw\kaggle_pdf\aa932e9b0226461291e5f75cc35d2e13c0ab3218.pdf,9,9,0,0,success
+doc_00400,aa9edb6b15f25884ea1d47308c271fbf5badd29d.pdf,data\raw\kaggle_pdf\aa9edb6b15f25884ea1d47308c271fbf5badd29d.pdf,1,1,0,0,success
+doc_00401,AB2LVVUR7Q4T7O5QDSUALJSM5UMJH2HT.pdf,data\raw\kaggle_pdf\AB2LVVUR7Q4T7O5QDSUALJSM5UMJH2HT.pdf,3,3,0,0,success
+doc_00402,ADKCW3EY3SXNVTZUASDS7GAKEJ4GIQBI.pdf,data\raw\kaggle_pdf\ADKCW3EY3SXNVTZUASDS7GAKEJ4GIQBI.pdf,1,1,0,0,success
+doc_00403,ADYF6YEDFBWOGKPODVGYMTVM4VRY2C5K.pdf,data\raw\kaggle_pdf\ADYF6YEDFBWOGKPODVGYMTVM4VRY2C5K.pdf,1,1,0,0,success
+doc_00404,AEDZUJF6HFEQUC3GZMVSC5EVDPBEJ7TF.pdf,data\raw\kaggle_pdf\AEDZUJF6HFEQUC3GZMVSC5EVDPBEJ7TF.pdf,1,1,0,0,success
+doc_00405,AEJC2MUHWWSV5JKM6Q34CUY7QK4LVHP7.pdf,data\raw\kaggle_pdf\AEJC2MUHWWSV5JKM6Q34CUY7QK4LVHP7.pdf,18,18,0,0,success
+doc_00406,AF4I2VHMC6A56VICVEDIJ4MH5KRYKFTS.pdf,data\raw\kaggle_pdf\AF4I2VHMC6A56VICVEDIJ4MH5KRYKFTS.pdf,3,3,0,0,success
+doc_00407,af754bdf786579eb81414d411ef7c19f4e62ace6.pdf,data\raw\kaggle_pdf\af754bdf786579eb81414d411ef7c19f4e62ace6.pdf,22,22,0,0,success
+doc_00408,AFY6ATO2NPPVGZIG5SWMYZ7QGSGWRPGZ.pdf,data\raw\kaggle_pdf\AFY6ATO2NPPVGZIG5SWMYZ7QGSGWRPGZ.pdf,9,9,0,0,success
+doc_00409,AG62TAHBIVHRPIZC4SJHTXWHNFOKTYL5.pdf,data\raw\kaggle_pdf\AG62TAHBIVHRPIZC4SJHTXWHNFOKTYL5.pdf,3,3,0,0,success
+doc_00410,AGA4FFOUY3VW5J6OAKHFGWZ6TS4KYOF7.pdf,data\raw\kaggle_pdf\AGA4FFOUY3VW5J6OAKHFGWZ6TS4KYOF7.pdf,1,1,0,0,success
+doc_00411,AGFUUCT2P73LRPEVWZK7X7PVK4Z4ZNPL.pdf,data\raw\kaggle_pdf\AGFUUCT2P73LRPEVWZK7X7PVK4Z4ZNPL.pdf,5,5,0,0,success
+doc_00412,AHJAUKMSCN4OI3FPBHSLQVQSDTKBIHI3.pdf,data\raw\kaggle_pdf\AHJAUKMSCN4OI3FPBHSLQVQSDTKBIHI3.pdf,1,1,0,0,success
+doc_00413,AI27TP7D5YR3E23YDKFKVE27DDUEN5TU.pdf,data\raw\kaggle_pdf\AI27TP7D5YR3E23YDKFKVE27DDUEN5TU.pdf,1,1,0,0,success
+doc_00414,AI4AB74IQJ5NS5YEJ7SWZSEICZWWXSVP.pdf,data\raw\kaggle_pdf\AI4AB74IQJ5NS5YEJ7SWZSEICZWWXSVP.pdf,2,0,2,2,success
+doc_00415,AJAVZPZY2QKIC3OGVEN464UVGPNZP3HW.pdf,data\raw\kaggle_pdf\AJAVZPZY2QKIC3OGVEN464UVGPNZP3HW.pdf,1,0,1,1,success
+doc_00416,AJS2YB2O3ZRHMBI5IKKT2GU3R6H44U4J.pdf,data\raw\kaggle_pdf\AJS2YB2O3ZRHMBI5IKKT2GU3R6H44U4J.pdf,11,11,0,0,success
+doc_00417,AJUCXMX47JIFDGYJLPX5YLA7W3N4IXSV.pdf,data\raw\kaggle_pdf\AJUCXMX47JIFDGYJLPX5YLA7W3N4IXSV.pdf,1,1,0,0,success
+doc_00418,AJXUPPG2S5WLMN76I434ABJTFQFTSFSO.pdf,data\raw\kaggle_pdf\AJXUPPG2S5WLMN76I434ABJTFQFTSFSO.pdf,4,4,0,0,success
+doc_00419,AKT2VCFHNFNLCVYCCSPWNM2TX2C2PGID.pdf,data\raw\kaggle_pdf\AKT2VCFHNFNLCVYCCSPWNM2TX2C2PGID.pdf,6,6,0,0,success
+doc_00420,ALQMFHOFCDKV7HIO2VGHCM3ZDDVVZPBW.pdf,data\raw\kaggle_pdf\ALQMFHOFCDKV7HIO2VGHCM3ZDDVVZPBW.pdf,12,11,1,1,success
+doc_00421,AMTYOKGXFE7QNNQKJ73HZRLDKD3CSQW2.pdf,data\raw\kaggle_pdf\AMTYOKGXFE7QNNQKJ73HZRLDKD3CSQW2.pdf,33,33,0,0,success
+doc_00422,AMUVMXBOGLM4XL5MLD7IPQDEPKAQB63X.pdf,data\raw\kaggle_pdf\AMUVMXBOGLM4XL5MLD7IPQDEPKAQB63X.pdf,3,3,0,0,success
+doc_00423,AOHFJXCVNQCUJ22WM7SFTERIBYRNUKQ3.pdf,data\raw\kaggle_pdf\AOHFJXCVNQCUJ22WM7SFTERIBYRNUKQ3.pdf,3,3,0,0,success
+doc_00424,AOSZGPMOO45NZWZW33KQ6GJTNMFZREWT.pdf,data\raw\kaggle_pdf\AOSZGPMOO45NZWZW33KQ6GJTNMFZREWT.pdf,4,4,0,0,success
+doc_00425,AOZ2LBQOYCC5F3KFBN3FUGN2FODM6DCU.pdf,data\raw\kaggle_pdf\AOZ2LBQOYCC5F3KFBN3FUGN2FODM6DCU.pdf,32,32,0,0,success
+doc_00426,APIOSIGX4MKMHFQO5ZZK6YR5Z7IUFJOU.pdf,data\raw\kaggle_pdf\APIOSIGX4MKMHFQO5ZZK6YR5Z7IUFJOU.pdf,2,2,0,0,success
+doc_00427,APSZJI6LK7RTS54T7IXF4JHQFEOPNCCZ.pdf,data\raw\kaggle_pdf\APSZJI6LK7RTS54T7IXF4JHQFEOPNCCZ.pdf,36,33,3,1,success
+doc_00428,AVFIBOSLNYG5BBP2JOV3MOBAFZDYN7DP.pdf,data\raw\kaggle_pdf\AVFIBOSLNYG5BBP2JOV3MOBAFZDYN7DP.pdf,38,38,0,0,success
+doc_00429,AWE3PO5E4TSOCWQPQNPZVRA44RUSABZG.pdf,data\raw\kaggle_pdf\AWE3PO5E4TSOCWQPQNPZVRA44RUSABZG.pdf,4,4,0,0,success
+doc_00430,AXTUGHLO4R73GWXQ7YYSTQGN5OI4ZWBC.pdf,data\raw\kaggle_pdf\AXTUGHLO4R73GWXQ7YYSTQGN5OI4ZWBC.pdf,2,2,0,0,success
+doc_00431,AYZVGVPYWC6TNBDO76IU7PON3RZ22WQP.pdf,data\raw\kaggle_pdf\AYZVGVPYWC6TNBDO76IU7PON3RZ22WQP.pdf,2,2,0,0,success
+doc_00432,AZ7NEETDHP5PGNW2OI4D5AUJBQMF3OYE.pdf,data\raw\kaggle_pdf\AZ7NEETDHP5PGNW2OI4D5AUJBQMF3OYE.pdf,2,2,0,0,success
+doc_00433,b243f6218b4f2ca4de2717cf4a2af223b68210db.pdf,data\raw\kaggle_pdf\b243f6218b4f2ca4de2717cf4a2af223b68210db.pdf,22,18,4,3,success
+doc_00434,B3LIWULH323OKSAJATTM7QK5O7KKYMCA.pdf,data\raw\kaggle_pdf\B3LIWULH323OKSAJATTM7QK5O7KKYMCA.pdf,2,2,0,0,success
+doc_00435,b47adcf5e54f1d10bf91966ff3439f089610c0f0.pdf,data\raw\kaggle_pdf\b47adcf5e54f1d10bf91966ff3439f089610c0f0.pdf,11,11,0,0,success
+doc_00436,B4BDQGQ5WNDFTCQP46PNPZW2DUJ56GJH.pdf,data\raw\kaggle_pdf\B4BDQGQ5WNDFTCQP46PNPZW2DUJ56GJH.pdf,2,2,0,0,success
+doc_00437,b4eb68dd1d92f8c56b25e6d52948ba6c8ca8ec83.pdf,data\raw\kaggle_pdf\b4eb68dd1d92f8c56b25e6d52948ba6c8ca8ec83.pdf,17,17,0,0,success
+doc_00438,B5KPJCA2OHJFRE4CRZV6E2O7OQMTIU2M.pdf,data\raw\kaggle_pdf\B5KPJCA2OHJFRE4CRZV6E2O7OQMTIU2M.pdf,1,1,0,0,success
+doc_00439,B5PCEYSOV53475ZZQE7OPLN4FUVDRC7Y.pdf,data\raw\kaggle_pdf\B5PCEYSOV53475ZZQE7OPLN4FUVDRC7Y.pdf,11,0,11,11,success
+doc_00440,b705ad3e556b7f152b8ada00da4cb55994262d76.pdf,data\raw\kaggle_pdf\b705ad3e556b7f152b8ada00da4cb55994262d76.pdf,6,6,0,0,success
+doc_00441,b818855b7d3d5822dd578d58a909968f5504497d.pdf,data\raw\kaggle_pdf\b818855b7d3d5822dd578d58a909968f5504497d.pdf,32,31,1,1,success
+doc_00442,BCUX3MK6IP7A6DWNH2ORKIO2PECOXJDO.pdf,data\raw\kaggle_pdf\BCUX3MK6IP7A6DWNH2ORKIO2PECOXJDO.pdf,1,1,0,0,success
+doc_00443,BFS4QFMW3DINEZVMEQEDDKQYOURCQ62M.pdf,data\raw\kaggle_pdf\BFS4QFMW3DINEZVMEQEDDKQYOURCQ62M.pdf,1,1,0,0,success
+doc_00444,BFWOETAIBXJQILXW3TFPQFSKPR726RJ5.pdf,data\raw\kaggle_pdf\BFWOETAIBXJQILXW3TFPQFSKPR726RJ5.pdf,6,6,0,0,success
+doc_00445,BI5TFHTLJDOJCIYTD6D2PM5OBALKZ4QX.pdf,data\raw\kaggle_pdf\BI5TFHTLJDOJCIYTD6D2PM5OBALKZ4QX.pdf,1,1,0,0,success
+doc_00446,BIQ36HF3QF3EIONNDI43TL5IU43SQKWJ.pdf,data\raw\kaggle_pdf\BIQ36HF3QF3EIONNDI43TL5IU43SQKWJ.pdf,2,2,0,0,success
+doc_00447,BKDEEPDFQCNSHDSJKAW6JR2BO27KEZ3Q.pdf,data\raw\kaggle_pdf\BKDEEPDFQCNSHDSJKAW6JR2BO27KEZ3Q.pdf,2,2,0,0,success
+doc_00448,BKWDR4PBS4CBB6SJ7JBXHZZ6HTNIVYXW.pdf,data\raw\kaggle_pdf\BKWDR4PBS4CBB6SJ7JBXHZZ6HTNIVYXW.pdf,1,0,1,1,success
+doc_00449,BLPT55AK2Y5UAQGF36X5OMVOO6APKWVI.pdf,data\raw\kaggle_pdf\BLPT55AK2Y5UAQGF36X5OMVOO6APKWVI.pdf,9,9,0,0,success
+doc_00450,BLQYONKYGPSK7RW76LOAUDZGQXB634CT.pdf,data\raw\kaggle_pdf\BLQYONKYGPSK7RW76LOAUDZGQXB634CT.pdf,1,1,0,0,success
+doc_00451,BMDXYCXAUG3GS32B5SW6Q65PRQJTWEOZ.pdf,data\raw\kaggle_pdf\BMDXYCXAUG3GS32B5SW6Q65PRQJTWEOZ.pdf,1,1,0,0,success
+doc_00452,BNAB3PKSEPVY6LVEMD6PZQXWXMDDTQ7U.pdf,data\raw\kaggle_pdf\BNAB3PKSEPVY6LVEMD6PZQXWXMDDTQ7U.pdf,24,24,0,0,success
+doc_00453,BO22JMPQ7C2FRODUK35FIODAQMDOCY6B.pdf,data\raw\kaggle_pdf\BO22JMPQ7C2FRODUK35FIODAQMDOCY6B.pdf,4,4,0,0,success
+doc_00454,BOH4KJMMRAVVCOH7QURXB6OI54ZHSFSX.pdf,data\raw\kaggle_pdf\BOH4KJMMRAVVCOH7QURXB6OI54ZHSFSX.pdf,1,1,0,0,success
+doc_00455,BOV6TNUHLZUKL6WNKWPBOXHXPL22HUNC.pdf,data\raw\kaggle_pdf\BOV6TNUHLZUKL6WNKWPBOXHXPL22HUNC.pdf,1,0,1,1,success
+doc_00456,BQCOYOZ4JLHHZV4764GRWDBITIJ2KYZV.pdf,data\raw\kaggle_pdf\BQCOYOZ4JLHHZV4764GRWDBITIJ2KYZV.pdf,1,1,0,0,success
+doc_00457,BRP4EG4C6NJVFZHSZUZIOAXSGVHHFJDH.pdf,data\raw\kaggle_pdf\BRP4EG4C6NJVFZHSZUZIOAXSGVHHFJDH.pdf,1,1,0,0,success
+doc_00458,BTV7FPFDLIGZEEUQ3ODJ2J7BJ57HJXTG.pdf,data\raw\kaggle_pdf\BTV7FPFDLIGZEEUQ3ODJ2J7BJ57HJXTG.pdf,1,0,1,1,success
+doc_00459,BUDP7F2VA32OORAA4TZ5OYZRYYLZGMDK.pdf,data\raw\kaggle_pdf\BUDP7F2VA32OORAA4TZ5OYZRYYLZGMDK.pdf,3,3,0,0,success
+doc_00460,BUOCBC3OD52VNUONIT3IABQGK3JDIXB4.pdf,data\raw\kaggle_pdf\BUOCBC3OD52VNUONIT3IABQGK3JDIXB4.pdf,3,3,0,0,success
+doc_00461,BW4FTNODL22WYRMWJCRIK6EEB2HVDQ4K.pdf,data\raw\kaggle_pdf\BW4FTNODL22WYRMWJCRIK6EEB2HVDQ4K.pdf,4,4,0,0,success
+doc_00462,BYAGGYJAJF54MOS44JDLAZJZ2CJNQXNH.pdf,data\raw\kaggle_pdf\BYAGGYJAJF54MOS44JDLAZJZ2CJNQXNH.pdf,5,5,0,0,success
+doc_00463,BYKJN2BUL5GMFA37AT54WTXVMPB5CXQL.pdf,data\raw\kaggle_pdf\BYKJN2BUL5GMFA37AT54WTXVMPB5CXQL.pdf,1,1,0,0,success
+doc_00464,BYSWSP7HQFGJC7GXW42C4H6RKIH3TAVQ.pdf,data\raw\kaggle_pdf\BYSWSP7HQFGJC7GXW42C4H6RKIH3TAVQ.pdf,4,4,0,0,success
+doc_00465,BYVMYNJSMFL7V7VYYCQ566SBR2HTWF5C.pdf,data\raw\kaggle_pdf\BYVMYNJSMFL7V7VYYCQ566SBR2HTWF5C.pdf,3,3,0,0,success
+doc_00466,BZO3QEJ3CE2OQFGHA7ZD3CDOWHI543UM.pdf,data\raw\kaggle_pdf\BZO3QEJ3CE2OQFGHA7ZD3CDOWHI543UM.pdf,3,3,0,0,success
+doc_00467,c0aceb39c261fc0b324233345b8970b51d1015c9.pdf,data\raw\kaggle_pdf\c0aceb39c261fc0b324233345b8970b51d1015c9.pdf,2,2,0,0,success
+doc_00468,c31721d6245f5689e5d715b1497b2374df7ae4c6.pdf,data\raw\kaggle_pdf\c31721d6245f5689e5d715b1497b2374df7ae4c6.pdf,9,9,0,0,success
+doc_00469,c386176749094cb9a148745186bf6a52c2e167ca.pdf,data\raw\kaggle_pdf\c386176749094cb9a148745186bf6a52c2e167ca.pdf,3,3,0,0,success
+doc_00470,c4a09b0dbc3981442fd94717d9aa6b2a90a3a3e0.pdf,data\raw\kaggle_pdf\c4a09b0dbc3981442fd94717d9aa6b2a90a3a3e0.pdf,1,1,0,0,success
+doc_00471,C4C7ZVBASMN3KJOSFYD7Z6OSJZ2VL6SO.pdf,data\raw\kaggle_pdf\C4C7ZVBASMN3KJOSFYD7Z6OSJZ2VL6SO.pdf,40,40,0,0,success
+doc_00472,C4NPAEIY6FLWJW4OYOXHQQPAARYGSVFG.pdf,data\raw\kaggle_pdf\C4NPAEIY6FLWJW4OYOXHQQPAARYGSVFG.pdf,10,9,1,1,success
+doc_00473,C5BRNMXYO6ZXRPUZUNHID4EBW4TAKQYI.pdf,data\raw\kaggle_pdf\C5BRNMXYO6ZXRPUZUNHID4EBW4TAKQYI.pdf,7,7,0,0,success
+doc_00474,C6SH74HD7KHGRLPMM6FE42GBFEZBBOYM.pdf,data\raw\kaggle_pdf\C6SH74HD7KHGRLPMM6FE42GBFEZBBOYM.pdf,11,11,0,0,success
+doc_00475,CAFPBUU24YDNMKG5ULIDXRBNI6NUPVF2.pdf,data\raw\kaggle_pdf\CAFPBUU24YDNMKG5ULIDXRBNI6NUPVF2.pdf,6,6,0,0,success
+doc_00476,CBGYHKW5VJ4AWKLUIZDTMIIOPZVWDRV6.pdf,data\raw\kaggle_pdf\CBGYHKW5VJ4AWKLUIZDTMIIOPZVWDRV6.pdf,1,1,0,0,success
+doc_00477,cc9101f06002345e30cd6f92d692d4ccc439f430.pdf,data\raw\kaggle_pdf\cc9101f06002345e30cd6f92d692d4ccc439f430.pdf,5,5,0,0,success
+doc_00478,cdc0d42854a09a33d44b0c72dc56b8e13add79eb.pdf,data\raw\kaggle_pdf\cdc0d42854a09a33d44b0c72dc56b8e13add79eb.pdf,5,5,0,0,success
+doc_00479,CEANMN5G6I4ISNFSTYEX44YCLQ52GWCV.pdf,data\raw\kaggle_pdf\CEANMN5G6I4ISNFSTYEX44YCLQ52GWCV.pdf,3,3,0,0,success
+doc_00480,CFE2FFPB3TDJ3H3QARTMXDZMY5KWEXF5.pdf,data\raw\kaggle_pdf\CFE2FFPB3TDJ3H3QARTMXDZMY5KWEXF5.pdf,16,16,0,0,success
+doc_00481,CI7INUGNXV4CY2ETA4PM5IOKZNUM5A2T.pdf,data\raw\kaggle_pdf\CI7INUGNXV4CY2ETA4PM5IOKZNUM5A2T.pdf,2,2,0,0,success
+doc_00482,CIPZA5WZQ5JAE4AXBJTWO4PFGT7ORKB7.pdf,data\raw\kaggle_pdf\CIPZA5WZQ5JAE4AXBJTWO4PFGT7ORKB7.pdf,2,2,0,0,success
+doc_00483,CIVXOLLIUSCCM6HCT63TQ4R4563YJHRL.pdf,data\raw\kaggle_pdf\CIVXOLLIUSCCM6HCT63TQ4R4563YJHRL.pdf,1,1,0,0,success
+doc_00484,CJ32H5HOWQQX3XKCOKS7HVZ4Z4RO33YK.pdf,data\raw\kaggle_pdf\CJ32H5HOWQQX3XKCOKS7HVZ4Z4RO33YK.pdf,1,1,0,0,success
+doc_00485,CKD4X5XXEK26KQJPNUYC5BAHHHH2RNME.pdf,data\raw\kaggle_pdf\CKD4X5XXEK26KQJPNUYC5BAHHHH2RNME.pdf,24,23,1,0,success
+doc_00486,CLVKCFF5I35W7VS2OQN55H3E5XJ4XFVE.pdf,data\raw\kaggle_pdf\CLVKCFF5I35W7VS2OQN55H3E5XJ4XFVE.pdf,7,7,0,0,success
+doc_00487,CM73W2TP2FDG5FFHRB6CQS526UNDQF7P.pdf,data\raw\kaggle_pdf\CM73W2TP2FDG5FFHRB6CQS526UNDQF7P.pdf,2,2,0,0,success
+doc_00488,CMKTEAMIWZYAZM4XVNX6MDAOWI4G7VD6.pdf,data\raw\kaggle_pdf\CMKTEAMIWZYAZM4XVNX6MDAOWI4G7VD6.pdf,14,14,0,0,success
+doc_00489,CMLZOTTP4BCWEEGZ2OATUKNBQGGIZ4OA.pdf,data\raw\kaggle_pdf\CMLZOTTP4BCWEEGZ2OATUKNBQGGIZ4OA.pdf,2,2,0,0,success
+doc_00490,CNPMG5NQZIMW4X6N2DH77Z5NHJXTWOGD.pdf,data\raw\kaggle_pdf\CNPMG5NQZIMW4X6N2DH77Z5NHJXTWOGD.pdf,1,1,0,0,success
+doc_00491,CPQ3LPSTBRDPAQHGNDKS2SHAB3JLT2MG.pdf,data\raw\kaggle_pdf\CPQ3LPSTBRDPAQHGNDKS2SHAB3JLT2MG.pdf,9,9,0,0,success
+doc_00492,CRUX6GOFZIONS7TFHX7MGJWDZ5F636K6.pdf,data\raw\kaggle_pdf\CRUX6GOFZIONS7TFHX7MGJWDZ5F636K6.pdf,2,2,0,0,success
+doc_00493,CS4O7BCLPRK6J5MKIK7BPBFC2UURCM7X.pdf,data\raw\kaggle_pdf\CS4O7BCLPRK6J5MKIK7BPBFC2UURCM7X.pdf,1,1,0,0,success
+doc_00494,CS7K5VMMTMSYHTHKLFYD7QC7EFIEPHKX.pdf,data\raw\kaggle_pdf\CS7K5VMMTMSYHTHKLFYD7QC7EFIEPHKX.pdf,12,12,0,0,success
+doc_00495,CT6O4FXETQ2ABBLKKRWK5E344XQA73C3.pdf,data\raw\kaggle_pdf\CT6O4FXETQ2ABBLKKRWK5E344XQA73C3.pdf,1,1,0,0,success
+doc_00496,CTCGFUXUY5OISRT3B3UIQKMWPXEVKAUU.pdf,data\raw\kaggle_pdf\CTCGFUXUY5OISRT3B3UIQKMWPXEVKAUU.pdf,1,0,1,1,success
+doc_00497,CTMYRF75O3COU6UV5KWIFEF6TLJF4REJ.pdf,data\raw\kaggle_pdf\CTMYRF75O3COU6UV5KWIFEF6TLJF4REJ.pdf,5,5,0,0,success
+doc_00498,CUF7M7BNFDH3UZPGBG55JYJHN4LVA3CP.pdf,data\raw\kaggle_pdf\CUF7M7BNFDH3UZPGBG55JYJHN4LVA3CP.pdf,2,2,0,0,success
+doc_00499,CUHGX5XRCG2IOBFKZJO73RCWRBGZTE3J.pdf,data\raw\kaggle_pdf\CUHGX5XRCG2IOBFKZJO73RCWRBGZTE3J.pdf,3,3,0,0,success
+doc_00500,CUZ2NR6XAEBYXKYB5AQ2C5IEHOWRBC6E.pdf,data\raw\kaggle_pdf\CUZ2NR6XAEBYXKYB5AQ2C5IEHOWRBC6E.pdf,1,1,0,0,success
+doc_00501,CVDOWLIOUVHDH3SRWHZALMVDPATFQGVR.pdf,data\raw\kaggle_pdf\CVDOWLIOUVHDH3SRWHZALMVDPATFQGVR.pdf,2,0,2,2,success
+doc_00502,CYINDTQC52PLSE235SEE2FHV4OVS5UHQ.pdf,data\raw\kaggle_pdf\CYINDTQC52PLSE235SEE2FHV4OVS5UHQ.pdf,1,1,0,0,success
+doc_00503,CYPB3G76MAY6ESGBZ5FW7V4AHG5YVS7F.pdf,data\raw\kaggle_pdf\CYPB3G76MAY6ESGBZ5FW7V4AHG5YVS7F.pdf,5,5,0,0,success
+doc_00504,CYXM4LWKACZDGNELK57MUBGVEYKQFW24.pdf,data\raw\kaggle_pdf\CYXM4LWKACZDGNELK57MUBGVEYKQFW24.pdf,1,1,0,0,success
+doc_00505,CZOP2ITFIK5GAH4SD3GJI755X7QFUHM3.pdf,data\raw\kaggle_pdf\CZOP2ITFIK5GAH4SD3GJI755X7QFUHM3.pdf,5,5,0,0,success
+doc_00506,CZXLJIPYAEZEX6CTNJ7JZTSBXA44TTVT.pdf,data\raw\kaggle_pdf\CZXLJIPYAEZEX6CTNJ7JZTSBXA44TTVT.pdf,1,1,0,0,success
+doc_00507,D2FRDPDTXJKVTJKEBESWUWBYZDJRBNAI.pdf,data\raw\kaggle_pdf\D2FRDPDTXJKVTJKEBESWUWBYZDJRBNAI.pdf,1,1,0,0,success
+doc_00508,D2QRZ66KOQHV23ZCW3XLS27YON4ATGCT.pdf,data\raw\kaggle_pdf\D2QRZ66KOQHV23ZCW3XLS27YON4ATGCT.pdf,10,9,1,1,success
+doc_00509,D3BLEFGEYIMPXCDAJJUYBTSMJEAURKTV.pdf,data\raw\kaggle_pdf\D3BLEFGEYIMPXCDAJJUYBTSMJEAURKTV.pdf,5,5,0,0,success
+doc_00510,D3UTL7WXYMB5VHKSTM53DZCP5NDOK2J5.pdf,data\raw\kaggle_pdf\D3UTL7WXYMB5VHKSTM53DZCP5NDOK2J5.pdf,2,2,0,0,success
+doc_00511,D45G6SVN7QZSMYJOJGWLKE3MJ6DHTYY5.pdf,data\raw\kaggle_pdf\D45G6SVN7QZSMYJOJGWLKE3MJ6DHTYY5.pdf,11,0,11,11,success
+doc_00512,D4BBBAV5MEXMP4EU2KX7JTF4DFORZHZO.pdf,data\raw\kaggle_pdf\D4BBBAV5MEXMP4EU2KX7JTF4DFORZHZO.pdf,1,1,0,0,success
+doc_00513,D4CM47RUIGRB3ELSBVH4KECQCVU7DJZF.pdf,data\raw\kaggle_pdf\D4CM47RUIGRB3ELSBVH4KECQCVU7DJZF.pdf,3,3,0,0,success
+doc_00514,D4FEEQXJJDKXQ2NSXGTBKS64QRHHP65I.pdf,data\raw\kaggle_pdf\D4FEEQXJJDKXQ2NSXGTBKS64QRHHP65I.pdf,10,10,0,0,success
+doc_00515,d5b25fe1a9b3ab5d54dfc8855984d7a7bb669878.pdf,data\raw\kaggle_pdf\d5b25fe1a9b3ab5d54dfc8855984d7a7bb669878.pdf,21,21,0,0,success
+doc_00516,D5XGVE6OSPKS2ELNCRDRBFZ4XQNNAYA7.pdf,data\raw\kaggle_pdf\D5XGVE6OSPKS2ELNCRDRBFZ4XQNNAYA7.pdf,1,1,0,0,success
+doc_00517,D6HDJJ7UEFJGI3ZLUWIWMZHJJDO7MRGC.pdf,data\raw\kaggle_pdf\D6HDJJ7UEFJGI3ZLUWIWMZHJJDO7MRGC.pdf,5,5,0,0,success
+doc_00518,d96ae467a533e2e62be85326c8bc9e5a7f7f38fc.pdf,data\raw\kaggle_pdf\d96ae467a533e2e62be85326c8bc9e5a7f7f38fc.pdf,7,7,0,0,success
+doc_00519,da385f63329c4f7d3cc876d5e2897a685db40ac2.pdf,data\raw\kaggle_pdf\da385f63329c4f7d3cc876d5e2897a685db40ac2.pdf,4,4,0,0,success
+doc_00520,DAMU2TVQKZEDZ6ZJN7NZBERHFU6I6ZZG.pdf,data\raw\kaggle_pdf\DAMU2TVQKZEDZ6ZJN7NZBERHFU6I6ZZG.pdf,3,3,0,0,success
+doc_00521,DC6ISE73FTS3CSZYA7GWOAXRDY7WRE75.pdf,data\raw\kaggle_pdf\DC6ISE73FTS3CSZYA7GWOAXRDY7WRE75.pdf,3,0,3,3,success
+doc_00522,DCV3ZE4QBSCTBQFIYAKWJLX32ENKJKI5.pdf,data\raw\kaggle_pdf\DCV3ZE4QBSCTBQFIYAKWJLX32ENKJKI5.pdf,2,0,2,2,success
+doc_00523,dd96e25d23e1d5ccbe54d07c77fc52ae10d1dae9.pdf,data\raw\kaggle_pdf\dd96e25d23e1d5ccbe54d07c77fc52ae10d1dae9.pdf,8,8,0,0,success
+doc_00524,DDGJRL6PYXQO6TAZCPOLGYTVVSIUFRWG.pdf,data\raw\kaggle_pdf\DDGJRL6PYXQO6TAZCPOLGYTVVSIUFRWG.pdf,2,0,2,2,success
+doc_00525,DEAHZFTA4CQDFDYMRX2NPJCKEHYPIK2Z.pdf,data\raw\kaggle_pdf\DEAHZFTA4CQDFDYMRX2NPJCKEHYPIK2Z.pdf,100,80,20,7,success
+doc_00526,df7602a1700deab0723261081a9136bc98cbdc10.pdf,data\raw\kaggle_pdf\df7602a1700deab0723261081a9136bc98cbdc10.pdf,4,4,0,0,success
+doc_00527,DFRZEHIYFOLYSRB7IE2V7DWZTAFX6BHH.pdf,data\raw\kaggle_pdf\DFRZEHIYFOLYSRB7IE2V7DWZTAFX6BHH.pdf,1,1,0,0,success
+doc_00528,DG45DWPFVSPLLJLFUHTJUGTYNSX7WEMF.pdf,data\raw\kaggle_pdf\DG45DWPFVSPLLJLFUHTJUGTYNSX7WEMF.pdf,1,0,1,1,success
+doc_00529,DGZ2C5RQO4EDW2XQHLWDCCJZUB6IQLCE.pdf,data\raw\kaggle_pdf\DGZ2C5RQO4EDW2XQHLWDCCJZUB6IQLCE.pdf,2,2,0,0,success
+doc_00530,DJB3ZGUGJANSX3J2RPJJU6L4OPGKC2NK.pdf,data\raw\kaggle_pdf\DJB3ZGUGJANSX3J2RPJJU6L4OPGKC2NK.pdf,9,9,0,0,success
+doc_00531,DLCK2ZINQX5GZHWTO7CREF3XKDUSMXRQ.pdf,data\raw\kaggle_pdf\DLCK2ZINQX5GZHWTO7CREF3XKDUSMXRQ.pdf,1,1,0,0,success
+doc_00532,DLCKN67W6R4KMBYO4VLF2H7MTP665HIJ.pdf,data\raw\kaggle_pdf\DLCKN67W6R4KMBYO4VLF2H7MTP665HIJ.pdf,1,1,0,0,success
+doc_00533,DOKB26RKCSAF5APEDPO4JYXMHMUCLPRI.pdf,data\raw\kaggle_pdf\DOKB26RKCSAF5APEDPO4JYXMHMUCLPRI.pdf,7,7,0,0,success
+doc_00534,DOPBKNWBER76WVPP654XCUJGCQEGSOZY.pdf,data\raw\kaggle_pdf\DOPBKNWBER76WVPP654XCUJGCQEGSOZY.pdf,92,91,1,1,success
+doc_00535,DQSGXNBZHHZWC6653JA34RT56TTUZ6W5.pdf,data\raw\kaggle_pdf\DQSGXNBZHHZWC6653JA34RT56TTUZ6W5.pdf,1,1,0,0,success
+doc_00536,DR2YP7NU7CR3XVU26T53RUKCUZ35HV5B.pdf,data\raw\kaggle_pdf\DR2YP7NU7CR3XVU26T53RUKCUZ35HV5B.pdf,14,14,0,0,success
+doc_00537,DR44GMFR57CROQCOUET6BVBGBYZW5HJ5.pdf,data\raw\kaggle_pdf\DR44GMFR57CROQCOUET6BVBGBYZW5HJ5.pdf,47,44,3,0,success
+doc_00538,DROYHKJATHTGQRNXG6PEDVKVXILMNNET.pdf,data\raw\kaggle_pdf\DROYHKJATHTGQRNXG6PEDVKVXILMNNET.pdf,1,1,0,0,success
+doc_00539,DT4L2H3NRGV745OGQRVM3FVHNKECMEYP.pdf,data\raw\kaggle_pdf\DT4L2H3NRGV745OGQRVM3FVHNKECMEYP.pdf,3,3,0,0,success
+doc_00540,DT6DEEFX7TAPKGTNNF5C4FOJQQ3QLCQV.pdf,data\raw\kaggle_pdf\DT6DEEFX7TAPKGTNNF5C4FOJQQ3QLCQV.pdf,4,4,0,0,success
+doc_00541,DTMCZXA4EUHAELLHVHGOH573C4OZ7KM4.pdf,data\raw\kaggle_pdf\DTMCZXA4EUHAELLHVHGOH573C4OZ7KM4.pdf,1,1,0,0,success
+doc_00542,DTUUL6SJCKWTMKUHW4EBFNTNIZCMIM2H.pdf,data\raw\kaggle_pdf\DTUUL6SJCKWTMKUHW4EBFNTNIZCMIM2H.pdf,17,17,0,0,success
+doc_00543,DTYPSU6H33ZSSVI63PEM45AYRXUODI5I.pdf,data\raw\kaggle_pdf\DTYPSU6H33ZSSVI63PEM45AYRXUODI5I.pdf,3,3,0,0,success
+doc_00544,DVKZAQ3CUXGDY2H4OVKPJHXM4IDHXP4M.pdf,data\raw\kaggle_pdf\DVKZAQ3CUXGDY2H4OVKPJHXM4IDHXP4M.pdf,25,2,23,22,success
+doc_00545,DWLTLUWBPW5FY622QVPGQP22U45D65HE.pdf,data\raw\kaggle_pdf\DWLTLUWBPW5FY622QVPGQP22U45D65HE.pdf,8,8,0,0,success
+doc_00546,DXPFLLZRFX6PVX7MBUEEPEVO6AJTVUDR.pdf,data\raw\kaggle_pdf\DXPFLLZRFX6PVX7MBUEEPEVO6AJTVUDR.pdf,1,1,0,0,success
+doc_00547,DY5LZQ4GNWFFHGFEMU7C565YTWYVC5SB.pdf,data\raw\kaggle_pdf\DY5LZQ4GNWFFHGFEMU7C565YTWYVC5SB.pdf,1,1,0,0,success
+doc_00548,DY75VBIKWAL76NRMMVFOYFQ52DB77TEI.pdf,data\raw\kaggle_pdf\DY75VBIKWAL76NRMMVFOYFQ52DB77TEI.pdf,9,8,1,1,success
+doc_00549,E2XYIWPO7VKZRRA4USIRPBU3HCDVEKRV.pdf,data\raw\kaggle_pdf\E2XYIWPO7VKZRRA4USIRPBU3HCDVEKRV.pdf,1,1,0,0,success
+doc_00550,e3a7a91ebd77058c0e1db6d55fe445aabd182086.pdf,data\raw\kaggle_pdf\e3a7a91ebd77058c0e1db6d55fe445aabd182086.pdf,6,6,0,0,success
+doc_00551,E3XL5U27WEMN6KDITFQEPNYN3FFPZRHE.pdf,data\raw\kaggle_pdf\E3XL5U27WEMN6KDITFQEPNYN3FFPZRHE.pdf,2,2,0,0,success
+doc_00552,e42ff10674f4d5964879848ad96abe31cb6b1ebf.pdf,data\raw\kaggle_pdf\e42ff10674f4d5964879848ad96abe31cb6b1ebf.pdf,5,5,0,0,success
+doc_00553,E45NEAYVIVYEEBRMTFW3XMU5ZQQQTCWV.pdf,data\raw\kaggle_pdf\E45NEAYVIVYEEBRMTFW3XMU5ZQQQTCWV.pdf,6,6,0,0,success
+doc_00554,E56DXI3S5SVXXFZEC2OCGDDC4VYSWROH.pdf,data\raw\kaggle_pdf\E56DXI3S5SVXXFZEC2OCGDDC4VYSWROH.pdf,1,1,0,0,success
+doc_00555,e65a0a289977abe2091b9c05c32d36db491616f6.pdf,data\raw\kaggle_pdf\e65a0a289977abe2091b9c05c32d36db491616f6.pdf,6,6,0,0,success
+doc_00556,e666bebd9a30492fb9ca052e0f7d0841a5920f4d.pdf,data\raw\kaggle_pdf\e666bebd9a30492fb9ca052e0f7d0841a5920f4d.pdf,31,31,0,0,success
+doc_00557,E7O4MCIJGJKJSZ2G3ID2HPJMHKKQESON.pdf,data\raw\kaggle_pdf\E7O4MCIJGJKJSZ2G3ID2HPJMHKKQESON.pdf,3,0,3,3,success
+doc_00558,e86f389121e94e5a65f89285a2ccc810a7cfdcdc.pdf,data\raw\kaggle_pdf\e86f389121e94e5a65f89285a2ccc810a7cfdcdc.pdf,8,8,0,0,success
+doc_00559,EALKFLTU3UCBB6QBUNJKABNLGIJTRP7B.pdf,data\raw\kaggle_pdf\EALKFLTU3UCBB6QBUNJKABNLGIJTRP7B.pdf,6,6,0,0,success
+doc_00560,EB3A6TOVFRNEROHIMEIZF55MYVF3CAP5.pdf,data\raw\kaggle_pdf\EB3A6TOVFRNEROHIMEIZF55MYVF3CAP5.pdf,33,33,0,0,success
+doc_00561,EB46IVVKTIHXKYY42XWKUM64HY2USGTZ.pdf,data\raw\kaggle_pdf\EB46IVVKTIHXKYY42XWKUM64HY2USGTZ.pdf,12,12,0,0,success
+doc_00562,EB5EKLJTJ5IL53O7YP2A2VW7APCINGBK.pdf,data\raw\kaggle_pdf\EB5EKLJTJ5IL53O7YP2A2VW7APCINGBK.pdf,19,17,2,1,success
+doc_00563,ECD5ZBDO5DNK52KCE74RPTT5UDFMOIW4.pdf,data\raw\kaggle_pdf\ECD5ZBDO5DNK52KCE74RPTT5UDFMOIW4.pdf,16,16,0,0,success
+doc_00564,EE7766LOROEVENPPH5YSSIV3Q63HP5TN.pdf,data\raw\kaggle_pdf\EE7766LOROEVENPPH5YSSIV3Q63HP5TN.pdf,1,1,0,0,success
+doc_00565,EHKVBSEBX33HSCZP2YGBOAAGM4WPMRL2.pdf,data\raw\kaggle_pdf\EHKVBSEBX33HSCZP2YGBOAAGM4WPMRL2.pdf,5,5,0,0,success
+doc_00566,EI4NKIFHUUATUUEER4SDXP6EZNJK7GQH.pdf,data\raw\kaggle_pdf\EI4NKIFHUUATUUEER4SDXP6EZNJK7GQH.pdf,1,1,0,0,success
+doc_00567,EIR7WZL6LLXE7N7TX5ZY4QKXPPZEISPQ.pdf,data\raw\kaggle_pdf\EIR7WZL6LLXE7N7TX5ZY4QKXPPZEISPQ.pdf,1,1,0,0,success
+doc_00568,EJG5HX3GR5KU4XBCF3L6VM6ZQGPEMYP6.pdf,data\raw\kaggle_pdf\EJG5HX3GR5KU4XBCF3L6VM6ZQGPEMYP6.pdf,2,2,0,0,success
+doc_00569,EKWVDOMQ3BRDHPPTHV47A37AY2NUS7XK.pdf,data\raw\kaggle_pdf\EKWVDOMQ3BRDHPPTHV47A37AY2NUS7XK.pdf,3,3,0,0,success
+doc_00570,EKYCT6JDYSVHCFQPJSCTM7VEB5GEUPWR.pdf,data\raw\kaggle_pdf\EKYCT6JDYSVHCFQPJSCTM7VEB5GEUPWR.pdf,2,2,0,0,success
+doc_00571,ELS4P7L7AQO4WFSJVMCLQZ4HLOQIHFZU.pdf,data\raw\kaggle_pdf\ELS4P7L7AQO4WFSJVMCLQZ4HLOQIHFZU.pdf,8,8,0,0,success
+doc_00572,EMMM5FRYBCPVBLVU4RY6OFEKZFWM2KIJ.pdf,data\raw\kaggle_pdf\EMMM5FRYBCPVBLVU4RY6OFEKZFWM2KIJ.pdf,4,4,0,0,success
+doc_00573,EMV5G7QIUVFMF7PMONNAT7IGWSTPHLQO.pdf,data\raw\kaggle_pdf\EMV5G7QIUVFMF7PMONNAT7IGWSTPHLQO.pdf,1,1,0,0,success
+doc_00574,ENYGA5NQD5Q33QKGXONUBLQS7FJMLO6N.pdf,data\raw\kaggle_pdf\ENYGA5NQD5Q33QKGXONUBLQS7FJMLO6N.pdf,27,27,0,0,success
+doc_00575,EQDIZLFPMDEBKUMF53WGJTJNZCBWBPPH.pdf,data\raw\kaggle_pdf\EQDIZLFPMDEBKUMF53WGJTJNZCBWBPPH.pdf,1,1,0,0,success
+doc_00576,ES5LDB5OV2PKIMVD3Z72CVQK4RSDBYJI.pdf,data\raw\kaggle_pdf\ES5LDB5OV2PKIMVD3Z72CVQK4RSDBYJI.pdf,2,2,0,0,success
+doc_00577,ESIAEQENN4LMSOASECP7GLHB4TQ6IDPB.pdf,data\raw\kaggle_pdf\ESIAEQENN4LMSOASECP7GLHB4TQ6IDPB.pdf,13,0,13,13,success
+doc_00578,ESLT6O2ILYCNRFPEICP7QNQDZOWHLMUD.pdf,data\raw\kaggle_pdf\ESLT6O2ILYCNRFPEICP7QNQDZOWHLMUD.pdf,1,1,0,0,success
+doc_00579,ETHSNCYBMUXLZLAAB6PZK2GIO2E7ZEXK.pdf,data\raw\kaggle_pdf\ETHSNCYBMUXLZLAAB6PZK2GIO2E7ZEXK.pdf,9,9,0,0,success
+doc_00580,EU72SRWRRWAE3AYJ7CPHLDNOBSO3LTZ2.pdf,data\raw\kaggle_pdf\EU72SRWRRWAE3AYJ7CPHLDNOBSO3LTZ2.pdf,2,2,0,0,success
+doc_00581,EUMZHAVVHG7K6CDQVOACCW3IN4DSMT5M.pdf,data\raw\kaggle_pdf\EUMZHAVVHG7K6CDQVOACCW3IN4DSMT5M.pdf,17,17,0,0,success
+doc_00582,EVWZKEBEBK3TDSK3VC4AHQKSNXD6FBWI.pdf,data\raw\kaggle_pdf\EVWZKEBEBK3TDSK3VC4AHQKSNXD6FBWI.pdf,1,1,0,0,success
+doc_00583,EZ5GI4R7U4POAIDO2DOL6J3LIQLGQQRX.pdf,data\raw\kaggle_pdf\EZ5GI4R7U4POAIDO2DOL6J3LIQLGQQRX.pdf,1,1,0,0,success
+doc_00584,EZCGBU5BSAHPIJIBP3AKOZX7WYPWQXTE.pdf,data\raw\kaggle_pdf\EZCGBU5BSAHPIJIBP3AKOZX7WYPWQXTE.pdf,12,12,0,0,success
+doc_00585,f0bc73188fde87a3edf63b71304711ef70314e19.pdf,data\raw\kaggle_pdf\f0bc73188fde87a3edf63b71304711ef70314e19.pdf,2,2,0,0,success
+doc_00586,f2558b421c2bbdec48e576c09dbc08ddc9f1c4a5.pdf,data\raw\kaggle_pdf\f2558b421c2bbdec48e576c09dbc08ddc9f1c4a5.pdf,17,17,0,0,success
+doc_00587,F3LOYTH6FFFHPUX656OVEEXNYRIFFWYQ.pdf,data\raw\kaggle_pdf\F3LOYTH6FFFHPUX656OVEEXNYRIFFWYQ.pdf,1,1,0,0,success
+doc_00588,F3TG5IF7IJ4M3G6U255KCW355VLFMRBK.pdf,data\raw\kaggle_pdf\F3TG5IF7IJ4M3G6U255KCW355VLFMRBK.pdf,1,0,1,1,success
+doc_00589,f415cd9cf7bdca0a6a1fde12e0930661927d5b3b.pdf,data\raw\kaggle_pdf\f415cd9cf7bdca0a6a1fde12e0930661927d5b3b.pdf,5,5,0,0,success
+doc_00590,F4W34PLIHPDTMPAVT42EVI6EOISWUJ2C.pdf,data\raw\kaggle_pdf\F4W34PLIHPDTMPAVT42EVI6EOISWUJ2C.pdf,1,1,0,0,success
+doc_00591,f55a8d69c6047f9037f79225c367766987e25f2b.pdf,data\raw\kaggle_pdf\f55a8d69c6047f9037f79225c367766987e25f2b.pdf,4,4,0,0,success
+doc_00592,F5H4P3SVLYMD7CM2HIICOSAGODB6N3JT.pdf,data\raw\kaggle_pdf\F5H4P3SVLYMD7CM2HIICOSAGODB6N3JT.pdf,2,2,0,0,success
+doc_00593,f997183fa6bf1ef75e31406d98f025c16e527d20.pdf,data\raw\kaggle_pdf\f997183fa6bf1ef75e31406d98f025c16e527d20.pdf,49,49,0,0,success
+doc_00594,FACJVHVLPMDY7MXLGTB3JOSXIZ2XWAQD.pdf,data\raw\kaggle_pdf\FACJVHVLPMDY7MXLGTB3JOSXIZ2XWAQD.pdf,1,1,0,0,success
+doc_00595,fb8bb0cefab7494ca8c56a4b5b332922e404e465.pdf,data\raw\kaggle_pdf\fb8bb0cefab7494ca8c56a4b5b332922e404e465.pdf,8,8,0,0,success
+doc_00596,fb8c6201bfd519374fe7aba9648e678df1b4492d.pdf,data\raw\kaggle_pdf\fb8c6201bfd519374fe7aba9648e678df1b4492d.pdf,5,5,0,0,success
+doc_00597,FBTKGVAADTR36EKHKLGBXAUK5DI2LT5Z.pdf,data\raw\kaggle_pdf\FBTKGVAADTR36EKHKLGBXAUK5DI2LT5Z.pdf,1,0,1,1,success
+doc_00598,FC2VGRC55DZ77QA4O5L7DPBQEUDIQG52.pdf,data\raw\kaggle_pdf\FC2VGRC55DZ77QA4O5L7DPBQEUDIQG52.pdf,8,8,0,0,success
+doc_00599,FDSCSRQTOQOGCBTQJU35NWLJ7OVYQW7C.pdf,data\raw\kaggle_pdf\FDSCSRQTOQOGCBTQJU35NWLJ7OVYQW7C.pdf,2,2,0,0,success
+doc_00600,FDTYXYUFBYWZS4D6AXVHXVZMDTSVAQO3.pdf,data\raw\kaggle_pdf\FDTYXYUFBYWZS4D6AXVHXVZMDTSVAQO3.pdf,1,0,1,1,success
+doc_00601,FGQNTPYB75NQ2BY4HIIFBTVHYQBOX44W.pdf,data\raw\kaggle_pdf\FGQNTPYB75NQ2BY4HIIFBTVHYQBOX44W.pdf,3,3,0,0,success
+doc_00602,FGW25YJCHKX5V4CGB447WS3CQP2ZVRDY.pdf,data\raw\kaggle_pdf\FGW25YJCHKX5V4CGB447WS3CQP2ZVRDY.pdf,1,1,0,0,success
+doc_00603,FGZMCFJCVNCWGNVLKUGB27JTHYPUFTIA.pdf,data\raw\kaggle_pdf\FGZMCFJCVNCWGNVLKUGB27JTHYPUFTIA.pdf,1,1,0,0,success
+doc_00604,FHODZ536VRZSXNKLBKFISFM4BYJY5MA6.pdf,data\raw\kaggle_pdf\FHODZ536VRZSXNKLBKFISFM4BYJY5MA6.pdf,2,2,0,0,success
+doc_00605,FIFBHNNBJDHSCZYQOIS2APXAA2IWIHK5.pdf,data\raw\kaggle_pdf\FIFBHNNBJDHSCZYQOIS2APXAA2IWIHK5.pdf,2,2,0,0,success
+doc_00606,FINT6YKQ6HZIF4FG6472FBR4EVTNCZYZ.pdf,data\raw\kaggle_pdf\FINT6YKQ6HZIF4FG6472FBR4EVTNCZYZ.pdf,1,1,0,0,success
+doc_00607,FKGR2WSW2JVE5A3UJMB3CDZANY52D52I.pdf,data\raw\kaggle_pdf\FKGR2WSW2JVE5A3UJMB3CDZANY52D52I.pdf,9,9,0,0,success
+doc_00608,FKXAOBO27MSNKEA6PNS6P54HNFPMSNLL.pdf,data\raw\kaggle_pdf\FKXAOBO27MSNKEA6PNS6P54HNFPMSNLL.pdf,1,1,0,0,success
+doc_00609,FMKUKISD27PIQH3UAZ5GCM66QIJJV3G4.pdf,data\raw\kaggle_pdf\FMKUKISD27PIQH3UAZ5GCM66QIJJV3G4.pdf,1,1,0,0,success
+doc_00610,FN57WLHIT65SCHMVG3K65PZW5PWM5CQ7.pdf,data\raw\kaggle_pdf\FN57WLHIT65SCHMVG3K65PZW5PWM5CQ7.pdf,6,6,0,0,success
+doc_00611,FNLYS665QK2JZN5NXLAK22QOTNQTN2U3.pdf,data\raw\kaggle_pdf\FNLYS665QK2JZN5NXLAK22QOTNQTN2U3.pdf,1,1,0,0,success
+doc_00612,FOCUMOSF3I3TKMLBTGIAMN4HZRA6OBPT.pdf,data\raw\kaggle_pdf\FOCUMOSF3I3TKMLBTGIAMN4HZRA6OBPT.pdf,1,1,0,0,success
+doc_00613,FP3RQFKAHYT65A4O7T2B526NDPVG7D7I.pdf,data\raw\kaggle_pdf\FP3RQFKAHYT65A4O7T2B526NDPVG7D7I.pdf,1,1,0,0,success
+doc_00614,FPX7XMI7AP2GAD23QJNSAKAGCRPSZKTD.pdf,data\raw\kaggle_pdf\FPX7XMI7AP2GAD23QJNSAKAGCRPSZKTD.pdf,5,5,0,0,success
+doc_00615,FSPPS72FUFTLI2ECK5IVYCSAXI2GRAGI.pdf,data\raw\kaggle_pdf\FSPPS72FUFTLI2ECK5IVYCSAXI2GRAGI.pdf,7,7,0,0,success
+doc_00616,FSZZW6LXFYIZLWSPDS3LUIYELMYHQLUI.pdf,data\raw\kaggle_pdf\FSZZW6LXFYIZLWSPDS3LUIYELMYHQLUI.pdf,4,4,0,0,success
+doc_00617,FTLF4636APPKQDG5YKVPXDML54WUBBZA.pdf,data\raw\kaggle_pdf\FTLF4636APPKQDG5YKVPXDML54WUBBZA.pdf,6,6,0,0,success
+doc_00618,FVIKHA7GEB6QLKRNAPQD63GXPARVH3KX.pdf,data\raw\kaggle_pdf\FVIKHA7GEB6QLKRNAPQD63GXPARVH3KX.pdf,4,4,0,0,success
+doc_00619,FWVM2CX6UZ6CPTNRTPSAUCGZ72UZJAAP.pdf,data\raw\kaggle_pdf\FWVM2CX6UZ6CPTNRTPSAUCGZ72UZJAAP.pdf,40,0,40,40,success
+doc_00620,FXDCZKVBXPOBKON5ZHKWU6WCDH5BEDYV.pdf,data\raw\kaggle_pdf\FXDCZKVBXPOBKON5ZHKWU6WCDH5BEDYV.pdf,1,1,0,0,success
+doc_00621,G55L6N2GWXAO25ORSIBERRGSISMUNVKC.pdf,data\raw\kaggle_pdf\G55L6N2GWXAO25ORSIBERRGSISMUNVKC.pdf,308,301,7,1,success
+doc_00622,G5C3CM7DIONQOEWTYFPP3UJEWODLVHPN.pdf,data\raw\kaggle_pdf\G5C3CM7DIONQOEWTYFPP3UJEWODLVHPN.pdf,116,116,0,0,success
+doc_00623,G7GQJSD3U6NDHK7ARFEAMSCRRBPN7S5D.pdf,data\raw\kaggle_pdf\G7GQJSD3U6NDHK7ARFEAMSCRRBPN7S5D.pdf,3,3,0,0,success
+doc_00624,GBMOB4WD5UEJPVB2OTTQNMICMOP3PG4R.pdf,data\raw\kaggle_pdf\GBMOB4WD5UEJPVB2OTTQNMICMOP3PG4R.pdf,1,1,0,0,success
+doc_00625,GDSKWZKLKQOSH72CKDIFPUJMVX4KDIW7.pdf,data\raw\kaggle_pdf\GDSKWZKLKQOSH72CKDIFPUJMVX4KDIW7.pdf,2,2,0,0,success
+doc_00626,GF4OGED6DIFR5WHABHTLSTFV7656GKN3.pdf,data\raw\kaggle_pdf\GF4OGED6DIFR5WHABHTLSTFV7656GKN3.pdf,2,2,0,0,success
+doc_00627,GFZKIRYHHR2NZTPACKJY5MTG5X3CYGEX.pdf,data\raw\kaggle_pdf\GFZKIRYHHR2NZTPACKJY5MTG5X3CYGEX.pdf,1,1,0,0,success
+doc_00628,GGGXC6WZE4CKPCLWC5UX6F465XQEAGR6.pdf,data\raw\kaggle_pdf\GGGXC6WZE4CKPCLWC5UX6F465XQEAGR6.pdf,6,6,0,0,success
+doc_00629,GGLQFBLQF5BLQKGOXFHVYVU6CRHUFVLU.pdf,data\raw\kaggle_pdf\GGLQFBLQF5BLQKGOXFHVYVU6CRHUFVLU.pdf,7,7,0,0,success
+doc_00630,GGYFXPMKQD267PXVZ3L2TK46IIHHSV7V.pdf,data\raw\kaggle_pdf\GGYFXPMKQD267PXVZ3L2TK46IIHHSV7V.pdf,1,1,0,0,success
+doc_00631,GHHN226SIBRDZ5Y52XT5WBU2Y6HS4C6P.pdf,data\raw\kaggle_pdf\GHHN226SIBRDZ5Y52XT5WBU2Y6HS4C6P.pdf,23,23,0,0,success
+doc_00632,GIG4KPPQWOAJKUY3724CODP2WSX5I2GF.pdf,data\raw\kaggle_pdf\GIG4KPPQWOAJKUY3724CODP2WSX5I2GF.pdf,2,2,0,0,success
+doc_00633,GKIGKIVD24PQYBUWILRPW2PXFZK3T363.pdf,data\raw\kaggle_pdf\GKIGKIVD24PQYBUWILRPW2PXFZK3T363.pdf,6,6,0,0,success
+doc_00634,GKKRL4WDTHIXSKURLLCSPTOJSAOWF64Z.pdf,data\raw\kaggle_pdf\GKKRL4WDTHIXSKURLLCSPTOJSAOWF64Z.pdf,12,0,12,12,success
+doc_00635,GKMDOS7GQ75PJC46U3R2ZWAAEMZH3T66.pdf,data\raw\kaggle_pdf\GKMDOS7GQ75PJC46U3R2ZWAAEMZH3T66.pdf,6,6,0,0,success
+doc_00636,GLXEDNT3LDSIPA6BGJGFIUEXOBO4NRDE.pdf,data\raw\kaggle_pdf\GLXEDNT3LDSIPA6BGJGFIUEXOBO4NRDE.pdf,1,0,1,1,success
+doc_00637,GMASRQ5T6SZJ7CAIU73TNIHTPW7FWCE2.pdf,data\raw\kaggle_pdf\GMASRQ5T6SZJ7CAIU73TNIHTPW7FWCE2.pdf,1,1,0,0,success
+doc_00638,GMK4H4BJR67LM7QUU3GAJT6J2Q5IKQT6.pdf,data\raw\kaggle_pdf\GMK4H4BJR67LM7QUU3GAJT6J2Q5IKQT6.pdf,1,0,1,1,success
+doc_00639,GMXUAMD4SJ3SI277ABZBVOOUHXVRMUPA.pdf,data\raw\kaggle_pdf\GMXUAMD4SJ3SI277ABZBVOOUHXVRMUPA.pdf,1,1,0,0,success
+doc_00640,GOCYUTJWJZBXHIUSFYG3LVX5SG6HPEVV.pdf,data\raw\kaggle_pdf\GOCYUTJWJZBXHIUSFYG3LVX5SG6HPEVV.pdf,2,2,0,0,success
+doc_00641,GOHTUHFXHFLQENFPJ7LB5G55VNZTKH67.pdf,data\raw\kaggle_pdf\GOHTUHFXHFLQENFPJ7LB5G55VNZTKH67.pdf,2,2,0,0,success
+doc_00642,GS5DOB2Q5E234R3L6T4MXMRGJQFXVY7L.pdf,data\raw\kaggle_pdf\GS5DOB2Q5E234R3L6T4MXMRGJQFXVY7L.pdf,4,0,4,4,success
+doc_00643,GTB3EZFGUHRQV757YXZIRJW4C6CCYGJT.pdf,data\raw\kaggle_pdf\GTB3EZFGUHRQV757YXZIRJW4C6CCYGJT.pdf,1,1,0,0,success
+doc_00644,GTJF3FNLZ4ZXJPIJ4WDESMZ6DR3CTLSD.pdf,data\raw\kaggle_pdf\GTJF3FNLZ4ZXJPIJ4WDESMZ6DR3CTLSD.pdf,1,1,0,0,success
+doc_00645,GVQFFTBHO2WYEON7YRSWGOKKT4BFLY3P.pdf,data\raw\kaggle_pdf\GVQFFTBHO2WYEON7YRSWGOKKT4BFLY3P.pdf,3,3,0,0,success
+doc_00646,GWYYEO7BT54SUYBU7M4232GNAWWV6IOX.pdf,data\raw\kaggle_pdf\GWYYEO7BT54SUYBU7M4232GNAWWV6IOX.pdf,1,0,1,1,success
+doc_00647,GXN6NIJAPDVKETP2WCAL523Z6OESGKDD.pdf,data\raw\kaggle_pdf\GXN6NIJAPDVKETP2WCAL523Z6OESGKDD.pdf,1,1,0,0,success
+doc_00648,GZ4X7A3RHNQOWPWZQJ5LHKIZ3JTHSIZI.pdf,data\raw\kaggle_pdf\GZ4X7A3RHNQOWPWZQJ5LHKIZ3JTHSIZI.pdf,2,2,0,0,success
+doc_00649,GZ62LWSF6OMAXHC5VDCOYD53D7GSE2HO.pdf,data\raw\kaggle_pdf\GZ62LWSF6OMAXHC5VDCOYD53D7GSE2HO.pdf,1,1,0,0,success
+doc_00650,H3YJPSWC5CGCS3UTEG67HNN7OKMXDA3I.pdf,data\raw\kaggle_pdf\H3YJPSWC5CGCS3UTEG67HNN7OKMXDA3I.pdf,2,2,0,0,success
+doc_00651,H65TKD4D2Z32SZHRLYLOHIMM25T4C5S3.pdf,data\raw\kaggle_pdf\H65TKD4D2Z32SZHRLYLOHIMM25T4C5S3.pdf,1,1,0,0,success
+doc_00652,H6UM4PXSLMCY7AB5NGMZ2UJHGA4FSMYI.pdf,data\raw\kaggle_pdf\H6UM4PXSLMCY7AB5NGMZ2UJHGA4FSMYI.pdf,17,17,0,0,success
+doc_00653,H75CHMEGQV5GB7Y4YQS4OYSBCPHUFFBY.pdf,data\raw\kaggle_pdf\H75CHMEGQV5GB7Y4YQS4OYSBCPHUFFBY.pdf,4,0,4,3,success
+doc_00654,H7U4KMXPQKUBDKIPQQRC6ETJZEZR3OCZ.pdf,data\raw\kaggle_pdf\H7U4KMXPQKUBDKIPQQRC6ETJZEZR3OCZ.pdf,2,2,0,0,success
+doc_00655,HB2IHQ5EY4MV6YIJNCKSZ5L2EA6BPV75.pdf,data\raw\kaggle_pdf\HB2IHQ5EY4MV6YIJNCKSZ5L2EA6BPV75.pdf,2,2,0,0,success
+doc_00656,HCHQUVOOEBJYJX23WCEMGGC2WVXF2F3G.pdf,data\raw\kaggle_pdf\HCHQUVOOEBJYJX23WCEMGGC2WVXF2F3G.pdf,1,1,0,0,success
+doc_00657,HCPCI34AEBKDUFDP442OTOL2AUGIG3BJ.pdf,data\raw\kaggle_pdf\HCPCI34AEBKDUFDP442OTOL2AUGIG3BJ.pdf,1,1,0,0,success
+doc_00658,HDOB32Q5ZOTQJCMF2TY5XEPUD4VRCUH7.pdf,data\raw\kaggle_pdf\HDOB32Q5ZOTQJCMF2TY5XEPUD4VRCUH7.pdf,2,2,0,0,success
+doc_00659,HDUWFMUR5BA3PDSRTCJMNFUNYZ7OWHQ2.pdf,data\raw\kaggle_pdf\HDUWFMUR5BA3PDSRTCJMNFUNYZ7OWHQ2.pdf,19,19,0,0,success
+doc_00660,HE2GQLBH2WBUUJKRBNZCYY5QZWTVCY35.pdf,data\raw\kaggle_pdf\HE2GQLBH2WBUUJKRBNZCYY5QZWTVCY35.pdf,2,2,0,0,success
+doc_00661,HE3SWA26M4C3264OZH7VXMKMHJFSFRDG.pdf,data\raw\kaggle_pdf\HE3SWA26M4C3264OZH7VXMKMHJFSFRDG.pdf,1,1,0,0,success
+doc_00662,HGB546MCYLA3JJLIKLP5WGEFY6DUY5ML.pdf,data\raw\kaggle_pdf\HGB546MCYLA3JJLIKLP5WGEFY6DUY5ML.pdf,6,6,0,0,success
+doc_00663,HGJIJLL3ZVEO2ISTFZSKH53BIC2K3UYX.pdf,data\raw\kaggle_pdf\HGJIJLL3ZVEO2ISTFZSKH53BIC2K3UYX.pdf,9,9,0,0,success
+doc_00664,HH5OITTKV27JDKG7CZ3U2VNDB4VFEWWQ.pdf,data\raw\kaggle_pdf\HH5OITTKV27JDKG7CZ3U2VNDB4VFEWWQ.pdf,20,20,0,0,success
+doc_00665,HHG5MLUR5GQ5MO622QRT7XNQRXCML7YP.pdf,data\raw\kaggle_pdf\HHG5MLUR5GQ5MO622QRT7XNQRXCML7YP.pdf,4,4,0,0,success
+doc_00666,HKZAYT5MELBWIO3KEUOMDX42ENWUWSHD.pdf,data\raw\kaggle_pdf\HKZAYT5MELBWIO3KEUOMDX42ENWUWSHD.pdf,2,2,0,0,success
+doc_00667,HLGUA2TVCFAMJQDFC5IC43JBVUOFXDWB.pdf,data\raw\kaggle_pdf\HLGUA2TVCFAMJQDFC5IC43JBVUOFXDWB.pdf,2,2,0,0,success
+doc_00668,HLU6GY5HJLJF4AYSMOXUB6K324KXZBZM.pdf,data\raw\kaggle_pdf\HLU6GY5HJLJF4AYSMOXUB6K324KXZBZM.pdf,34,34,0,0,success
+doc_00669,HLYRITP6GLJWLRBBPIM73IDSX2GSAQSI.pdf,data\raw\kaggle_pdf\HLYRITP6GLJWLRBBPIM73IDSX2GSAQSI.pdf,9,9,0,0,success
+doc_00670,HMYPEMBWIZMDVVYG6NEUNDFWGI2QTKYK.pdf,data\raw\kaggle_pdf\HMYPEMBWIZMDVVYG6NEUNDFWGI2QTKYK.pdf,85,85,0,0,success
+doc_00671,HNBALTFDCV5YCQB772EJLOZGFV3JQLXS.pdf,data\raw\kaggle_pdf\HNBALTFDCV5YCQB772EJLOZGFV3JQLXS.pdf,4,4,0,0,success
+doc_00672,HNOVSRWPYY3EVR44ERUZ4XTUS5SOKRWZ.pdf,data\raw\kaggle_pdf\HNOVSRWPYY3EVR44ERUZ4XTUS5SOKRWZ.pdf,1,1,0,0,success
+doc_00673,HOR7BQTQAFIPH2Z5TCKEJ5FZCCV7MZBO.pdf,data\raw\kaggle_pdf\HOR7BQTQAFIPH2Z5TCKEJ5FZCCV7MZBO.pdf,2,2,0,0,success
+doc_00674,HOX6HP64JIBXKA2HFWNSAWSJFUHWENGZ.pdf,data\raw\kaggle_pdf\HOX6HP64JIBXKA2HFWNSAWSJFUHWENGZ.pdf,6,6,0,0,success
+doc_00675,HPXULDFI3DAZ3V2NZOHYUGUY5SLS4AHU.pdf,data\raw\kaggle_pdf\HPXULDFI3DAZ3V2NZOHYUGUY5SLS4AHU.pdf,1,1,0,0,success
+doc_00676,HQ3EDBUQ55MJVAAWB3KE7VYWLHAOXKRI.pdf,data\raw\kaggle_pdf\HQ3EDBUQ55MJVAAWB3KE7VYWLHAOXKRI.pdf,3,3,0,0,success
+doc_00677,HQIOPSJSKZG4AZ2NCERJBQQWVWNJ2CWH.pdf,data\raw\kaggle_pdf\HQIOPSJSKZG4AZ2NCERJBQQWVWNJ2CWH.pdf,1,1,0,0,success
+doc_00678,HSZJLPQSI6NJU2NBWZWZY2CHBUKDXG2M.pdf,data\raw\kaggle_pdf\HSZJLPQSI6NJU2NBWZWZY2CHBUKDXG2M.pdf,2,2,0,0,success
+doc_00679,HTWW3AUIV4LKXIRLIDXBWQG76WEUG26H.pdf,data\raw\kaggle_pdf\HTWW3AUIV4LKXIRLIDXBWQG76WEUG26H.pdf,1,1,0,0,success
+doc_00680,HVP5WMRFWBOCTMMV6NC57S2QJ674CGXG.pdf,data\raw\kaggle_pdf\HVP5WMRFWBOCTMMV6NC57S2QJ674CGXG.pdf,4,4,0,0,success
+doc_00681,HVZOYBB4ECW5PRQZVXHPIH546HLFSCAH.pdf,data\raw\kaggle_pdf\HVZOYBB4ECW5PRQZVXHPIH546HLFSCAH.pdf,35,34,1,1,success
+doc_00682,HWLEW7RJBOFKM7YCQA66Q2E5AHR63KG4.pdf,data\raw\kaggle_pdf\HWLEW7RJBOFKM7YCQA66Q2E5AHR63KG4.pdf,6,0,6,6,success
+doc_00683,HWWJCHPYGVP2VEQLTYB3Q2EQABOTUJ3U.pdf,data\raw\kaggle_pdf\HWWJCHPYGVP2VEQLTYB3Q2EQABOTUJ3U.pdf,3,3,0,0,success
+doc_00684,HXOV2RQJRHU5PDC4PRLJJLU2RT4PSSLV.pdf,data\raw\kaggle_pdf\HXOV2RQJRHU5PDC4PRLJJLU2RT4PSSLV.pdf,158,157,1,1,success
+doc_00685,HYGACNZRS4COKQDATI7LQEA6JCHCETTS.pdf,data\raw\kaggle_pdf\HYGACNZRS4COKQDATI7LQEA6JCHCETTS.pdf,2,2,0,0,success
+doc_00686,I26R4ZZQ3EN7S4L4IXK4R7XVVJ2DIPHP.pdf,data\raw\kaggle_pdf\I26R4ZZQ3EN7S4L4IXK4R7XVVJ2DIPHP.pdf,1,1,0,0,success
+doc_00687,I2DMPRJ5EOG5AE7BCMHS5IB2KPWKG322.pdf,data\raw\kaggle_pdf\I2DMPRJ5EOG5AE7BCMHS5IB2KPWKG322.pdf,3,3,0,0,success
+doc_00688,I2PMGWGFZUZ522BRFPLLTDGI2O3H75CH.pdf,data\raw\kaggle_pdf\I2PMGWGFZUZ522BRFPLLTDGI2O3H75CH.pdf,1,1,0,0,success
+doc_00689,I6S22V76FRG6WXENYBFTYLUPZEYTE7CE.pdf,data\raw\kaggle_pdf\I6S22V76FRG6WXENYBFTYLUPZEYTE7CE.pdf,2,2,0,0,success
+doc_00690,I74UK7CA3VD36AJLDMBKXZHMRBRV6KNF.pdf,data\raw\kaggle_pdf\I74UK7CA3VD36AJLDMBKXZHMRBRV6KNF.pdf,11,11,0,0,success
+doc_00691,IAH3Q2OTSFIUYZW7PIM4HB67NYUZPQ53.pdf,data\raw\kaggle_pdf\IAH3Q2OTSFIUYZW7PIM4HB67NYUZPQ53.pdf,1,1,0,0,success
+doc_00692,IEAJEYOK5ACMQUZGX7QDHS7ZR6XXSVYV.pdf,data\raw\kaggle_pdf\IEAJEYOK5ACMQUZGX7QDHS7ZR6XXSVYV.pdf,1,1,0,0,success
+doc_00693,IFZFKQAJVRO7DBK7PJHVWZGWIWSIK45E.pdf,data\raw\kaggle_pdf\IFZFKQAJVRO7DBK7PJHVWZGWIWSIK45E.pdf,4,4,0,0,success
+doc_00694,IHF43SE4IEBMFW54OXINVPSAC6A6DTSA.pdf,data\raw\kaggle_pdf\IHF43SE4IEBMFW54OXINVPSAC6A6DTSA.pdf,1,0,1,1,success
+doc_00695,IJEACIRWFTFAIA4OFQIWDFMFTRYC7SDS.pdf,data\raw\kaggle_pdf\IJEACIRWFTFAIA4OFQIWDFMFTRYC7SDS.pdf,2,2,0,0,success
+doc_00696,IJKB2B6V42DWTKVWIK7WSDYL7IIXTW47.pdf,data\raw\kaggle_pdf\IJKB2B6V42DWTKVWIK7WSDYL7IIXTW47.pdf,1,0,1,1,success
+doc_00697,IKOIMACPLTOKKI2XAQPQOCR7HL2E7MCY.pdf,data\raw\kaggle_pdf\IKOIMACPLTOKKI2XAQPQOCR7HL2E7MCY.pdf,2,2,0,0,success
+doc_00698,IL4BFU54X4UZB6DS2IJYVXCTHBOEF7YZ.pdf,data\raw\kaggle_pdf\IL4BFU54X4UZB6DS2IJYVXCTHBOEF7YZ.pdf,4,4,0,0,success
+doc_00699,ILRVVACIV2JDSO4LHLATCOCKSEQYZCMZ.pdf,data\raw\kaggle_pdf\ILRVVACIV2JDSO4LHLATCOCKSEQYZCMZ.pdf,0,0,0,0,success
+doc_00700,IM4NOHWT2KSDC4FBCAXQW722XG3AZCNP.pdf,data\raw\kaggle_pdf\IM4NOHWT2KSDC4FBCAXQW722XG3AZCNP.pdf,1,0,1,1,success
+doc_00701,IM4QZDPPO5PUG5SPN2VFLKQDDK5RT3BU.pdf,data\raw\kaggle_pdf\IM4QZDPPO5PUG5SPN2VFLKQDDK5RT3BU.pdf,1,1,0,0,success
+doc_00702,IMCWQGTX5ERM655QS3VKX5ED2QZEZAKE.pdf,data\raw\kaggle_pdf\IMCWQGTX5ERM655QS3VKX5ED2QZEZAKE.pdf,1,1,0,0,success
+doc_00703,IMJ4MPPYAOJ3IK6EEI3IDHS4IKZ5WFXT.pdf,data\raw\kaggle_pdf\IMJ4MPPYAOJ3IK6EEI3IDHS4IKZ5WFXT.pdf,143,143,0,0,success
+doc_00704,INE663VOPVFVXLNIIAX5ZESMKE2X34Z3.pdf,data\raw\kaggle_pdf\INE663VOPVFVXLNIIAX5ZESMKE2X34Z3.pdf,12,12,0,0,success
+doc_00705,IO77HAUREG5W6P2DKSLD5HBNNDJU5SQI.pdf,data\raw\kaggle_pdf\IO77HAUREG5W6P2DKSLD5HBNNDJU5SQI.pdf,2,2,0,0,success
+doc_00706,IOU2IMTASMHXQWTXMFXUBR2DC2YAQG3W.pdf,data\raw\kaggle_pdf\IOU2IMTASMHXQWTXMFXUBR2DC2YAQG3W.pdf,1,0,1,1,success
+doc_00707,IPSOTZ2PBHPSDMON7CRCOAQD5CNYYOVE.pdf,data\raw\kaggle_pdf\IPSOTZ2PBHPSDMON7CRCOAQD5CNYYOVE.pdf,1,1,0,0,success
+doc_00708,ISNVO7SIHHW237IDLQ73PZNSSUSTZ6R7.pdf,data\raw\kaggle_pdf\ISNVO7SIHHW237IDLQ73PZNSSUSTZ6R7.pdf,6,6,0,0,success
+doc_00709,ITLSXXTHX4ZLH5HA52B2YWCFQC3CXZ5L.pdf,data\raw\kaggle_pdf\ITLSXXTHX4ZLH5HA52B2YWCFQC3CXZ5L.pdf,2,2,0,0,success
+doc_00710,IUJCXHJGQ5XTDLV3CYTCTXLPD77RUA2P.pdf,data\raw\kaggle_pdf\IUJCXHJGQ5XTDLV3CYTCTXLPD77RUA2P.pdf,5,5,0,0,success
+doc_00711,IWBFGFBEXBD54JGRHBZM5V2BUAZTRO4R.pdf,data\raw\kaggle_pdf\IWBFGFBEXBD54JGRHBZM5V2BUAZTRO4R.pdf,4,4,0,0,success
+doc_00712,IX44BHQ54BCVRSA6XB3KC2WWUCYZINYZ.pdf,data\raw\kaggle_pdf\IX44BHQ54BCVRSA6XB3KC2WWUCYZINYZ.pdf,2,2,0,0,success
+doc_00713,IYUNRQPMTREBOTPIQVJVWLOXDYVFY7PH.pdf,data\raw\kaggle_pdf\IYUNRQPMTREBOTPIQVJVWLOXDYVFY7PH.pdf,9,9,0,0,success
+doc_00714,IYXYPBN2SRX7T52TZCA76GJNXJWDUMDC.pdf,data\raw\kaggle_pdf\IYXYPBN2SRX7T52TZCA76GJNXJWDUMDC.pdf,3,3,0,0,success
+doc_00715,J22PFVU7YYAE6T4VP5F2OZUVFIS3JSQT.pdf,data\raw\kaggle_pdf\J22PFVU7YYAE6T4VP5F2OZUVFIS3JSQT.pdf,4,4,0,0,success
+doc_00716,J4I447QIORVBVIFCBZ5GIOKV7MPWYRXU.pdf,data\raw\kaggle_pdf\J4I447QIORVBVIFCBZ5GIOKV7MPWYRXU.pdf,1,0,1,1,success
+doc_00717,J4XIQKGR5I6GKS2RD2IWEWCUNLVEFSZO.pdf,data\raw\kaggle_pdf\J4XIQKGR5I6GKS2RD2IWEWCUNLVEFSZO.pdf,2,0,2,2,success
+doc_00718,J5ZSV4CEZDUKODXRBOAVGJVB5XTR5QMA.pdf,data\raw\kaggle_pdf\J5ZSV4CEZDUKODXRBOAVGJVB5XTR5QMA.pdf,1,1,0,0,success
+doc_00719,J6KG3WLCIJ3FRU6V6N7LLHD46F2CBEWE.pdf,data\raw\kaggle_pdf\J6KG3WLCIJ3FRU6V6N7LLHD46F2CBEWE.pdf,1,1,0,0,success
+doc_00720,JBHIRIZUQZPQ57WERXLX567KMHIZQQG7.pdf,data\raw\kaggle_pdf\JBHIRIZUQZPQ57WERXLX567KMHIZQQG7.pdf,5,5,0,0,success
+doc_00721,JDREPE6JS4JXV6O476QYTJTIJLH7CMTA.pdf,data\raw\kaggle_pdf\JDREPE6JS4JXV6O476QYTJTIJLH7CMTA.pdf,1,1,0,0,success
+doc_00722,JFUKR5IZBGDNDWX75DHLDWK323RQOXPB.pdf,data\raw\kaggle_pdf\JFUKR5IZBGDNDWX75DHLDWK323RQOXPB.pdf,194,194,0,0,success
+doc_00723,JGLEJ4HUZGQBXUZ3ZXUWHSPYIDVKVU2K.pdf,data\raw\kaggle_pdf\JGLEJ4HUZGQBXUZ3ZXUWHSPYIDVKVU2K.pdf,1,1,0,0,success
+doc_00724,JI27U7TQTGCH2WWIVTO3GRUAQ2AGBBDH.pdf,data\raw\kaggle_pdf\JI27U7TQTGCH2WWIVTO3GRUAQ2AGBBDH.pdf,1,1,0,0,success
+doc_00725,JI5Z62HRPJND3ZBBOJN55D4V7NZNHOA6.pdf,data\raw\kaggle_pdf\JI5Z62HRPJND3ZBBOJN55D4V7NZNHOA6.pdf,4,4,0,0,success
+doc_00726,JJL4WAJY5A3L4SVYJHLWTYK7OA4IFJ5A.pdf,data\raw\kaggle_pdf\JJL4WAJY5A3L4SVYJHLWTYK7OA4IFJ5A.pdf,43,0,43,43,success
+doc_00727,JK2YPIFXKSDZRYNRSQVRHZWJNANASI6J.pdf,data\raw\kaggle_pdf\JK2YPIFXKSDZRYNRSQVRHZWJNANASI6J.pdf,1,1,0,0,success
+doc_00728,JKMMWI4FZT47DVLEJX3E2MIT3BNH3PTY.pdf,data\raw\kaggle_pdf\JKMMWI4FZT47DVLEJX3E2MIT3BNH3PTY.pdf,1,1,0,0,success
+doc_00729,JMTHOU2JQRSYZA6YLHTP6ULMQO4GLZAN.pdf,data\raw\kaggle_pdf\JMTHOU2JQRSYZA6YLHTP6ULMQO4GLZAN.pdf,7,7,0,0,success
+doc_00730,JOANY6YW3IYN75OYEU7X3JEXQQAJPEUP.pdf,data\raw\kaggle_pdf\JOANY6YW3IYN75OYEU7X3JEXQQAJPEUP.pdf,2,2,0,0,success
+doc_00731,JOCCBCF2SXDQXCYRG5ADWVKHHNJ4GDQC.pdf,data\raw\kaggle_pdf\JOCCBCF2SXDQXCYRG5ADWVKHHNJ4GDQC.pdf,71,63,8,4,success
+doc_00732,JPJ5MCDTMBPXA7YEZNO5KXTSWXWYNDW5.pdf,data\raw\kaggle_pdf\JPJ5MCDTMBPXA7YEZNO5KXTSWXWYNDW5.pdf,2,2,0,0,success
+doc_00733,JPJTTR2LAET64POSYUE4D3TMSHZ7QW67.pdf,data\raw\kaggle_pdf\JPJTTR2LAET64POSYUE4D3TMSHZ7QW67.pdf,5,5,0,0,success
+doc_00734,JQTLTBNFMLOTJNAZWAJGUYXUWJ42X5WM.pdf,data\raw\kaggle_pdf\JQTLTBNFMLOTJNAZWAJGUYXUWJ42X5WM.pdf,1,1,0,0,success
+doc_00735,JRBKU3ZZVFVFWXC46AMNC54IHTOOSTW7.pdf,data\raw\kaggle_pdf\JRBKU3ZZVFVFWXC46AMNC54IHTOOSTW7.pdf,1,0,1,1,success
+doc_00736,JTJQSY6SJUAI2P54IHQQYCVFMCWPXVTN.pdf,data\raw\kaggle_pdf\JTJQSY6SJUAI2P54IHQQYCVFMCWPXVTN.pdf,2,2,0,0,success
+doc_00737,JURJWHBJYQUR24R3TCPBVLLOFDBTQK5S.pdf,data\raw\kaggle_pdf\JURJWHBJYQUR24R3TCPBVLLOFDBTQK5S.pdf,1,1,0,0,success
+doc_00738,JW44PKSPRUHPMGLASPIT273NOJ5EOU7X.pdf,data\raw\kaggle_pdf\JW44PKSPRUHPMGLASPIT273NOJ5EOU7X.pdf,1,0,1,1,success
+doc_00739,JWCODRHRIROHXHNEQP5VHTLJBBM5SBWX.pdf,data\raw\kaggle_pdf\JWCODRHRIROHXHNEQP5VHTLJBBM5SBWX.pdf,2,2,0,0,success
+doc_00740,JWYVYMU6FQRTYIQZNWUQRD3YV33OZTYE.pdf,data\raw\kaggle_pdf\JWYVYMU6FQRTYIQZNWUQRD3YV33OZTYE.pdf,37,37,0,0,success
+doc_00741,JX4QV4DIXVXTDI737KSBDD7U3WHIGNWL.pdf,data\raw\kaggle_pdf\JX4QV4DIXVXTDI737KSBDD7U3WHIGNWL.pdf,1,1,0,0,success
+doc_00742,JXE4W4MUU66ZFEDIYZUFDLK4F5NZOPYZ.pdf,data\raw\kaggle_pdf\JXE4W4MUU66ZFEDIYZUFDLK4F5NZOPYZ.pdf,1,1,0,0,success
+doc_00743,JXM2RAH5DJSVW2XCEGXVMU2PFPC4J3P4.pdf,data\raw\kaggle_pdf\JXM2RAH5DJSVW2XCEGXVMU2PFPC4J3P4.pdf,150,150,0,0,success
+doc_00744,JYMSHAQOPOCHYVWZYLPSNQYDNAGMT5DR.pdf,data\raw\kaggle_pdf\JYMSHAQOPOCHYVWZYLPSNQYDNAGMT5DR.pdf,2,2,0,0,success
+doc_00745,K3IGHYFHR26MTI4I6GKU2LRQHYXKEUVN.pdf,data\raw\kaggle_pdf\K3IGHYFHR26MTI4I6GKU2LRQHYXKEUVN.pdf,8,8,0,0,success
+doc_00746,K7W2OAWSV6AHYASOUV4LTOEUEIFNTE6D.pdf,data\raw\kaggle_pdf\K7W2OAWSV6AHYASOUV4LTOEUEIFNTE6D.pdf,1,1,0,0,success
+doc_00747,KA545DH3SDEIKBX5MLR7QZVYWYBKBGLV.pdf,data\raw\kaggle_pdf\KA545DH3SDEIKBX5MLR7QZVYWYBKBGLV.pdf,2,2,0,0,success
+doc_00748,KAI53AEUTC4X3GRV6WZDEZUWVEYPTPPU.pdf,data\raw\kaggle_pdf\KAI53AEUTC4X3GRV6WZDEZUWVEYPTPPU.pdf,6,6,0,0,success
+doc_00749,KAX2V43VIPOF5R7SL2YYD2JQFRQCPWQ5.pdf,data\raw\kaggle_pdf\KAX2V43VIPOF5R7SL2YYD2JQFRQCPWQ5.pdf,3,3,0,0,success
+doc_00750,KBEV4F2NJWE2NHI6CMYRY5GAXEJ3N7QD.pdf,data\raw\kaggle_pdf\KBEV4F2NJWE2NHI6CMYRY5GAXEJ3N7QD.pdf,2,2,0,0,success
+doc_00751,KBWCMQOKIWATS25U3Q563UWDJTVUIDLJ.pdf,data\raw\kaggle_pdf\KBWCMQOKIWATS25U3Q563UWDJTVUIDLJ.pdf,1,1,0,0,success
+doc_00752,KDJPDOF5V7PZBQSCATREA7E7S57NWM4E.pdf,data\raw\kaggle_pdf\KDJPDOF5V7PZBQSCATREA7E7S57NWM4E.pdf,2,2,0,0,success
+doc_00753,KDLB3IO7SCHXPEJZJYXLBWTX2MTEUOS6.pdf,data\raw\kaggle_pdf\KDLB3IO7SCHXPEJZJYXLBWTX2MTEUOS6.pdf,1,1,0,0,success
+doc_00754,KEAHFYXS23DKDX43I4DYM6LBJD6H6FMP.pdf,data\raw\kaggle_pdf\KEAHFYXS23DKDX43I4DYM6LBJD6H6FMP.pdf,2,0,2,2,success
+doc_00755,KEBLLGBMZREVDB7T2U5TCKFY3JLVKR4O.pdf,data\raw\kaggle_pdf\KEBLLGBMZREVDB7T2U5TCKFY3JLVKR4O.pdf,6,6,0,0,success
+doc_00756,KHFVIIN7BUD6WPBAO3FNRJXTCS5FVIOK.pdf,data\raw\kaggle_pdf\KHFVIIN7BUD6WPBAO3FNRJXTCS5FVIOK.pdf,1,1,0,0,success
+doc_00757,KIUEITSZRTECBD2K3QVN45QGYG2VIQFS.pdf,data\raw\kaggle_pdf\KIUEITSZRTECBD2K3QVN45QGYG2VIQFS.pdf,1,1,0,0,success
+doc_00758,KJJGH37ZCWZ4JWRQ46LKRMLAD7AZZUQX.pdf,data\raw\kaggle_pdf\KJJGH37ZCWZ4JWRQ46LKRMLAD7AZZUQX.pdf,4,4,0,0,success
+doc_00759,KJRNBHQZEAPZL7FXVKBGPEN45LKGPLGM.pdf,data\raw\kaggle_pdf\KJRNBHQZEAPZL7FXVKBGPEN45LKGPLGM.pdf,1,1,0,0,success
+doc_00760,KKUB224LBBU5Q6QF3I52V7NM5BFDXKMA.pdf,data\raw\kaggle_pdf\KKUB224LBBU5Q6QF3I52V7NM5BFDXKMA.pdf,1,0,1,1,success
+doc_00761,KL6VJRI6EUVHA6S4QIIZ76GT5VIPPD5Y.pdf,data\raw\kaggle_pdf\KL6VJRI6EUVHA6S4QIIZ76GT5VIPPD5Y.pdf,3,3,0,0,success
+doc_00762,KMELIR3DJDUFB52NSPC42LSIU6OOD77U.pdf,data\raw\kaggle_pdf\KMELIR3DJDUFB52NSPC42LSIU6OOD77U.pdf,3,3,0,0,success
+doc_00763,KMTEGGFKCFAJV3ICJRDK3YR2OAFQJ22Y.pdf,data\raw\kaggle_pdf\KMTEGGFKCFAJV3ICJRDK3YR2OAFQJ22Y.pdf,7,7,0,0,success
+doc_00764,KMUKXIW52KNJ3JJJ2LO5QOW2G6FTJ45W.pdf,data\raw\kaggle_pdf\KMUKXIW52KNJ3JJJ2LO5QOW2G6FTJ45W.pdf,1,1,0,0,success
+doc_00765,KNB57BFSJINB7DC3WJQ452LPY5C7L7UL.pdf,data\raw\kaggle_pdf\KNB57BFSJINB7DC3WJQ452LPY5C7L7UL.pdf,1,1,0,0,success
+doc_00766,KNOSFODTQCUVGFKMJLWBF6KZS3RVBESD.pdf,data\raw\kaggle_pdf\KNOSFODTQCUVGFKMJLWBF6KZS3RVBESD.pdf,1,1,0,0,success
+doc_00767,KO7GGF3RMJJSMBTJWM7BCRBQ4UJJ26VL.pdf,data\raw\kaggle_pdf\KO7GGF3RMJJSMBTJWM7BCRBQ4UJJ26VL.pdf,14,10,4,0,success
+doc_00768,KOIY3K7K4LNEPAQQ2YXCAW2KS4TYUSBR.pdf,data\raw\kaggle_pdf\KOIY3K7K4LNEPAQQ2YXCAW2KS4TYUSBR.pdf,1,1,0,0,success
+doc_00769,KOT4LTFQIWYAYXDMPX6R7HOJ2VK4RRFN.pdf,data\raw\kaggle_pdf\KOT4LTFQIWYAYXDMPX6R7HOJ2VK4RRFN.pdf,1,0,1,1,success
+doc_00770,KQKKOFZRA2MSM7S4EEGOTH2CPEJOUNWD.pdf,data\raw\kaggle_pdf\KQKKOFZRA2MSM7S4EEGOTH2CPEJOUNWD.pdf,2,2,0,0,success
+doc_00771,KTCXROTYIAYW34ZFMVAKRU5FQFD3D7XQ.pdf,data\raw\kaggle_pdf\KTCXROTYIAYW34ZFMVAKRU5FQFD3D7XQ.pdf,2,1,1,0,success
+doc_00772,KUGCYDY3UTSLQLPAXLXFZWBNBXAGPN2U.pdf,data\raw\kaggle_pdf\KUGCYDY3UTSLQLPAXLXFZWBNBXAGPN2U.pdf,10,10,0,0,success
+doc_00773,KUHZYBRS6BEYSNUBQ3WGCKIFFDWLBVLM.pdf,data\raw\kaggle_pdf\KUHZYBRS6BEYSNUBQ3WGCKIFFDWLBVLM.pdf,1,1,0,0,success
+doc_00774,KV25SHM4P3UZHVNNEAE3OZSJ23D3BXZH.pdf,data\raw\kaggle_pdf\KV25SHM4P3UZHVNNEAE3OZSJ23D3BXZH.pdf,11,11,0,0,success
+doc_00775,KV5Z5OWVEYBYAPKWADO2QJVXEMZKZTJR.pdf,data\raw\kaggle_pdf\KV5Z5OWVEYBYAPKWADO2QJVXEMZKZTJR.pdf,42,42,0,0,success
+doc_00776,KVHILAJFL5JLBNQSY47V3U5QMWNYXI43.pdf,data\raw\kaggle_pdf\KVHILAJFL5JLBNQSY47V3U5QMWNYXI43.pdf,2,2,0,0,success
+doc_00777,KVJK5CIVGUYCJMJWGDBDHR4DRDXZVSBF.pdf,data\raw\kaggle_pdf\KVJK5CIVGUYCJMJWGDBDHR4DRDXZVSBF.pdf,1,1,0,0,success
+doc_00778,KWL6TCYCODD5ODQXOPLOAX46TIM557CL.pdf,data\raw\kaggle_pdf\KWL6TCYCODD5ODQXOPLOAX46TIM557CL.pdf,1,0,1,1,success
+doc_00779,KWPQYSUTIEVQHMZBL2UDE4OKV53YYSG3.pdf,data\raw\kaggle_pdf\KWPQYSUTIEVQHMZBL2UDE4OKV53YYSG3.pdf,3,3,0,0,success
+doc_00780,KYL4ATEPT72QYDBMYMCWXM2N7EJA2DMS.pdf,data\raw\kaggle_pdf\KYL4ATEPT72QYDBMYMCWXM2N7EJA2DMS.pdf,1,1,0,0,success
+doc_00781,KYRWCK6XALX32MZI6BN7GYVF2FT57JPP.pdf,data\raw\kaggle_pdf\KYRWCK6XALX32MZI6BN7GYVF2FT57JPP.pdf,1,0,1,1,success
+doc_00782,L25T3UJ2GCRQ5HZHAEKUSBDG3PSJV3CX.pdf,data\raw\kaggle_pdf\L25T3UJ2GCRQ5HZHAEKUSBDG3PSJV3CX.pdf,2,2,0,0,success
+doc_00783,L3KZFZMAQFEW4RY6D5IJJXCRWUVUBLRJ.pdf,data\raw\kaggle_pdf\L3KZFZMAQFEW4RY6D5IJJXCRWUVUBLRJ.pdf,5,5,0,0,success
+doc_00784,L3YHCAZRLQVYA7O4G6SG5BQHUREJTYQO.pdf,data\raw\kaggle_pdf\L3YHCAZRLQVYA7O4G6SG5BQHUREJTYQO.pdf,2,1,1,0,success
+doc_00785,L4EMZQ6EPUAWG2XOMWGBHS4OSPSTVZQJ.pdf,data\raw\kaggle_pdf\L4EMZQ6EPUAWG2XOMWGBHS4OSPSTVZQJ.pdf,2,2,0,0,success
+doc_00786,LAL27T7CADLHBSTG3MN4LEQI5CT7CLHU.pdf,data\raw\kaggle_pdf\LAL27T7CADLHBSTG3MN4LEQI5CT7CLHU.pdf,1,1,0,0,success
+doc_00787,LCFQJGJLCOJ56B3YM3XIPRJ7DFUQPTDG.pdf,data\raw\kaggle_pdf\LCFQJGJLCOJ56B3YM3XIPRJ7DFUQPTDG.pdf,106,106,0,0,success
+doc_00788,LDLCDEPVQ225ADIF33NSEBYX3Z3AE4TX.pdf,data\raw\kaggle_pdf\LDLCDEPVQ225ADIF33NSEBYX3Z3AE4TX.pdf,1,1,0,0,success
+doc_00789,LFGBSD5XRLBIZCRBVWTKQPP2JEVRWRRS.pdf,data\raw\kaggle_pdf\LFGBSD5XRLBIZCRBVWTKQPP2JEVRWRRS.pdf,1,1,0,0,success
+doc_00790,LFZ2QRA2LGRXD2XOPAY4WY36PZYT4IJ4.pdf,data\raw\kaggle_pdf\LFZ2QRA2LGRXD2XOPAY4WY36PZYT4IJ4.pdf,2,2,0,0,success
+doc_00791,LG7ANCL4BE4CFH6R7XGVRWAQANBXXXBD.pdf,data\raw\kaggle_pdf\LG7ANCL4BE4CFH6R7XGVRWAQANBXXXBD.pdf,1,0,1,1,success
+doc_00792,LIPMDFTNS2NRGFUZE65J6AKPXYJSCR6P.pdf,data\raw\kaggle_pdf\LIPMDFTNS2NRGFUZE65J6AKPXYJSCR6P.pdf,2,2,0,0,success
+doc_00793,LJCXACJE45ZQBQIGE26MCKVEGUUL2FZM.pdf,data\raw\kaggle_pdf\LJCXACJE45ZQBQIGE26MCKVEGUUL2FZM.pdf,1,1,0,0,success
+doc_00794,LL47ZCJJXPYOVJLTNX35LAUK2DUMWBJR.pdf,data\raw\kaggle_pdf\LL47ZCJJXPYOVJLTNX35LAUK2DUMWBJR.pdf,4,4,0,0,success
+doc_00795,LLMXYLFSHQA3ZZUSNU4HCBJQ24N7LH6U.pdf,data\raw\kaggle_pdf\LLMXYLFSHQA3ZZUSNU4HCBJQ24N7LH6U.pdf,1,1,0,0,success
+doc_00796,LLO7S5EGRT25W2HWQK2FCIFNJGL6OLQ3.pdf,data\raw\kaggle_pdf\LLO7S5EGRT25W2HWQK2FCIFNJGL6OLQ3.pdf,189,0,189,189,success
+doc_00797,LPA7M5D76YBCPXXCRVU7ZYECI6ODH24E.pdf,data\raw\kaggle_pdf\LPA7M5D76YBCPXXCRVU7ZYECI6ODH24E.pdf,0,0,0,0,success
+doc_00798,LUNHY35RQQVKLPEN2LP52XDOP3KFLWRO.pdf,data\raw\kaggle_pdf\LUNHY35RQQVKLPEN2LP52XDOP3KFLWRO.pdf,1,0,1,1,success
+doc_00799,LV5NL6NL4B32T7LS4ZJDIPLYV2ACNZ5T.pdf,data\raw\kaggle_pdf\LV5NL6NL4B32T7LS4ZJDIPLYV2ACNZ5T.pdf,1,1,0,0,success
+doc_00800,LVPLZHNQEROUW3S5W7HNU42LCJB2IX6E.pdf,data\raw\kaggle_pdf\LVPLZHNQEROUW3S5W7HNU42LCJB2IX6E.pdf,2,2,0,0,success
+doc_00801,LW7OQ44Z4N33ZKSCS6IEEK54LMXJIOFH.pdf,data\raw\kaggle_pdf\LW7OQ44Z4N33ZKSCS6IEEK54LMXJIOFH.pdf,3,3,0,0,success
+doc_00802,LXBG3TK5X532R47N47TPXOVVTBA4QCDE.pdf,data\raw\kaggle_pdf\LXBG3TK5X532R47N47TPXOVVTBA4QCDE.pdf,13,13,0,0,success
+doc_00803,LXT3XRV7OPUDA54NZCRFZW7KHFWU4Y3D.pdf,data\raw\kaggle_pdf\LXT3XRV7OPUDA54NZCRFZW7KHFWU4Y3D.pdf,1,1,0,0,success
+doc_00804,LXW732IC7XIG4SH67A3LN3OF3LUOAWIV.pdf,data\raw\kaggle_pdf\LXW732IC7XIG4SH67A3LN3OF3LUOAWIV.pdf,1,1,0,0,success
+doc_00805,LY6DBD3U5M6JGXFEYE54PAAMXND6XZ23.pdf,data\raw\kaggle_pdf\LY6DBD3U5M6JGXFEYE54PAAMXND6XZ23.pdf,1,1,0,0,success
+doc_00806,LYCCADK4R374ZC4R4ROO5VZSQLHW4RPQ.pdf,data\raw\kaggle_pdf\LYCCADK4R374ZC4R4ROO5VZSQLHW4RPQ.pdf,4,4,0,0,success
+doc_00807,M24UMO5XAGV75HSW66Z2E3N6772MB2SW.pdf,data\raw\kaggle_pdf\M24UMO5XAGV75HSW66Z2E3N6772MB2SW.pdf,24,24,0,0,success
+doc_00808,M3JC5LYIW5JUNGMUE4FIXGDYFEUABDJK.pdf,data\raw\kaggle_pdf\M3JC5LYIW5JUNGMUE4FIXGDYFEUABDJK.pdf,1,1,0,0,success
+doc_00809,M3UMH7U2AYMM6ZLJQSJII5NKQYFUTUFO.pdf,data\raw\kaggle_pdf\M3UMH7U2AYMM6ZLJQSJII5NKQYFUTUFO.pdf,2,2,0,0,success
+doc_00810,M4PQQ2SAF6X4U7WZE2ZG5FPZBNUKPKNC.pdf,data\raw\kaggle_pdf\M4PQQ2SAF6X4U7WZE2ZG5FPZBNUKPKNC.pdf,23,1,22,22,success
+doc_00811,M6C6DEQ5LEULRCOK2LEADJ3AX3522H3E.pdf,data\raw\kaggle_pdf\M6C6DEQ5LEULRCOK2LEADJ3AX3522H3E.pdf,3,3,0,0,success
+doc_00812,M6EE3W5HUIM2YKPPBQ4CS552OOM5UC7I.pdf,data\raw\kaggle_pdf\M6EE3W5HUIM2YKPPBQ4CS552OOM5UC7I.pdf,5,5,0,0,success
+doc_00813,MATLAIUSZNV6ECCAMZDMMLBOVYOJ7LEX.pdf,data\raw\kaggle_pdf\MATLAIUSZNV6ECCAMZDMMLBOVYOJ7LEX.pdf,2,2,0,0,success
+doc_00814,MBYNVOAVDILB2AZ6AU7FGZA3BWG3XXZ4.pdf,data\raw\kaggle_pdf\MBYNVOAVDILB2AZ6AU7FGZA3BWG3XXZ4.pdf,1,1,0,0,success
+doc_00815,MCE7YVRKTXPMRN7DYB25B22RCFFLLHOE.pdf,data\raw\kaggle_pdf\MCE7YVRKTXPMRN7DYB25B22RCFFLLHOE.pdf,4,4,0,0,success
+doc_00816,MDFT7WKB5IFQY7SPL4NGQCPMCQUNYSAM.pdf,data\raw\kaggle_pdf\MDFT7WKB5IFQY7SPL4NGQCPMCQUNYSAM.pdf,2,2,0,0,success
+doc_00817,MDQ4BAARW6OTVBNBQE7BACYBNCCTWQDO.pdf,data\raw\kaggle_pdf\MDQ4BAARW6OTVBNBQE7BACYBNCCTWQDO.pdf,0,0,0,0,success
+doc_00818,MDWBAX6CXSTHPF6GJ7XEWLH2YBTBGR46.pdf,data\raw\kaggle_pdf\MDWBAX6CXSTHPF6GJ7XEWLH2YBTBGR46.pdf,38,38,0,0,success
+doc_00819,MEA47HKC5QL3UF6KNGIXCXA62NTGCUTI.pdf,data\raw\kaggle_pdf\MEA47HKC5QL3UF6KNGIXCXA62NTGCUTI.pdf,1,1,0,0,success
+doc_00820,MF5MYOAVK5OITJHUQOPJRIP3ESMUEHLV.pdf,data\raw\kaggle_pdf\MF5MYOAVK5OITJHUQOPJRIP3ESMUEHLV.pdf,1,1,0,0,success
+doc_00821,MFDBEUJHJSM7EYXX7SA6GULFWNIDHE5Q.pdf,data\raw\kaggle_pdf\MFDBEUJHJSM7EYXX7SA6GULFWNIDHE5Q.pdf,367,347,20,20,success
+doc_00822,MFNO2BYJHXTRPUIULKNEVUF2VD5XMVY3.pdf,data\raw\kaggle_pdf\MFNO2BYJHXTRPUIULKNEVUF2VD5XMVY3.pdf,2,2,0,0,success
+doc_00823,MG64TNXHW4FTW3UTMAX6PXK5AZ5MMO5X.pdf,data\raw\kaggle_pdf\MG64TNXHW4FTW3UTMAX6PXK5AZ5MMO5X.pdf,1,1,0,0,success
+doc_00824,MH3FFNRFQM4LT55ID7VX657NKPCRUB67.pdf,data\raw\kaggle_pdf\MH3FFNRFQM4LT55ID7VX657NKPCRUB67.pdf,24,21,3,3,success
+doc_00825,MI6PTIN3PEAOUDZMD54RFBXFYHE732A7.pdf,data\raw\kaggle_pdf\MI6PTIN3PEAOUDZMD54RFBXFYHE732A7.pdf,2,2,0,0,success
+doc_00826,MILX4ZNQNYZNUWXL5SKQBFS2TJFYYSGU.pdf,data\raw\kaggle_pdf\MILX4ZNQNYZNUWXL5SKQBFS2TJFYYSGU.pdf,2,2,0,0,success
+doc_00827,MLTHHOQT47LRXDG7YYRMF2QXDUPSXSF4.pdf,data\raw\kaggle_pdf\MLTHHOQT47LRXDG7YYRMF2QXDUPSXSF4.pdf,3,3,0,0,success
+doc_00828,MM3LE7UZACMNXBDXA5FM6MTGBLZG7N4W.pdf,data\raw\kaggle_pdf\MM3LE7UZACMNXBDXA5FM6MTGBLZG7N4W.pdf,28,27,1,1,success
+doc_00829,MM5SPPOP2IPOL6OON3JH2H3MDCHIYPJ3.pdf,data\raw\kaggle_pdf\MM5SPPOP2IPOL6OON3JH2H3MDCHIYPJ3.pdf,6,6,0,0,success
+doc_00830,MMSNF4WV7XLHQFKEQYKHHH7GJPPQJQ7U.pdf,data\raw\kaggle_pdf\MMSNF4WV7XLHQFKEQYKHHH7GJPPQJQ7U.pdf,39,39,0,0,success
+doc_00831,MNMNOYBE6LSE2QDETWHNV3TQWBUOYADX.pdf,data\raw\kaggle_pdf\MNMNOYBE6LSE2QDETWHNV3TQWBUOYADX.pdf,58,58,0,0,success
+doc_00832,MPKQ6XRS277ZF7HM3DLVBQZUYBG35GWC.pdf,data\raw\kaggle_pdf\MPKQ6XRS277ZF7HM3DLVBQZUYBG35GWC.pdf,2,2,0,0,success
+doc_00833,MPUN74DDVBAVSA7JIRU4DMDJLPPONVRQ.pdf,data\raw\kaggle_pdf\MPUN74DDVBAVSA7JIRU4DMDJLPPONVRQ.pdf,1,1,0,0,success
+doc_00834,MQEBFDFL5UXUNOUE3E336V4RPBSQS6F6.pdf,data\raw\kaggle_pdf\MQEBFDFL5UXUNOUE3E336V4RPBSQS6F6.pdf,2,2,0,0,success
+doc_00835,MRHH3GUV6VPV3RNA7LYJSLK4UGA4QI7Y.pdf,data\raw\kaggle_pdf\MRHH3GUV6VPV3RNA7LYJSLK4UGA4QI7Y.pdf,1,1,0,0,success
+doc_00836,MTAHFDRL6AJ27IN6IE3SSNETFAWX3PNW.pdf,data\raw\kaggle_pdf\MTAHFDRL6AJ27IN6IE3SSNETFAWX3PNW.pdf,2,2,0,0,success
+doc_00837,MVB3NUAZBLEVULOZQYWDXHOLA46NEJXI.pdf,data\raw\kaggle_pdf\MVB3NUAZBLEVULOZQYWDXHOLA46NEJXI.pdf,30,30,0,0,success
+doc_00838,MYKPH7XVYJANM6NEUFMBWLHISDBHMI2C.pdf,data\raw\kaggle_pdf\MYKPH7XVYJANM6NEUFMBWLHISDBHMI2C.pdf,2,2,0,0,success
+doc_00839,MYQDYVY2YLKZO5JXNA6USJUX6KM4K4DH.pdf,data\raw\kaggle_pdf\MYQDYVY2YLKZO5JXNA6USJUX6KM4K4DH.pdf,3,0,3,3,success
+doc_00840,MZRWQI7HD6SSDT2AQTG7FN73WTASIU6X.pdf,data\raw\kaggle_pdf\MZRWQI7HD6SSDT2AQTG7FN73WTASIU6X.pdf,21,21,0,0,success
+doc_00841,MZYAJ3IACMF3DOK2ST3DBXSJEYD2Q7B2.pdf,data\raw\kaggle_pdf\MZYAJ3IACMF3DOK2ST3DBXSJEYD2Q7B2.pdf,1,0,1,1,success
+doc_00842,N3J3XUQEKRF55Q5R4CDOO6XNSN3BPO7M.pdf,data\raw\kaggle_pdf\N3J3XUQEKRF55Q5R4CDOO6XNSN3BPO7M.pdf,1,1,0,0,success
+doc_00843,N5GFTLPS4OEGG4YIMC7RDPYUGTPLZIIC.pdf,data\raw\kaggle_pdf\N5GFTLPS4OEGG4YIMC7RDPYUGTPLZIIC.pdf,1,1,0,0,success
+doc_00844,NBFDVXD42XRKDLGZBMAORFQBHARE7J3O.pdf,data\raw\kaggle_pdf\NBFDVXD42XRKDLGZBMAORFQBHARE7J3O.pdf,2,2,0,0,success
+doc_00845,NCPYKKHSEFYCQGPJBOUJR3XLMIV5A2WT.pdf,data\raw\kaggle_pdf\NCPYKKHSEFYCQGPJBOUJR3XLMIV5A2WT.pdf,1,1,0,0,success
+doc_00846,NFLMOWBSAYHS4IFKAY5KSXU64BTAEZJ3.pdf,data\raw\kaggle_pdf\NFLMOWBSAYHS4IFKAY5KSXU64BTAEZJ3.pdf,2,2,0,0,success
+doc_00847,NG33GO534UD2QX6Z7DBE7KHLGNGIEU4R.pdf,data\raw\kaggle_pdf\NG33GO534UD2QX6Z7DBE7KHLGNGIEU4R.pdf,4,4,0,0,success
+doc_00848,NHPAWYG2Y5MGFTUYVSJKJUDJ45RFRQWJ.pdf,data\raw\kaggle_pdf\NHPAWYG2Y5MGFTUYVSJKJUDJ45RFRQWJ.pdf,7,7,0,0,success
+doc_00849,NHYKVCJIDJXBIL5EMS743GR74TJUOWAT.pdf,data\raw\kaggle_pdf\NHYKVCJIDJXBIL5EMS743GR74TJUOWAT.pdf,19,19,0,0,success
+doc_00850,NID6HIGF64OZ77COJT2FESRENBE6R6KM.pdf,data\raw\kaggle_pdf\NID6HIGF64OZ77COJT2FESRENBE6R6KM.pdf,2,2,0,0,success
+doc_00851,NIHJBZJN6CKQUFWO67737BIBQUECGZYM.pdf,data\raw\kaggle_pdf\NIHJBZJN6CKQUFWO67737BIBQUECGZYM.pdf,33,32,1,0,success
+doc_00852,NJU4VYU6LDS4YYXY3GLMO3V43KZZONNF.pdf,data\raw\kaggle_pdf\NJU4VYU6LDS4YYXY3GLMO3V43KZZONNF.pdf,1,1,0,0,success
+doc_00853,NKJZFXDHGHWNNHGULXM5PSPE7GWWUTR2.pdf,data\raw\kaggle_pdf\NKJZFXDHGHWNNHGULXM5PSPE7GWWUTR2.pdf,230,230,0,0,success
+doc_00854,NKR5U6JLTFQL4WLCRX26RMGXZXZRAHI7.pdf,data\raw\kaggle_pdf\NKR5U6JLTFQL4WLCRX26RMGXZXZRAHI7.pdf,1,1,0,0,success
+doc_00855,NKTXPVJPY5TFHGLN3JTGGFE7R6KEJJI4.pdf,data\raw\kaggle_pdf\NKTXPVJPY5TFHGLN3JTGGFE7R6KEJJI4.pdf,1,1,0,0,success
+doc_00856,NLALJLUHGUMMXT4J7U6N334L5AEG7PMR.pdf,data\raw\kaggle_pdf\NLALJLUHGUMMXT4J7U6N334L5AEG7PMR.pdf,2,2,0,0,success
+doc_00857,NLQ2FSPOQDRVBINYEXFQNKEGS65YPQ7P.pdf,data\raw\kaggle_pdf\NLQ2FSPOQDRVBINYEXFQNKEGS65YPQ7P.pdf,3,3,0,0,success
+doc_00858,NLTWEZWPUW2XAJ5PPIKQTT6A62AWCH4T.pdf,data\raw\kaggle_pdf\NLTWEZWPUW2XAJ5PPIKQTT6A62AWCH4T.pdf,1,1,0,0,success
+doc_00859,NM76DD2NN5OG5VHK5TQMZV3OO3T6UDAK.pdf,data\raw\kaggle_pdf\NM76DD2NN5OG5VHK5TQMZV3OO3T6UDAK.pdf,1,1,0,0,success
+doc_00860,NO2EXNEDITIQJ5DGLCKNW22NA7KIUSFV.pdf,data\raw\kaggle_pdf\NO2EXNEDITIQJ5DGLCKNW22NA7KIUSFV.pdf,1,1,0,0,success
+doc_00861,NV2HBNZCYGDWN6RFSVHR75IP4EJX3G4D.pdf,data\raw\kaggle_pdf\NV2HBNZCYGDWN6RFSVHR75IP4EJX3G4D.pdf,1,1,0,0,success
+doc_00862,NXQWVJBI6J23JG35UF2PBILHUJXOKLKW.pdf,data\raw\kaggle_pdf\NXQWVJBI6J23JG35UF2PBILHUJXOKLKW.pdf,1,1,0,0,success
+doc_00863,O4BQRWPCNHJGJHA76LLVENRVKSDRAWSR.pdf,data\raw\kaggle_pdf\O4BQRWPCNHJGJHA76LLVENRVKSDRAWSR.pdf,5,5,0,0,success
+doc_00864,O4DQHOGINPSBCZGCDD5ZOF5K3PSWUVFO.pdf,data\raw\kaggle_pdf\O4DQHOGINPSBCZGCDD5ZOF5K3PSWUVFO.pdf,2,1,1,0,success
+doc_00865,O4OJHSZUX6K2VVH4VJPOFC7CMUOO5UX5.pdf,data\raw\kaggle_pdf\O4OJHSZUX6K2VVH4VJPOFC7CMUOO5UX5.pdf,3,3,0,0,success
+doc_00866,O4Z3IEED7ROYYCKDRARK2BBHSZGR4M5Y.pdf,data\raw\kaggle_pdf\O4Z3IEED7ROYYCKDRARK2BBHSZGR4M5Y.pdf,10,10,0,0,success
+doc_00867,O5D34KMZVR5GAJPGEGG4LGZ547SRHJJC.pdf,data\raw\kaggle_pdf\O5D34KMZVR5GAJPGEGG4LGZ547SRHJJC.pdf,2,2,0,0,success
+doc_00868,O6J6V2EMM75WZRVVG7E7KUD2QRK33JDO.pdf,data\raw\kaggle_pdf\O6J6V2EMM75WZRVVG7E7KUD2QRK33JDO.pdf,7,7,0,0,success
+doc_00869,O6K6RC2TPUGKD4NJLXH6KUVRELRT5PWG.pdf,data\raw\kaggle_pdf\O6K6RC2TPUGKD4NJLXH6KUVRELRT5PWG.pdf,1,1,0,0,success
+doc_00870,O7L5CYQXFDOBSVKIJYAENIFCV6NZK7CG.pdf,data\raw\kaggle_pdf\O7L5CYQXFDOBSVKIJYAENIFCV6NZK7CG.pdf,8,8,0,0,success
+doc_00871,O7N4FHZJHLMQ5QI2XPMYC2MSSNJ6DCNT.pdf,data\raw\kaggle_pdf\O7N4FHZJHLMQ5QI2XPMYC2MSSNJ6DCNT.pdf,3,3,0,0,success
+doc_00872,OAAZZPSDEIQQH4F3ND5HZDC7MTB4GXXU.pdf,data\raw\kaggle_pdf\OAAZZPSDEIQQH4F3ND5HZDC7MTB4GXXU.pdf,1,1,0,0,success
+doc_00873,OARISNKXLKQMHUOI5CJP52OYQJ2AARZR.pdf,data\raw\kaggle_pdf\OARISNKXLKQMHUOI5CJP52OYQJ2AARZR.pdf,3,3,0,0,success
+doc_00874,OB54TYALNJNUFASVPJ6FQ4ZJGVQ2FJMM.pdf,data\raw\kaggle_pdf\OB54TYALNJNUFASVPJ6FQ4ZJGVQ2FJMM.pdf,19,19,0,0,success
+doc_00875,OB5K37VVGHIEXSQPWFJBU7NZA5OEKAOO.pdf,data\raw\kaggle_pdf\OB5K37VVGHIEXSQPWFJBU7NZA5OEKAOO.pdf,1,1,0,0,success
+doc_00876,OBI2XUM4RBMFJ5BZBOISYPRMFKGAFNLW.pdf,data\raw\kaggle_pdf\OBI2XUM4RBMFJ5BZBOISYPRMFKGAFNLW.pdf,17,17,0,0,success
+doc_00877,OC6KMJC3IXV45WRYIJVGKNSMVUD6BUOT.pdf,data\raw\kaggle_pdf\OC6KMJC3IXV45WRYIJVGKNSMVUD6BUOT.pdf,2,2,0,0,success
+doc_00878,OD4ERNFNRHRA77G3YVQMKKCFQ4KQZGVL.pdf,data\raw\kaggle_pdf\OD4ERNFNRHRA77G3YVQMKKCFQ4KQZGVL.pdf,1,0,1,1,success
+doc_00879,ODFH5YT72ZKNG6YGIOKCH67FDHEFFFM3.pdf,data\raw\kaggle_pdf\ODFH5YT72ZKNG6YGIOKCH67FDHEFFFM3.pdf,5,0,5,5,success
+doc_00880,OE6BMOWZLGKSJUHP5BN2KHW6DEYTYGUZ.pdf,data\raw\kaggle_pdf\OE6BMOWZLGKSJUHP5BN2KHW6DEYTYGUZ.pdf,6,6,0,0,success
+doc_00881,OEJKXSDUJIM5XWYEYLA2NWL3K4UI5IZR.pdf,data\raw\kaggle_pdf\OEJKXSDUJIM5XWYEYLA2NWL3K4UI5IZR.pdf,2,0,2,2,success
+doc_00882,OEP4CRRCT63IR7FA3IVB5BCG2ZREEVGH.pdf,data\raw\kaggle_pdf\OEP4CRRCT63IR7FA3IVB5BCG2ZREEVGH.pdf,1,1,0,0,success
+doc_00883,OEUJOHSOZFOEZIFUIEWYENANVOXLPB5T.pdf,data\raw\kaggle_pdf\OEUJOHSOZFOEZIFUIEWYENANVOXLPB5T.pdf,4,4,0,0,success
+doc_00884,OFO3SJTRTB4AFSNSLMQ7IQ5XYAJM7SNC.pdf,data\raw\kaggle_pdf\OFO3SJTRTB4AFSNSLMQ7IQ5XYAJM7SNC.pdf,1,0,1,1,success
+doc_00885,OGOIOJCYO3VA7JT3K5N3OVKM4PB2BF7K.pdf,data\raw\kaggle_pdf\OGOIOJCYO3VA7JT3K5N3OVKM4PB2BF7K.pdf,2,0,2,2,success
+doc_00886,OGSA4IWZYF53JIBKQTNJ66QCBGV7EKR7.pdf,data\raw\kaggle_pdf\OGSA4IWZYF53JIBKQTNJ66QCBGV7EKR7.pdf,3,3,0,0,success
+doc_00887,OHTNKYOXYDGU2LJ65NZHLLFUCLSNEGNU.pdf,data\raw\kaggle_pdf\OHTNKYOXYDGU2LJ65NZHLLFUCLSNEGNU.pdf,1,1,0,0,success
+doc_00888,OIBFL53UO6KGYL6PN27JMGWOJKWD62FK.pdf,data\raw\kaggle_pdf\OIBFL53UO6KGYL6PN27JMGWOJKWD62FK.pdf,2,2,0,0,success
+doc_00889,OJNJPL3PVEAAOXUZYPVWAOI2GKPJ7YLF.pdf,data\raw\kaggle_pdf\OJNJPL3PVEAAOXUZYPVWAOI2GKPJ7YLF.pdf,11,11,0,0,success
+doc_00890,OL336OCHWPDVQZZYXKYBAGX2XGMXEWBY.pdf,data\raw\kaggle_pdf\OL336OCHWPDVQZZYXKYBAGX2XGMXEWBY.pdf,2,2,0,0,success
+doc_00891,OMIUL266TMW75QUBWV2CUTRL56PSFGDK.pdf,data\raw\kaggle_pdf\OMIUL266TMW75QUBWV2CUTRL56PSFGDK.pdf,1,1,0,0,success
+doc_00892,ON2LIHQQ5QFF6JIQGMUDF7ALYUDKTTV6.pdf,data\raw\kaggle_pdf\ON2LIHQQ5QFF6JIQGMUDF7ALYUDKTTV6.pdf,2,0,2,2,success
+doc_00893,ONJTHIQJ5WQGCY222XUFWYGGH35KZ3EF.pdf,data\raw\kaggle_pdf\ONJTHIQJ5WQGCY222XUFWYGGH35KZ3EF.pdf,1,1,0,0,success
+doc_00894,OOCZ65LSQNV54SSBIQ5C2LVLOZNKUXH3.pdf,data\raw\kaggle_pdf\OOCZ65LSQNV54SSBIQ5C2LVLOZNKUXH3.pdf,3,3,0,0,success
+doc_00895,OQCH5BPQO3G64HZOGOJKA26NQ23FAXD2.pdf,data\raw\kaggle_pdf\OQCH5BPQO3G64HZOGOJKA26NQ23FAXD2.pdf,20,20,0,0,success
+doc_00896,ORLP2EPAWI7SXKJRKMSGUIKONQPFFWIO.pdf,data\raw\kaggle_pdf\ORLP2EPAWI7SXKJRKMSGUIKONQPFFWIO.pdf,3,3,0,0,success
+doc_00897,OW26QBLLEQRZH5PWHLAQGVI427SWTZUM.pdf,data\raw\kaggle_pdf\OW26QBLLEQRZH5PWHLAQGVI427SWTZUM.pdf,2,0,2,2,success
+doc_00898,OWLJR34JMJW772HNLGCF6O64GCY6QTTP.pdf,data\raw\kaggle_pdf\OWLJR34JMJW772HNLGCF6O64GCY6QTTP.pdf,9,9,0,0,success
+doc_00899,OWRQAAISWFPE42ZPHJ5XB75VRMPM7EGO.pdf,data\raw\kaggle_pdf\OWRQAAISWFPE42ZPHJ5XB75VRMPM7EGO.pdf,1,0,1,1,success
+doc_00900,OZLL6FV4YWFVZBLEIGEFCANTYYKW7U57.pdf,data\raw\kaggle_pdf\OZLL6FV4YWFVZBLEIGEFCANTYYKW7U57.pdf,1,1,0,0,success
+doc_00901,P27OC5LB5CYK7PNMUUFAMXEQ3THDTNJ4.pdf,data\raw\kaggle_pdf\P27OC5LB5CYK7PNMUUFAMXEQ3THDTNJ4.pdf,9,9,0,0,success
+doc_00902,P3PTNPUPTDOHMP74AZKCKHXHZHBD5TTB.pdf,data\raw\kaggle_pdf\P3PTNPUPTDOHMP74AZKCKHXHZHBD5TTB.pdf,5,5,0,0,success
+doc_00903,P4FT3X7LU5QLFKV5FV4G6OTMOTKXTVO3.pdf,data\raw\kaggle_pdf\P4FT3X7LU5QLFKV5FV4G6OTMOTKXTVO3.pdf,16,16,0,0,success
+doc_00904,P4RQFJUGBTNS65T2XDM6GMY3GVOTXUUC.pdf,data\raw\kaggle_pdf\P4RQFJUGBTNS65T2XDM6GMY3GVOTXUUC.pdf,5,5,0,0,success
+doc_00905,P6HR4OCK2XESQDYBJJZZKFXDENQUEURI.pdf,data\raw\kaggle_pdf\P6HR4OCK2XESQDYBJJZZKFXDENQUEURI.pdf,2,2,0,0,success
+doc_00906,P75PT46UN56V2ZSIQXVOXK4ILE4ZLOSZ.pdf,data\raw\kaggle_pdf\P75PT46UN56V2ZSIQXVOXK4ILE4ZLOSZ.pdf,12,12,0,0,success
+doc_00907,P7BCU2OYC6JMB6JKYILFFYNACDO4MAXG.pdf,data\raw\kaggle_pdf\P7BCU2OYC6JMB6JKYILFFYNACDO4MAXG.pdf,1,1,0,0,success
+doc_00908,P7DVSVWUBQCLK3SEIMRSDBZWVGH3MKC5.pdf,data\raw\kaggle_pdf\P7DVSVWUBQCLK3SEIMRSDBZWVGH3MKC5.pdf,2,2,0,0,success
+doc_00909,P7MWMCFFFSYYNCKYBTUACYK2SLL32AB5.pdf,data\raw\kaggle_pdf\P7MWMCFFFSYYNCKYBTUACYK2SLL32AB5.pdf,0,0,0,0,success
+doc_00910,P7ZED35W7LHI6YLKM5TVSLOQVACYSHHM.pdf,data\raw\kaggle_pdf\P7ZED35W7LHI6YLKM5TVSLOQVACYSHHM.pdf,2,2,0,0,success
+doc_00911,PA46QOQAP7BJ3PS4GXSHDZ4YRVB5EAJZ.pdf,data\raw\kaggle_pdf\PA46QOQAP7BJ3PS4GXSHDZ4YRVB5EAJZ.pdf,4,4,0,0,success
+doc_00912,PAIBACOWVNIBH2EKAYW2MNBGVVVNI3KH.pdf,data\raw\kaggle_pdf\PAIBACOWVNIBH2EKAYW2MNBGVVVNI3KH.pdf,1,1,0,0,success
+doc_00913,PBRTEXYSUIMW5CIBMCG6PETQ5MICKEQH.pdf,data\raw\kaggle_pdf\PBRTEXYSUIMW5CIBMCG6PETQ5MICKEQH.pdf,1,1,0,0,success
+doc_00914,PCW6KUWFIKXHZIELKOYPYOLWVEQT4HOX.pdf,data\raw\kaggle_pdf\PCW6KUWFIKXHZIELKOYPYOLWVEQT4HOX.pdf,1,1,0,0,success
+doc_00915,PF723CIBZRC6AIJQB6TLTUEH337JMWP6.pdf,data\raw\kaggle_pdf\PF723CIBZRC6AIJQB6TLTUEH337JMWP6.pdf,7,7,0,0,success
+doc_00916,PFGSA5KKI3RCAENXBCM2LGTLHH5TLRGG.pdf,data\raw\kaggle_pdf\PFGSA5KKI3RCAENXBCM2LGTLHH5TLRGG.pdf,1,0,1,1,success
+doc_00917,PFYC6E5GGQLD2ON3WMS63OO5DERTOC5G.pdf,data\raw\kaggle_pdf\PFYC6E5GGQLD2ON3WMS63OO5DERTOC5G.pdf,2,2,0,0,success
+doc_00918,PGJA7RZXFYTWRTYHWLSDEJFR2OKNYIP6.pdf,data\raw\kaggle_pdf\PGJA7RZXFYTWRTYHWLSDEJFR2OKNYIP6.pdf,2,2,0,0,success
+doc_00919,PHK242FKQAITIVOOF6EBPHOM52QEYIKJ.pdf,data\raw\kaggle_pdf\PHK242FKQAITIVOOF6EBPHOM52QEYIKJ.pdf,1,1,0,0,success
+doc_00920,PKHUWRXW2J4OR3XS2FZVM57DYSAOZG74.pdf,data\raw\kaggle_pdf\PKHUWRXW2J4OR3XS2FZVM57DYSAOZG74.pdf,5,5,0,0,success
+doc_00921,PKJ5POOU72UUDAUOETQSQZUNHVOWUZZK.pdf,data\raw\kaggle_pdf\PKJ5POOU72UUDAUOETQSQZUNHVOWUZZK.pdf,2,2,0,0,success
+doc_00922,PKUP7YPNPYN6ZP26TRK25TL7U6WLNSGT.pdf,data\raw\kaggle_pdf\PKUP7YPNPYN6ZP26TRK25TL7U6WLNSGT.pdf,1,1,0,0,success
+doc_00923,PLOHNC5FBG7GG7BN7IZ5TLOLYMGRDOY6.pdf,data\raw\kaggle_pdf\PLOHNC5FBG7GG7BN7IZ5TLOLYMGRDOY6.pdf,2,1,1,1,success
+doc_00924,PM77VVIRKCVEFG6KFQWCC5LHTB5BY5FD.pdf,data\raw\kaggle_pdf\PM77VVIRKCVEFG6KFQWCC5LHTB5BY5FD.pdf,6,6,0,0,success
+doc_00925,PMCR2PO7DRFQD3UBJ7V5ACOUOTV6KSPS.pdf,data\raw\kaggle_pdf\PMCR2PO7DRFQD3UBJ7V5ACOUOTV6KSPS.pdf,1,1,0,0,success
+doc_00926,POEHMIOJYP5KQX64LWVXOXS7I5QYW3UB.pdf,data\raw\kaggle_pdf\POEHMIOJYP5KQX64LWVXOXS7I5QYW3UB.pdf,5,0,5,5,success
+doc_00927,POKED5F2QVX266ONHVMGK7AGDJDU7OYQ.pdf,data\raw\kaggle_pdf\POKED5F2QVX266ONHVMGK7AGDJDU7OYQ.pdf,5,5,0,0,success
+doc_00928,POX3CR2EUHMC7IPGDNEHNTQOAV2ZQLHR.pdf,data\raw\kaggle_pdf\POX3CR2EUHMC7IPGDNEHNTQOAV2ZQLHR.pdf,2,2,0,0,success
+doc_00929,PPDKIO5ID33EK2RASLKYC2VUBKAMZPNO.pdf,data\raw\kaggle_pdf\PPDKIO5ID33EK2RASLKYC2VUBKAMZPNO.pdf,2,2,0,0,success
+doc_00930,PPFVISZB3VX72X34A67YWBPDCA3BBVCF.pdf,data\raw\kaggle_pdf\PPFVISZB3VX72X34A67YWBPDCA3BBVCF.pdf,4,4,0,0,success
+doc_00931,PRMLNHO3YK4QH2BBAQPVLO4HWIQBTRDS.pdf,data\raw\kaggle_pdf\PRMLNHO3YK4QH2BBAQPVLO4HWIQBTRDS.pdf,2,2,0,0,success
+doc_00932,PV2UUKY4MEWQFTITQRUFTBMJY6ONPUNW.pdf,data\raw\kaggle_pdf\PV2UUKY4MEWQFTITQRUFTBMJY6ONPUNW.pdf,1,1,0,0,success
+doc_00933,PVG2YQXZ3BYEDVLQ3JGB5JXXYWWQ327E.pdf,data\raw\kaggle_pdf\PVG2YQXZ3BYEDVLQ3JGB5JXXYWWQ327E.pdf,1,1,0,0,success
+doc_00934,PVW3BCYZZQIFEHTAV4LFTP25PEF7ZF2E.pdf,data\raw\kaggle_pdf\PVW3BCYZZQIFEHTAV4LFTP25PEF7ZF2E.pdf,2,2,0,0,success
+doc_00935,PYTDN333IKHN3QCZW6AJ2ASF6NEQCVJ6.pdf,data\raw\kaggle_pdf\PYTDN333IKHN3QCZW6AJ2ASF6NEQCVJ6.pdf,2,2,0,0,success
+doc_00936,Q2ZW5DLO3XURCC6GCJMZY6LZZQUDI4ON.pdf,data\raw\kaggle_pdf\Q2ZW5DLO3XURCC6GCJMZY6LZZQUDI4ON.pdf,9,9,0,0,success
+doc_00937,QAPP7VH3R3TX4TUR6WSDP6HW52K2LPAK.pdf,data\raw\kaggle_pdf\QAPP7VH3R3TX4TUR6WSDP6HW52K2LPAK.pdf,8,8,0,0,success
+doc_00938,QBU5BZSBYX6YRLYVHQU4VCFMBYAHDHLU.pdf,data\raw\kaggle_pdf\QBU5BZSBYX6YRLYVHQU4VCFMBYAHDHLU.pdf,0,0,0,0,success
+doc_00939,QCAENKSZWWWKYHPTET6HQGFKTLKEUTEO.pdf,data\raw\kaggle_pdf\QCAENKSZWWWKYHPTET6HQGFKTLKEUTEO.pdf,2,2,0,0,success
+doc_00940,QCZLJRXUA3KIQPMRQ4LSGYCNVTIK6PG4.pdf,data\raw\kaggle_pdf\QCZLJRXUA3KIQPMRQ4LSGYCNVTIK6PG4.pdf,1,1,0,0,success
+doc_00941,QDT4ROBASSEPQJ22EDUO3HLP3NB2IIBC.pdf,data\raw\kaggle_pdf\QDT4ROBASSEPQJ22EDUO3HLP3NB2IIBC.pdf,37,36,1,0,success
+doc_00942,QDXB4QXFTS2ZBLD4UC23EGQ4SGJITFII.pdf,data\raw\kaggle_pdf\QDXB4QXFTS2ZBLD4UC23EGQ4SGJITFII.pdf,1,1,0,0,success
+doc_00943,QE6FLNHQQKHXPNZIXRPA362DGNJ4UZJB.pdf,data\raw\kaggle_pdf\QE6FLNHQQKHXPNZIXRPA362DGNJ4UZJB.pdf,1,1,0,0,success
+doc_00944,QEU2VCKWPAORHZCIZZAJSMR373CNXFJH.pdf,data\raw\kaggle_pdf\QEU2VCKWPAORHZCIZZAJSMR373CNXFJH.pdf,1,1,0,0,success
+doc_00945,QFKWGGEL2BZWQG2DBONY52VPSGBVQBAK.pdf,data\raw\kaggle_pdf\QFKWGGEL2BZWQG2DBONY52VPSGBVQBAK.pdf,1,1,0,0,success
+doc_00946,QIYEVQGJUXO4R45CCFYLL65JS6FERSNA.pdf,data\raw\kaggle_pdf\QIYEVQGJUXO4R45CCFYLL65JS6FERSNA.pdf,2,2,0,0,success
+doc_00947,QJRUY4FRCDHXZJT5ZAWKMADAMAQUP5R6.pdf,data\raw\kaggle_pdf\QJRUY4FRCDHXZJT5ZAWKMADAMAQUP5R6.pdf,2,0,2,2,success
+doc_00948,QKMKFZHDUXL4UT3XEH7MJU4V7AUZHBGO.pdf,data\raw\kaggle_pdf\QKMKFZHDUXL4UT3XEH7MJU4V7AUZHBGO.pdf,5,5,0,0,success
+doc_00949,QLBRTJBPTEPSW266VK6E34FMP47KXTDL.pdf,data\raw\kaggle_pdf\QLBRTJBPTEPSW266VK6E34FMP47KXTDL.pdf,2,2,0,0,success
+doc_00950,QMDDA7F5HSPSBPI6M7DBNZAAZLCR36E4.pdf,data\raw\kaggle_pdf\QMDDA7F5HSPSBPI6M7DBNZAAZLCR36E4.pdf,2,2,0,0,success
+doc_00951,QMNB4F4EQHGQDRKO7QIJWTN6TUMGKQXB.pdf,data\raw\kaggle_pdf\QMNB4F4EQHGQDRKO7QIJWTN6TUMGKQXB.pdf,7,7,0,0,success
+doc_00952,QNKRV7UHP5TEQSOYA73EJYJ7MSG66S3D.pdf,data\raw\kaggle_pdf\QNKRV7UHP5TEQSOYA73EJYJ7MSG66S3D.pdf,2,2,0,0,success
+doc_00953,QNUOKFLA7NUJSOJ63IZBGJYX2EUW7JI3.pdf,data\raw\kaggle_pdf\QNUOKFLA7NUJSOJ63IZBGJYX2EUW7JI3.pdf,5,5,0,0,success
+doc_00954,QOGDHC6YZPFATRADZTZJ4U27VIHSXA3Z.pdf,data\raw\kaggle_pdf\QOGDHC6YZPFATRADZTZJ4U27VIHSXA3Z.pdf,4,4,0,0,success
+doc_00955,QPGEM6DY42HDRLY6OQFDPEFDUSW43ITT.pdf,data\raw\kaggle_pdf\QPGEM6DY42HDRLY6OQFDPEFDUSW43ITT.pdf,1,1,0,0,success
+doc_00956,QQ3PAME5WNXC55BB7PSNV3NRG375VYE4.pdf,data\raw\kaggle_pdf\QQ3PAME5WNXC55BB7PSNV3NRG375VYE4.pdf,1,1,0,0,success
+doc_00957,QRJ42GGGA52M42R57XTGIQONYKAKWVG5.pdf,data\raw\kaggle_pdf\QRJ42GGGA52M42R57XTGIQONYKAKWVG5.pdf,7,7,0,0,success
+doc_00958,QRWUEJ3NLZCZOXL2HTG2KMRCA6O42IG5.pdf,data\raw\kaggle_pdf\QRWUEJ3NLZCZOXL2HTG2KMRCA6O42IG5.pdf,2,2,0,0,success
+doc_00959,QSFKS6NOWMHLYFCXK7RQWFMLMSLY5OVX.pdf,data\raw\kaggle_pdf\QSFKS6NOWMHLYFCXK7RQWFMLMSLY5OVX.pdf,1,1,0,0,success
+doc_00960,QSPE3BHAI3DOO552RNZ5WXPJVIWAZ4LT.pdf,data\raw\kaggle_pdf\QSPE3BHAI3DOO552RNZ5WXPJVIWAZ4LT.pdf,83,83,0,0,success
+doc_00961,QU4F5C3GPRUAV463D7PN5NXHKFCWJETA.pdf,data\raw\kaggle_pdf\QU4F5C3GPRUAV463D7PN5NXHKFCWJETA.pdf,23,23,0,0,success
+doc_00962,QZ74K7KFE4OPYKEUIOXGTTM6Q73UJP4C.pdf,data\raw\kaggle_pdf\QZ74K7KFE4OPYKEUIOXGTTM6Q73UJP4C.pdf,20,4,16,16,success
+doc_00963,QZTQ7BCZVBR4UKL4M73HH7TX4ZVROQCS.pdf,data\raw\kaggle_pdf\QZTQ7BCZVBR4UKL4M73HH7TX4ZVROQCS.pdf,7,7,0,0,success
+doc_00964,R2IMEGYDIXZXCNVIRC3SN2DVVGBVH5ZD.pdf,data\raw\kaggle_pdf\R2IMEGYDIXZXCNVIRC3SN2DVVGBVH5ZD.pdf,2,2,0,0,success
+doc_00965,R2XUGBKZ2QR5A43XN4ZA4PJ7NADJ4KWE.pdf,data\raw\kaggle_pdf\R2XUGBKZ2QR5A43XN4ZA4PJ7NADJ4KWE.pdf,7,7,0,0,success
+doc_00966,R345PQR6366VJ25LZJUWVIWDKKLEDPUY.pdf,data\raw\kaggle_pdf\R345PQR6366VJ25LZJUWVIWDKKLEDPUY.pdf,7,0,7,7,success
+doc_00967,R46ZZRYMTYTEE6CKIBOGNNGSMZ3GD5E2.pdf,data\raw\kaggle_pdf\R46ZZRYMTYTEE6CKIBOGNNGSMZ3GD5E2.pdf,1,1,0,0,success
+doc_00968,R5O7UJD4YJERUYUP6XKJR6SA6ZJRA4AG.pdf,data\raw\kaggle_pdf\R5O7UJD4YJERUYUP6XKJR6SA6ZJRA4AG.pdf,4,4,0,0,success
+doc_00969,R6LHWCGK5EOQHHR7EXRI7ZJLBG2R5QOF.pdf,data\raw\kaggle_pdf\R6LHWCGK5EOQHHR7EXRI7ZJLBG2R5QOF.pdf,1,1,0,0,success
+doc_00970,R77SNILPJ5SSKNRBECOMST54VSPJ3RVT.pdf,data\raw\kaggle_pdf\R77SNILPJ5SSKNRBECOMST54VSPJ3RVT.pdf,40,40,0,0,success
+doc_00971,R7RUWIVERCT2LRQCIKTTVL3SXF4P4HEP.pdf,data\raw\kaggle_pdf\R7RUWIVERCT2LRQCIKTTVL3SXF4P4HEP.pdf,2,0,2,2,success
+doc_00972,R7YJNQZ3EFASORAHOJYEDNW3ZDWBNO4K.pdf,data\raw\kaggle_pdf\R7YJNQZ3EFASORAHOJYEDNW3ZDWBNO4K.pdf,0,0,0,0,success
+doc_00973,RBQS77ZEQXZZN5PHJPGI4PI4XB3ANVBB.pdf,data\raw\kaggle_pdf\RBQS77ZEQXZZN5PHJPGI4PI4XB3ANVBB.pdf,9,9,0,0,success
+doc_00974,RC7BS5CIY6SCEAPZ3YKNOSC3IMBGZA2C.pdf,data\raw\kaggle_pdf\RC7BS5CIY6SCEAPZ3YKNOSC3IMBGZA2C.pdf,1,1,0,0,success
+doc_00975,RCW53FS3M3LSRJVG4JZ5PGQ6OGNMMZRP.pdf,data\raw\kaggle_pdf\RCW53FS3M3LSRJVG4JZ5PGQ6OGNMMZRP.pdf,2,2,0,0,success
+doc_00976,RDQEO3IHCUXHQO3INBQKLFGDQOCQJ2QS.pdf,data\raw\kaggle_pdf\RDQEO3IHCUXHQO3INBQKLFGDQOCQJ2QS.pdf,1,1,0,0,success
+doc_00977,RGLIJBRXUUTOHN6QMS3KQSBFNPXYSYQ2.pdf,data\raw\kaggle_pdf\RGLIJBRXUUTOHN6QMS3KQSBFNPXYSYQ2.pdf,4,4,0,0,success
+doc_00978,RH7T2UORLNLLG7HRFR3HL7W572F5S6YY.pdf,data\raw\kaggle_pdf\RH7T2UORLNLLG7HRFR3HL7W572F5S6YY.pdf,5,5,0,0,success
+doc_00979,RHPH4OMXIVY3KFVPJQZYY5EH4MEK5YD6.pdf,data\raw\kaggle_pdf\RHPH4OMXIVY3KFVPJQZYY5EH4MEK5YD6.pdf,2,2,0,0,success
+doc_00980,RHW47KIVYBR2WPS44NNXESVQHKWOOXXD.pdf,data\raw\kaggle_pdf\RHW47KIVYBR2WPS44NNXESVQHKWOOXXD.pdf,1,1,0,0,success
+doc_00981,RI2EFC7G35NUUXG5XEXZL7S2JTPG25NY.pdf,data\raw\kaggle_pdf\RI2EFC7G35NUUXG5XEXZL7S2JTPG25NY.pdf,1,1,0,0,success
+doc_00982,RI6NFCCK3DM3HB3ZU7OJTGVRX2YSD3LB.pdf,data\raw\kaggle_pdf\RI6NFCCK3DM3HB3ZU7OJTGVRX2YSD3LB.pdf,19,19,0,0,success
+doc_00983,RJDPY3BZNDDW3TTJUKWZULNVI6JFGCNP.pdf,data\raw\kaggle_pdf\RJDPY3BZNDDW3TTJUKWZULNVI6JFGCNP.pdf,1,1,0,0,success
+doc_00984,RLGNJP7L3BZWPR6KCTTN5I4DIPFSCP3L.pdf,data\raw\kaggle_pdf\RLGNJP7L3BZWPR6KCTTN5I4DIPFSCP3L.pdf,73,73,0,0,success
+doc_00985,RLKGPI2MJLO7AEAI772IBBKWBRRWISBF.pdf,data\raw\kaggle_pdf\RLKGPI2MJLO7AEAI772IBBKWBRRWISBF.pdf,7,7,0,0,success
+doc_00986,ROFAK5ST6GGKDWOVZ4YC6QI5GYOJBO4I.pdf,data\raw\kaggle_pdf\ROFAK5ST6GGKDWOVZ4YC6QI5GYOJBO4I.pdf,15,15,0,0,success
+doc_00987,ROKL4YZJZ5THXZULOIWSNKWSB4ZTWZV5.pdf,data\raw\kaggle_pdf\ROKL4YZJZ5THXZULOIWSNKWSB4ZTWZV5.pdf,4,4,0,0,success
+doc_00988,RRANJ75ZAZCFUGZ32P2DOPAJJRK7L3EG.pdf,data\raw\kaggle_pdf\RRANJ75ZAZCFUGZ32P2DOPAJJRK7L3EG.pdf,9,9,0,0,success
+doc_00989,RSP7OUPOJR4TSQPR3LUL7HRIU73MENRV.pdf,data\raw\kaggle_pdf\RSP7OUPOJR4TSQPR3LUL7HRIU73MENRV.pdf,3,3,0,0,success
+doc_00990,RTF5PUMVRIE2IDJIKNV36WL7YCM7KKUF.pdf,data\raw\kaggle_pdf\RTF5PUMVRIE2IDJIKNV36WL7YCM7KKUF.pdf,1,1,0,0,success
+doc_00991,RUL7FW772XCJNPOZ34TKKQD3THLBCHH7.pdf,data\raw\kaggle_pdf\RUL7FW772XCJNPOZ34TKKQD3THLBCHH7.pdf,367,367,0,0,success
+doc_00992,RUW5HYZIHK3VYBQE2PL4OZ3KT2S2SPVO.pdf,data\raw\kaggle_pdf\RUW5HYZIHK3VYBQE2PL4OZ3KT2S2SPVO.pdf,2,2,0,0,success
+doc_00993,RVF6AZOJLCDEWLY2UNGVFQ4PSVEQYAUH.pdf,data\raw\kaggle_pdf\RVF6AZOJLCDEWLY2UNGVFQ4PSVEQYAUH.pdf,1,1,0,0,success
+doc_00994,RXIDHLTDVIBR4P4WOFXTJSSV6A3K5GTZ.pdf,data\raw\kaggle_pdf\RXIDHLTDVIBR4P4WOFXTJSSV6A3K5GTZ.pdf,2,2,0,0,success
+doc_00995,RXWB2L774DLDJ56PA7LYGA4DYUUA3FBE.pdf,data\raw\kaggle_pdf\RXWB2L774DLDJ56PA7LYGA4DYUUA3FBE.pdf,1,1,0,0,success
+doc_00996,RZBL4G73Y76GIJWY3BENQNYBTVX5WAR6.pdf,data\raw\kaggle_pdf\RZBL4G73Y76GIJWY3BENQNYBTVX5WAR6.pdf,3,3,0,0,success
+doc_00997,S2M644RTRLI4BC6XSMMWE2MRFB76F4KC.pdf,data\raw\kaggle_pdf\S2M644RTRLI4BC6XSMMWE2MRFB76F4KC.pdf,1,1,0,0,success
+doc_00998,S2UVWECYPR7LVAESLI2OMTZOVVDIEP2S.pdf,data\raw\kaggle_pdf\S2UVWECYPR7LVAESLI2OMTZOVVDIEP2S.pdf,2,2,0,0,success
+doc_00999,S3I3API6I4IWOFIMIOVLVJEE3XHPEYBG.pdf,data\raw\kaggle_pdf\S3I3API6I4IWOFIMIOVLVJEE3XHPEYBG.pdf,54,54,0,0,success
+doc_01000,S4UYIX5CGBQTIZTRSJ2I23YIBENVNZUQ.pdf,data\raw\kaggle_pdf\S4UYIX5CGBQTIZTRSJ2I23YIBENVNZUQ.pdf,1,0,1,1,success
+doc_01001,S5CJJFU7S3CL63MXIJRZOOFWZEMRLAA4.pdf,data\raw\kaggle_pdf\S5CJJFU7S3CL63MXIJRZOOFWZEMRLAA4.pdf,13,13,0,0,success
+doc_01002,S6CZ2JY6KSR26KFVFVISFAS2LMXFJOHO.pdf,data\raw\kaggle_pdf\S6CZ2JY6KSR26KFVFVISFAS2LMXFJOHO.pdf,7,7,0,0,success
+doc_01003,S6RR7MFG2QJUDGJSWOXXSMWFJOHAB3YU.pdf,data\raw\kaggle_pdf\S6RR7MFG2QJUDGJSWOXXSMWFJOHAB3YU.pdf,13,13,0,0,success
+doc_01004,S7IWO47XLGTHHIZJJ5GYT5I4BGLPVL32.pdf,data\raw\kaggle_pdf\S7IWO47XLGTHHIZJJ5GYT5I4BGLPVL32.pdf,12,10,2,2,success
+doc_01005,SA3EKMNRN4KHJYVMDDBOUIQTZIV3ZVJH.pdf,data\raw\kaggle_pdf\SA3EKMNRN4KHJYVMDDBOUIQTZIV3ZVJH.pdf,1,1,0,0,success
+doc_01006,SCI2MDK6JV4IDQ6DGX6ZQT5IHFDWBMR7.pdf,data\raw\kaggle_pdf\SCI2MDK6JV4IDQ6DGX6ZQT5IHFDWBMR7.pdf,2,2,0,0,success
+doc_01007,SCOEDSFG5RRJWEVGHSI3WOE3YPDSBVKA.pdf,data\raw\kaggle_pdf\SCOEDSFG5RRJWEVGHSI3WOE3YPDSBVKA.pdf,1,1,0,0,success
+doc_01008,SCXLRF5DK4NDSP4RXGJFZJMY5D6BK7MY.pdf,data\raw\kaggle_pdf\SCXLRF5DK4NDSP4RXGJFZJMY5D6BK7MY.pdf,4,0,4,4,success
+doc_01009,SE6VNMZC7SS4KLSVUOXM3QR4FK2WJHWZ.pdf,data\raw\kaggle_pdf\SE6VNMZC7SS4KLSVUOXM3QR4FK2WJHWZ.pdf,13,13,0,0,success
+doc_01010,SECTG7BZB6D4FVDAZNN2DTF2GGCAMTXE.pdf,data\raw\kaggle_pdf\SECTG7BZB6D4FVDAZNN2DTF2GGCAMTXE.pdf,1178,1140,38,10,success
+doc_01011,SESP5SOLQQMFWGNYXPD3UCI2KCA6PHQO.pdf,data\raw\kaggle_pdf\SESP5SOLQQMFWGNYXPD3UCI2KCA6PHQO.pdf,1,1,0,0,success
+doc_01012,SEVNFYZBX7VQEWEG5SQQTFZK24PCUDFU.pdf,data\raw\kaggle_pdf\SEVNFYZBX7VQEWEG5SQQTFZK24PCUDFU.pdf,4,4,0,0,success
+doc_01013,SFF6OU2N7INH3UGAKC4QLCTJU2VZK7WM.pdf,data\raw\kaggle_pdf\SFF6OU2N7INH3UGAKC4QLCTJU2VZK7WM.pdf,2,0,2,2,success
+doc_01014,SG2PPB6KXHJHMFS4L6KBW7Y6CPOZGWJT.pdf,data\raw\kaggle_pdf\SG2PPB6KXHJHMFS4L6KBW7Y6CPOZGWJT.pdf,1,1,0,0,success
+doc_01015,SGU5XQOYWHC2ADXS74XA3FLWFRGL5RDW.pdf,data\raw\kaggle_pdf\SGU5XQOYWHC2ADXS74XA3FLWFRGL5RDW.pdf,1,1,0,0,success
+doc_01016,SH2IQH724IFKG2K3GQ7RCDJ6Q7IJQLGE.pdf,data\raw\kaggle_pdf\SH2IQH724IFKG2K3GQ7RCDJ6Q7IJQLGE.pdf,2,2,0,0,success
+doc_01017,SK7ZQMJBDH34FYJ6XLDWK4RANQYAYGZD.pdf,data\raw\kaggle_pdf\SK7ZQMJBDH34FYJ6XLDWK4RANQYAYGZD.pdf,2,2,0,0,success
+doc_01018,SMLSJMKRNAOZZQNGBSDINWG77B4OO535.pdf,data\raw\kaggle_pdf\SMLSJMKRNAOZZQNGBSDINWG77B4OO535.pdf,2,0,2,2,success
+doc_01019,SPOQ5FUVLA2ZM5ITKZRVFHCP3MGMBPEX.pdf,data\raw\kaggle_pdf\SPOQ5FUVLA2ZM5ITKZRVFHCP3MGMBPEX.pdf,1,1,0,0,success
+doc_01020,SPQVK77DDSFQZLBQUZB3NTIRK72XIDVZ.pdf,data\raw\kaggle_pdf\SPQVK77DDSFQZLBQUZB3NTIRK72XIDVZ.pdf,5,5,0,0,success
+doc_01021,SPSFGPN6ASQKEKHHC33ELAD2CBFEPKXM.pdf,data\raw\kaggle_pdf\SPSFGPN6ASQKEKHHC33ELAD2CBFEPKXM.pdf,1,1,0,0,success
+doc_01022,SQLC3S4MW5EPXOWILIWFDKDOYRHJ5CK2.pdf,data\raw\kaggle_pdf\SQLC3S4MW5EPXOWILIWFDKDOYRHJ5CK2.pdf,1,1,0,0,success
+doc_01023,SQSXIT5KUD33XPR7ABPDCGW4XGQGAQYH.pdf,data\raw\kaggle_pdf\SQSXIT5KUD33XPR7ABPDCGW4XGQGAQYH.pdf,1,0,1,1,success
+doc_01024,SQZPZ43CVWYDLJLFW4PW6MK5DXPWKUKL.pdf,data\raw\kaggle_pdf\SQZPZ43CVWYDLJLFW4PW6MK5DXPWKUKL.pdf,1,1,0,0,success
+doc_01025,SRBFXQ2CMPHQJYYT64FYLRHKT6XZUUIB.pdf,data\raw\kaggle_pdf\SRBFXQ2CMPHQJYYT64FYLRHKT6XZUUIB.pdf,12,11,1,0,success
+doc_01026,SREYYNQ35CNPBSWN6KDO6RBUGR4W7BZE.pdf,data\raw\kaggle_pdf\SREYYNQ35CNPBSWN6KDO6RBUGR4W7BZE.pdf,1,1,0,0,success
+doc_01027,SSC5AFOSRRYRFIB7FNROD3UUH2WQL5DV.pdf,data\raw\kaggle_pdf\SSC5AFOSRRYRFIB7FNROD3UUH2WQL5DV.pdf,1,1,0,0,success
+doc_01028,ST6INBKMLTFTUDWNHVI433RTQ5KYCWHG.pdf,data\raw\kaggle_pdf\ST6INBKMLTFTUDWNHVI433RTQ5KYCWHG.pdf,2,2,0,0,success
+doc_01029,STEAY65OT7HNT3CKODVVW6W4362CSQDJ.pdf,data\raw\kaggle_pdf\STEAY65OT7HNT3CKODVVW6W4362CSQDJ.pdf,6,6,0,0,success
+doc_01030,STG36KDTBPEJTVEWCY734EISHQ5ZUVWF.pdf,data\raw\kaggle_pdf\STG36KDTBPEJTVEWCY734EISHQ5ZUVWF.pdf,1,1,0,0,success
+doc_01031,SUMLKDI5IC2PYJY6ANGU6KYA37YZLFAD.pdf,data\raw\kaggle_pdf\SUMLKDI5IC2PYJY6ANGU6KYA37YZLFAD.pdf,1,1,0,0,success
+doc_01032,SUR4MPI7WKZHIFC6ZGVOWBXD6JWE76BV.pdf,data\raw\kaggle_pdf\SUR4MPI7WKZHIFC6ZGVOWBXD6JWE76BV.pdf,1,0,1,1,success
+doc_01033,SW62D5RJMAPDJWHDMA5DLJWWLMSYZE26.pdf,data\raw\kaggle_pdf\SW62D5RJMAPDJWHDMA5DLJWWLMSYZE26.pdf,100,100,0,0,success
+doc_01034,SW6G4QILYS7QYXXVHMGTCXFHYU2QHV6Z.pdf,data\raw\kaggle_pdf\SW6G4QILYS7QYXXVHMGTCXFHYU2QHV6Z.pdf,1,1,0,0,success
+doc_01035,SWXZRJNZF6T5KP5U5WKDXL45TU34G632.pdf,data\raw\kaggle_pdf\SWXZRJNZF6T5KP5U5WKDXL45TU34G632.pdf,3,3,0,0,success
+doc_01036,SX6JO3YFA3C6TW6WORGN6LZKGLO3K2QJ.pdf,data\raw\kaggle_pdf\SX6JO3YFA3C6TW6WORGN6LZKGLO3K2QJ.pdf,2,2,0,0,success
+doc_01037,SXHJPFKQMVB3WUA6WOCOATLLVMBWKCCS.pdf,data\raw\kaggle_pdf\SXHJPFKQMVB3WUA6WOCOATLLVMBWKCCS.pdf,1,1,0,0,success
+doc_01038,SYBT26QCMSRHEOFZDZM4TZ5CCJ6T34MF.pdf,data\raw\kaggle_pdf\SYBT26QCMSRHEOFZDZM4TZ5CCJ6T34MF.pdf,539,538,1,1,success
+doc_01039,SZDKLCZIHUA5UQPEEMK4US67FDHO4SZD.pdf,data\raw\kaggle_pdf\SZDKLCZIHUA5UQPEEMK4US67FDHO4SZD.pdf,4,4,0,0,success
+doc_01040,SZYITDQYKPK6FN4ZP4NZB5QTKLZFT326.pdf,data\raw\kaggle_pdf\SZYITDQYKPK6FN4ZP4NZB5QTKLZFT326.pdf,148,52,96,96,success
+doc_01041,T5YDZLEHT6CHH5L4TRKYQOFOCKXWR5DM.pdf,data\raw\kaggle_pdf\T5YDZLEHT6CHH5L4TRKYQOFOCKXWR5DM.pdf,1,1,0,0,success
+doc_01042,T6UERWTWNYUVPT45YBOFTBSDVEH7SR2E.pdf,data\raw\kaggle_pdf\T6UERWTWNYUVPT45YBOFTBSDVEH7SR2E.pdf,10,10,0,0,success
+doc_01043,T7GYN5EOA7RVES22BVEIK24KNUZMNJDG.pdf,data\raw\kaggle_pdf\T7GYN5EOA7RVES22BVEIK24KNUZMNJDG.pdf,1,1,0,0,success
+doc_01044,T7NO5D5YLX4V5I7FBDQDAIXPBCLNAO7X.pdf,data\raw\kaggle_pdf\T7NO5D5YLX4V5I7FBDQDAIXPBCLNAO7X.pdf,1,1,0,0,success
+doc_01045,TBI3APZQ4LEU3AO3OLYNCZLYYOO4ZOLB.pdf,data\raw\kaggle_pdf\TBI3APZQ4LEU3AO3OLYNCZLYYOO4ZOLB.pdf,7,7,0,0,success
+doc_01046,TBSL3JP4OKORY5OXRTTF7MJE64PSQOO6.pdf,data\raw\kaggle_pdf\TBSL3JP4OKORY5OXRTTF7MJE64PSQOO6.pdf,2,2,0,0,success
+doc_01047,TD2LH5WWPKTV5W3X3BV3EUBJJ24GCTZ2.pdf,data\raw\kaggle_pdf\TD2LH5WWPKTV5W3X3BV3EUBJJ24GCTZ2.pdf,2,2,0,0,success
+doc_01048,TEEGK5AIZ426F27JXF2QAPKENCTIT2GG.pdf,data\raw\kaggle_pdf\TEEGK5AIZ426F27JXF2QAPKENCTIT2GG.pdf,1,0,1,1,success
+doc_01049,TH2P4VQM6BSFZ24BKZPPITXPWJVJWF7H.pdf,data\raw\kaggle_pdf\TH2P4VQM6BSFZ24BKZPPITXPWJVJWF7H.pdf,6,6,0,0,success
+doc_01050,TH7VW3EZP3WJRNKKPMJFNOEEJY5MXQ5A.pdf,data\raw\kaggle_pdf\TH7VW3EZP3WJRNKKPMJFNOEEJY5MXQ5A.pdf,7,7,0,0,success
+doc_01051,THLKZHEPHTVPUJNWQ3L62RDZOIKMHE6X.pdf,data\raw\kaggle_pdf\THLKZHEPHTVPUJNWQ3L62RDZOIKMHE6X.pdf,2,2,0,0,success
+doc_01052,TLEMGWPUDGVX354P7HMCSBPERXLZWHHD.pdf,data\raw\kaggle_pdf\TLEMGWPUDGVX354P7HMCSBPERXLZWHHD.pdf,87,0,87,87,success
+doc_01053,TLFJXZ5TEG6X5AAUHTMVM4JEZVYFEVTS.pdf,data\raw\kaggle_pdf\TLFJXZ5TEG6X5AAUHTMVM4JEZVYFEVTS.pdf,1,1,0,0,success
+doc_01054,TMLSWMKGDE2PLE3QSREAPVVCNK7QXPRC.pdf,data\raw\kaggle_pdf\TMLSWMKGDE2PLE3QSREAPVVCNK7QXPRC.pdf,12,12,0,0,success
+doc_01055,TMS7M2BLG2KPWG6X7X4M6HM6C6EOLKHA.pdf,data\raw\kaggle_pdf\TMS7M2BLG2KPWG6X7X4M6HM6C6EOLKHA.pdf,1,1,0,0,success
+doc_01056,TMSRHQWHA2ESM6JEZPWINH2VYPCKLSLS.pdf,data\raw\kaggle_pdf\TMSRHQWHA2ESM6JEZPWINH2VYPCKLSLS.pdf,116,116,0,0,success
+doc_01057,TNAEWETY6GEU5CQUNT74ABIGQKQEXLTU.pdf,data\raw\kaggle_pdf\TNAEWETY6GEU5CQUNT74ABIGQKQEXLTU.pdf,36,35,1,0,success
+doc_01058,TNPZFHBSZAOTQBRUYZ4HMVLBZQIDOKJU.pdf,data\raw\kaggle_pdf\TNPZFHBSZAOTQBRUYZ4HMVLBZQIDOKJU.pdf,9,9,0,0,success
+doc_01059,TPJL5GXHWWVZZWPULJLNK4V6MDEOHQDQ.pdf,data\raw\kaggle_pdf\TPJL5GXHWWVZZWPULJLNK4V6MDEOHQDQ.pdf,3,2,1,1,success
+doc_01060,TQB32TPQYRF2BVFF3S4ARJ26TSIHFHHL.pdf,data\raw\kaggle_pdf\TQB32TPQYRF2BVFF3S4ARJ26TSIHFHHL.pdf,1,1,0,0,success
+doc_01061,TQKGJWYKJNTQWNW2HK7HS4AB3RHIFAYW.pdf,data\raw\kaggle_pdf\TQKGJWYKJNTQWNW2HK7HS4AB3RHIFAYW.pdf,2,2,0,0,success
+doc_01062,TQSAKC5ZXKO27EPBJ7HLTN2K3CW5L4MR.pdf,data\raw\kaggle_pdf\TQSAKC5ZXKO27EPBJ7HLTN2K3CW5L4MR.pdf,1,1,0,0,success
+doc_01063,TS4MM5OXQXRQD6PMXRTRS3INCBAMAXCO.pdf,data\raw\kaggle_pdf\TS4MM5OXQXRQD6PMXRTRS3INCBAMAXCO.pdf,2,2,0,0,success
+doc_01064,TSMIELG5W75VQXCVNCAXWP6HYGEW4KOV.pdf,data\raw\kaggle_pdf\TSMIELG5W75VQXCVNCAXWP6HYGEW4KOV.pdf,6,6,0,0,success
+doc_01065,TTIW4RPBGSA7VUIZ6FAJFB3VIYGDENLI.pdf,data\raw\kaggle_pdf\TTIW4RPBGSA7VUIZ6FAJFB3VIYGDENLI.pdf,1,1,0,0,success
+doc_01066,TU5MAMSG2RMTDZQDKBULDLWSVH6GSYHX.pdf,data\raw\kaggle_pdf\TU5MAMSG2RMTDZQDKBULDLWSVH6GSYHX.pdf,50,48,2,1,success
+doc_01067,TV2FR5ZDVPUTCZABFDGX5523SXF5WWIR.pdf,data\raw\kaggle_pdf\TV2FR5ZDVPUTCZABFDGX5523SXF5WWIR.pdf,2,2,0,0,success
+doc_01068,TW5273JZ43VOQUCL7FRZ2N6STHYBBCQ4.pdf,data\raw\kaggle_pdf\TW5273JZ43VOQUCL7FRZ2N6STHYBBCQ4.pdf,2,2,0,0,success
+doc_01069,TX6WQ3B3MEI45HD4AGOAYJUCMI7LOSFG.pdf,data\raw\kaggle_pdf\TX6WQ3B3MEI45HD4AGOAYJUCMI7LOSFG.pdf,1,0,1,1,success
+doc_01070,TYLWGSX5OYKE27DHTQXUJTBMKMHMKY3B.pdf,data\raw\kaggle_pdf\TYLWGSX5OYKE27DHTQXUJTBMKMHMKY3B.pdf,1,1,0,0,success
+doc_01071,TYQ2Y24KMBHFOCYET2QDX4C4YBNM7CBY.pdf,data\raw\kaggle_pdf\TYQ2Y24KMBHFOCYET2QDX4C4YBNM7CBY.pdf,2,2,0,0,success
+doc_01072,TZSZSGZVI7P44AUKHWEPGY3OVXOFWVPW.pdf,data\raw\kaggle_pdf\TZSZSGZVI7P44AUKHWEPGY3OVXOFWVPW.pdf,1,0,1,1,success
+doc_01073,U23MNPFKWDU6QBI3PCJ5KCLGX3RO4LMN.pdf,data\raw\kaggle_pdf\U23MNPFKWDU6QBI3PCJ5KCLGX3RO4LMN.pdf,1,1,0,0,success
+doc_01074,U36BZP574S3IQ7SGZYCFBDLL7ZYAAG6I.pdf,data\raw\kaggle_pdf\U36BZP574S3IQ7SGZYCFBDLL7ZYAAG6I.pdf,2,2,0,0,success
+doc_01075,U477BYZ62U5WAU5AK5HEDGW4FH75NBCH.pdf,data\raw\kaggle_pdf\U477BYZ62U5WAU5AK5HEDGW4FH75NBCH.pdf,1,1,0,0,success
+doc_01076,U4KYMMKKOPMN5E4H4J3X3L3KQ5HUY7GF.pdf,data\raw\kaggle_pdf\U4KYMMKKOPMN5E4H4J3X3L3KQ5HUY7GF.pdf,2,2,0,0,success
+doc_01077,U55XYWRRRDDHAJPPHG6QWKZSAVKMQ5W5.pdf,data\raw\kaggle_pdf\U55XYWRRRDDHAJPPHG6QWKZSAVKMQ5W5.pdf,38,37,1,1,success
+doc_01078,U5CA6R4P5ZCQELXPJW3N2OHTGXSHH5RH.pdf,data\raw\kaggle_pdf\U5CA6R4P5ZCQELXPJW3N2OHTGXSHH5RH.pdf,1,1,0,0,success
+doc_01079,U7DUK2J5PKLFHRD5VN7MWJWRF23MHANT.pdf,data\raw\kaggle_pdf\U7DUK2J5PKLFHRD5VN7MWJWRF23MHANT.pdf,1,1,0,0,success
+doc_01080,U7OKI6X3E3WT4VGYZ3UEQHTPYGLID22Z.pdf,data\raw\kaggle_pdf\U7OKI6X3E3WT4VGYZ3UEQHTPYGLID22Z.pdf,2,1,1,0,success
+doc_01081,UA3OOIACW35JEO2KZX4QCFGCAQFNNRVC.pdf,data\raw\kaggle_pdf\UA3OOIACW35JEO2KZX4QCFGCAQFNNRVC.pdf,2,2,0,0,success
+doc_01082,UA55FQO7YFJPF45VIJCGELKJ6KPWTIFY.pdf,data\raw\kaggle_pdf\UA55FQO7YFJPF45VIJCGELKJ6KPWTIFY.pdf,2,2,0,0,success
+doc_01083,UBMWACPAJYUGJDM7NMNO2DQSSA75FPI4.pdf,data\raw\kaggle_pdf\UBMWACPAJYUGJDM7NMNO2DQSSA75FPI4.pdf,2,2,0,0,success
+doc_01084,UCIKEOE37G6VMOPEL5X4QHEPAIQP6RJ4.pdf,data\raw\kaggle_pdf\UCIKEOE37G6VMOPEL5X4QHEPAIQP6RJ4.pdf,2,2,0,0,success
+doc_01085,UE63E6G7FS4PMX2SXEHC22Y753FSQD4N.pdf,data\raw\kaggle_pdf\UE63E6G7FS4PMX2SXEHC22Y753FSQD4N.pdf,1,1,0,0,success
+doc_01086,UEMMUYNAALNXKRS5ILRPOG726T7H5LFC.pdf,data\raw\kaggle_pdf\UEMMUYNAALNXKRS5ILRPOG726T7H5LFC.pdf,1,1,0,0,success
+doc_01087,UETFHQQCDHQCJRPJIH64RZ23U65GG7ZE.pdf,data\raw\kaggle_pdf\UETFHQQCDHQCJRPJIH64RZ23U65GG7ZE.pdf,2,2,0,0,success
+doc_01088,UFP4NVRL3IKKQO3UOKLOHNXMN7YRYKML.pdf,data\raw\kaggle_pdf\UFP4NVRL3IKKQO3UOKLOHNXMN7YRYKML.pdf,1,1,0,0,success
+doc_01089,UFTWPHWPAMA7G4B6F5SMUFNA3HU6H5UW.pdf,data\raw\kaggle_pdf\UFTWPHWPAMA7G4B6F5SMUFNA3HU6H5UW.pdf,3,3,0,0,success
+doc_01090,UHB2FR7SVNEMVG7ILGEDDB27TN3D4VF6.pdf,data\raw\kaggle_pdf\UHB2FR7SVNEMVG7ILGEDDB27TN3D4VF6.pdf,8,0,8,8,success
+doc_01091,UHWGINMX7GWQH3ZETPVR2RSLTPQVEYX6.pdf,data\raw\kaggle_pdf\UHWGINMX7GWQH3ZETPVR2RSLTPQVEYX6.pdf,4,3,1,0,success
+doc_01092,UIAWYVO3ZI6VIPTWV6TB7CFFNGCQ23PA.pdf,data\raw\kaggle_pdf\UIAWYVO3ZI6VIPTWV6TB7CFFNGCQ23PA.pdf,5,5,0,0,success
+doc_01093,UJ4BLXG5WVOR74SEFBHIMJZYVQCVV3EZ.pdf,data\raw\kaggle_pdf\UJ4BLXG5WVOR74SEFBHIMJZYVQCVV3EZ.pdf,120,0,120,120,success
+doc_01094,UKNH3OQ2LY6SZKEQ7ITIOEHER4BHZEEN.pdf,data\raw\kaggle_pdf\UKNH3OQ2LY6SZKEQ7ITIOEHER4BHZEEN.pdf,56,55,1,1,success
+doc_01095,ULCLOMI3UKLP64SCVDH4CHNACUNJWMNC.pdf,data\raw\kaggle_pdf\ULCLOMI3UKLP64SCVDH4CHNACUNJWMNC.pdf,1,1,0,0,success
+doc_01096,UOACIWTADOMG5C2EIMOJ5VQGHCQCBIIR.pdf,data\raw\kaggle_pdf\UOACIWTADOMG5C2EIMOJ5VQGHCQCBIIR.pdf,12,12,0,0,success
+doc_01097,UTVR3ZCQQTFJN3CD6K4XMQMGZRCE4H7K.pdf,data\raw\kaggle_pdf\UTVR3ZCQQTFJN3CD6K4XMQMGZRCE4H7K.pdf,2,2,0,0,success
+doc_01098,UVYRVFB5BCPH4AQFJKWX2KAUBHBYJO7B.pdf,data\raw\kaggle_pdf\UVYRVFB5BCPH4AQFJKWX2KAUBHBYJO7B.pdf,1,1,0,0,success
+doc_01099,UYH346BTJFOKSLYYXQBAVLVHBEJPYXZ5.pdf,data\raw\kaggle_pdf\UYH346BTJFOKSLYYXQBAVLVHBEJPYXZ5.pdf,11,11,0,0,success
+doc_01100,UYVKK7PJFMNTBTBYH7TSLDJ4WM2G4MNN.pdf,data\raw\kaggle_pdf\UYVKK7PJFMNTBTBYH7TSLDJ4WM2G4MNN.pdf,11,0,11,11,success
+doc_01101,UZ24VCW32BGC524CZI3QWY7LKJJXZ2ZZ.pdf,data\raw\kaggle_pdf\UZ24VCW32BGC524CZI3QWY7LKJJXZ2ZZ.pdf,11,11,0,0,success
+doc_01102,V43BBGOXKQVDHJ3ICAOI3APQSTRGNTKB.pdf,data\raw\kaggle_pdf\V43BBGOXKQVDHJ3ICAOI3APQSTRGNTKB.pdf,1,0,1,1,success
+doc_01103,V5BPYCHUXYL6NY7HNB7SZHSWT7J7W6GC.pdf,data\raw\kaggle_pdf\V5BPYCHUXYL6NY7HNB7SZHSWT7J7W6GC.pdf,1,1,0,0,success
+doc_01104,V7S4LR4S6BF5I3AFUOXHPTZC4RMCD6ZE.pdf,data\raw\kaggle_pdf\V7S4LR4S6BF5I3AFUOXHPTZC4RMCD6ZE.pdf,13,13,0,0,success
+doc_01105,VAYJSMYKM3T4PN4CBWA5ELI5EEWVRPTY.pdf,data\raw\kaggle_pdf\VAYJSMYKM3T4PN4CBWA5ELI5EEWVRPTY.pdf,3,0,3,3,success
+doc_01106,VBIAQQSSCXZFKZTBZCYGIU4IJTA54DCY.pdf,data\raw\kaggle_pdf\VBIAQQSSCXZFKZTBZCYGIU4IJTA54DCY.pdf,92,92,0,0,success
+doc_01107,VC5EUPXAEEJEGF7MR4MD4FP7EYAQBMFK.pdf,data\raw\kaggle_pdf\VC5EUPXAEEJEGF7MR4MD4FP7EYAQBMFK.pdf,24,24,0,0,success
+doc_01108,VCJ7JJLLASUDBR4Z54NLOWUBCMWVPCNT.pdf,data\raw\kaggle_pdf\VCJ7JJLLASUDBR4Z54NLOWUBCMWVPCNT.pdf,4,4,0,0,success
+doc_01109,VDWP6Q64TMEWDW2TCZ4TGUJX44EK6E36.pdf,data\raw\kaggle_pdf\VDWP6Q64TMEWDW2TCZ4TGUJX44EK6E36.pdf,1,1,0,0,success
+doc_01110,VELUXRRXN2I54VRZZSVQZO7HVHQDIVUP.pdf,data\raw\kaggle_pdf\VELUXRRXN2I54VRZZSVQZO7HVHQDIVUP.pdf,2,2,0,0,success
+doc_01111,VEXYPG46TFZM6MYGMJCVZ7WLIGRTSBAO.pdf,data\raw\kaggle_pdf\VEXYPG46TFZM6MYGMJCVZ7WLIGRTSBAO.pdf,1,0,1,1,success
+doc_01112,VGYROI7GPRFUEH3N7Q6KKH6AVQRI2NYK.pdf,data\raw\kaggle_pdf\VGYROI7GPRFUEH3N7Q6KKH6AVQRI2NYK.pdf,1,1,0,0,success
+doc_01113,VHMQFZ7HL5HDQKATFMZYKLQ2KSBBBLNT.pdf,data\raw\kaggle_pdf\VHMQFZ7HL5HDQKATFMZYKLQ2KSBBBLNT.pdf,1,1,0,0,success
+doc_01114,VIM7QYT5BTQU2DZ5YSODAFBLJFMZUPUY.pdf,data\raw\kaggle_pdf\VIM7QYT5BTQU2DZ5YSODAFBLJFMZUPUY.pdf,1,1,0,0,success
+doc_01115,VJRDAXENL7KN3L7MPL2ARVWNE6YOL5PU.pdf,data\raw\kaggle_pdf\VJRDAXENL7KN3L7MPL2ARVWNE6YOL5PU.pdf,12,12,0,0,success
+doc_01116,VKTESXP6UNEVB4JDX5F3YTI7IEY6BEQ7.pdf,data\raw\kaggle_pdf\VKTESXP6UNEVB4JDX5F3YTI7IEY6BEQ7.pdf,1,1,0,0,success
+doc_01117,VKYCBKG23DZUNRHO3X6XJJ6UGS6PEAYD.pdf,data\raw\kaggle_pdf\VKYCBKG23DZUNRHO3X6XJJ6UGS6PEAYD.pdf,3,3,0,0,success
+doc_01118,VLF7KA6JL4JZHRZRBIXSQUKFDMTF5R6Y.pdf,data\raw\kaggle_pdf\VLF7KA6JL4JZHRZRBIXSQUKFDMTF5R6Y.pdf,2,2,0,0,success
+doc_01119,VM32CDIWSDC4S5YMYFZBF4MP7SXFSCPO.pdf,data\raw\kaggle_pdf\VM32CDIWSDC4S5YMYFZBF4MP7SXFSCPO.pdf,237,233,4,3,success
+doc_01120,VMAVPNCX4546X5JYE5USJNJDWXJKFQOL.pdf,data\raw\kaggle_pdf\VMAVPNCX4546X5JYE5USJNJDWXJKFQOL.pdf,1,1,0,0,success
+doc_01121,VMKHKD4R7NRNP3AVC4XGN5FRXVTANHNZ.pdf,data\raw\kaggle_pdf\VMKHKD4R7NRNP3AVC4XGN5FRXVTANHNZ.pdf,2,2,0,0,success
+doc_01122,VNZEGOMTXDKSPERNHPU3VMN43NSCVFBI.pdf,data\raw\kaggle_pdf\VNZEGOMTXDKSPERNHPU3VMN43NSCVFBI.pdf,1,1,0,0,success
+doc_01123,VO66JSS7SABXXEGDWBGAGNCD62PQ2MAB.pdf,data\raw\kaggle_pdf\VO66JSS7SABXXEGDWBGAGNCD62PQ2MAB.pdf,153,94,59,59,success
+doc_01124,VOFCKLPGMEN2Y5ZHMM7S6TQ3C6Y5FEWN.pdf,data\raw\kaggle_pdf\VOFCKLPGMEN2Y5ZHMM7S6TQ3C6Y5FEWN.pdf,11,11,0,0,success
+doc_01125,VQ7V6RDE524BDE4CSBLMPDVR44QSED2I.pdf,data\raw\kaggle_pdf\VQ7V6RDE524BDE4CSBLMPDVR44QSED2I.pdf,17,17,0,0,success
+doc_01126,VRBONJJ6YTL4IX4U4YB6X4JJYCJNLKT4.pdf,data\raw\kaggle_pdf\VRBONJJ6YTL4IX4U4YB6X4JJYCJNLKT4.pdf,2,0,2,2,success
+doc_01127,VSIY6OBUI6HB77D6N5CW3UACJPONUNBT.pdf,data\raw\kaggle_pdf\VSIY6OBUI6HB77D6N5CW3UACJPONUNBT.pdf,1,0,1,1,success
+doc_01128,VUMOVKDPOEUGGP54MMN5XZJ2S5QHSWPF.pdf,data\raw\kaggle_pdf\VUMOVKDPOEUGGP54MMN5XZJ2S5QHSWPF.pdf,2,2,0,0,success
+doc_01129,VW5XCU675OPZSENKRKDCYOIGFKI7IJ42.pdf,data\raw\kaggle_pdf\VW5XCU675OPZSENKRKDCYOIGFKI7IJ42.pdf,1,1,0,0,success
+doc_01130,VY63NSKASK2Y4IRQZDCRO3KL3N7QSD7K.pdf,data\raw\kaggle_pdf\VY63NSKASK2Y4IRQZDCRO3KL3N7QSD7K.pdf,18,0,18,18,success
+doc_01131,VYK5MZE2ESWMGNXTHQZ56OQ46BR3JJUG.pdf,data\raw\kaggle_pdf\VYK5MZE2ESWMGNXTHQZ56OQ46BR3JJUG.pdf,1,1,0,0,success
+doc_01132,W2ZFZBWTBTHWLCNU53NSCPAWPR6BGREE.pdf,data\raw\kaggle_pdf\W2ZFZBWTBTHWLCNU53NSCPAWPR6BGREE.pdf,1,1,0,0,success
+doc_01133,W3JTW4IMEEKZW2FBJJZM4EOTPQNAOUXN.pdf,data\raw\kaggle_pdf\W3JTW4IMEEKZW2FBJJZM4EOTPQNAOUXN.pdf,2,2,0,0,success
+doc_01134,W432ODS2OFAWYUFA5RQ3B7OWKDQWFXCD.pdf,data\raw\kaggle_pdf\W432ODS2OFAWYUFA5RQ3B7OWKDQWFXCD.pdf,0,0,0,0,success
+doc_01135,W5VHS6JXL2IZQKOADSVN6J2JWZPNWVC6.pdf,data\raw\kaggle_pdf\W5VHS6JXL2IZQKOADSVN6J2JWZPNWVC6.pdf,1,1,0,0,success
+doc_01136,W6DBVMTHBXFF4YFGTJVKRJAR2LFCJRI2.pdf,data\raw\kaggle_pdf\W6DBVMTHBXFF4YFGTJVKRJAR2LFCJRI2.pdf,2,2,0,0,success
+doc_01137,W72HAHPKTD73IK72BPHF6NQMI365DGPL.pdf,data\raw\kaggle_pdf\W72HAHPKTD73IK72BPHF6NQMI365DGPL.pdf,8,8,0,0,success
+doc_01138,W7KYNROWRCJS5Q4BRHWS65K5BQ7JHZKG.pdf,data\raw\kaggle_pdf\W7KYNROWRCJS5Q4BRHWS65K5BQ7JHZKG.pdf,3,3,0,0,success
+doc_01139,W7RVZWNXECQ4TT2MDDL7LOATVIQJFJTV.pdf,data\raw\kaggle_pdf\W7RVZWNXECQ4TT2MDDL7LOATVIQJFJTV.pdf,4,4,0,0,success
+doc_01140,WCILDJ3BDTTDKHJ3HGRQD2SF45E55AXN.pdf,data\raw\kaggle_pdf\WCILDJ3BDTTDKHJ3HGRQD2SF45E55AXN.pdf,0,0,0,0,success
+doc_01141,WDNSSVM2QPMMUUDT4YEHYDPAALFYP2O7.pdf,data\raw\kaggle_pdf\WDNSSVM2QPMMUUDT4YEHYDPAALFYP2O7.pdf,7,7,0,0,success
+doc_01142,WFCTUKBZ537FMIPUCKU643UQRD6XTOHO.pdf,data\raw\kaggle_pdf\WFCTUKBZ537FMIPUCKU643UQRD6XTOHO.pdf,4,4,0,0,success
+doc_01143,WFMYY4FTQ2IYW3TPG7G5H6OJVMS2B2YD.pdf,data\raw\kaggle_pdf\WFMYY4FTQ2IYW3TPG7G5H6OJVMS2B2YD.pdf,3,3,0,0,success
+doc_01144,WG4X6OKEVAXGV5SRWF2GVU7BEKZYVTK5.pdf,data\raw\kaggle_pdf\WG4X6OKEVAXGV5SRWF2GVU7BEKZYVTK5.pdf,72,72,0,0,success
+doc_01145,WI2VFTXLXSXQKDIARAOUUVVHAWB2UQT2.pdf,data\raw\kaggle_pdf\WI2VFTXLXSXQKDIARAOUUVVHAWB2UQT2.pdf,4,4,0,0,success
+doc_01146,WI6MQK44PH35QPVM66HY4CYIA7IW3XQO.pdf,data\raw\kaggle_pdf\WI6MQK44PH35QPVM66HY4CYIA7IW3XQO.pdf,107,107,0,0,success
+doc_01147,WIDI4ZVJQJ2UTYOZRQKSL55ZQJQDNHX7.pdf,data\raw\kaggle_pdf\WIDI4ZVJQJ2UTYOZRQKSL55ZQJQDNHX7.pdf,1,1,0,0,success
+doc_01148,WISRMPD3QYTNVKXVWDZF36QTIOUTKZGB.pdf,data\raw\kaggle_pdf\WISRMPD3QYTNVKXVWDZF36QTIOUTKZGB.pdf,25,25,0,0,success
+doc_01149,WIXGOEH55ET7IKPZ7WA63JSQT6HB4PJR.pdf,data\raw\kaggle_pdf\WIXGOEH55ET7IKPZ7WA63JSQT6HB4PJR.pdf,10,10,0,0,success
+doc_01150,WJFP7CI5XSOBSZZUQGR3FKMENNTPAKKC.pdf,data\raw\kaggle_pdf\WJFP7CI5XSOBSZZUQGR3FKMENNTPAKKC.pdf,8,8,0,0,success
+doc_01151,WKV7AU2LDGPX23BEIRXYFBX5XRDTVGV6.pdf,data\raw\kaggle_pdf\WKV7AU2LDGPX23BEIRXYFBX5XRDTVGV6.pdf,1,1,0,0,success
+doc_01152,WLBI5UV3QEOKUAGIT73FRZZFM6NRCROL.pdf,data\raw\kaggle_pdf\WLBI5UV3QEOKUAGIT73FRZZFM6NRCROL.pdf,1,1,0,0,success
+doc_01153,WLUAX2RQFFLXPSP5PKEYYVKFLPVPWFZ6.pdf,data\raw\kaggle_pdf\WLUAX2RQFFLXPSP5PKEYYVKFLPVPWFZ6.pdf,1,0,1,1,success
+doc_01154,WP773WVW3LFU7XGWDWWZBIK4SD5KDTTF.pdf,data\raw\kaggle_pdf\WP773WVW3LFU7XGWDWWZBIK4SD5KDTTF.pdf,1,1,0,0,success
+doc_01155,WPFFXHWCIVIRVWBJWEFDSSTKYRIZ625W.pdf,data\raw\kaggle_pdf\WPFFXHWCIVIRVWBJWEFDSSTKYRIZ625W.pdf,4,4,0,0,success
+doc_01156,WPMW6LHFZX2C5ZMPDSVYP7FF7GTOL6QO.pdf,data\raw\kaggle_pdf\WPMW6LHFZX2C5ZMPDSVYP7FF7GTOL6QO.pdf,1,1,0,0,success
+doc_01157,WPSL4I6DPEKQWLMHVD5TRXPBVMN3MUFW.pdf,data\raw\kaggle_pdf\WPSL4I6DPEKQWLMHVD5TRXPBVMN3MUFW.pdf,8,8,0,0,success
+doc_01158,WQJIWQYIILMRDH2S47HSUWZ55PQ2YDI4.pdf,data\raw\kaggle_pdf\WQJIWQYIILMRDH2S47HSUWZ55PQ2YDI4.pdf,2,2,0,0,success
+doc_01159,WSJDEJGLVPP7VL4KJA43GNTHS7CVD5TP.pdf,data\raw\kaggle_pdf\WSJDEJGLVPP7VL4KJA43GNTHS7CVD5TP.pdf,1,1,0,0,success
+doc_01160,WSP5DEW3S4BVQYFWKEFDC3HDLMRK3UT2.pdf,data\raw\kaggle_pdf\WSP5DEW3S4BVQYFWKEFDC3HDLMRK3UT2.pdf,1,1,0,0,success
+doc_01161,WT4PUCQSO7JLM6FV4HZDJ6DN4ZGWFL7U.pdf,data\raw\kaggle_pdf\WT4PUCQSO7JLM6FV4HZDJ6DN4ZGWFL7U.pdf,1,1,0,0,success
+doc_01162,WTLBOK7EAQPHVUW75UU2AI47NS3XJ7QH.pdf,data\raw\kaggle_pdf\WTLBOK7EAQPHVUW75UU2AI47NS3XJ7QH.pdf,74,74,0,0,success
+doc_01163,WXR2YY3TSXGUNVC2VECKTVIJO7PMECRS.pdf,data\raw\kaggle_pdf\WXR2YY3TSXGUNVC2VECKTVIJO7PMECRS.pdf,1,1,0,0,success
+doc_01164,WXURHXHVCOCL3XIN4PFUPT2OGYFIXYR5.pdf,data\raw\kaggle_pdf\WXURHXHVCOCL3XIN4PFUPT2OGYFIXYR5.pdf,10,0,10,10,success
+doc_01165,WYEYQIJLZUN467X4ATTAXA2FIUYL2C3T.pdf,data\raw\kaggle_pdf\WYEYQIJLZUN467X4ATTAXA2FIUYL2C3T.pdf,13,13,0,0,success
+doc_01166,WYIDAT7X2DXYMKGRFAXDEAA2EJF23GRQ.pdf,data\raw\kaggle_pdf\WYIDAT7X2DXYMKGRFAXDEAA2EJF23GRQ.pdf,3,3,0,0,success
+doc_01167,WYWTCAZW66OVYSAZRNXYZ3S5H5TUAC3U.pdf,data\raw\kaggle_pdf\WYWTCAZW66OVYSAZRNXYZ3S5H5TUAC3U.pdf,4,1,3,3,success
+doc_01168,WZRQHWEXEG24SJPSEOEVB6FMPU6DA4VU.pdf,data\raw\kaggle_pdf\WZRQHWEXEG24SJPSEOEVB6FMPU6DA4VU.pdf,6,6,0,0,success
+doc_01169,X2IMLLFKA2Z5YVXOFI7GIBJJBOWGR5TY.pdf,data\raw\kaggle_pdf\X2IMLLFKA2Z5YVXOFI7GIBJJBOWGR5TY.pdf,6,6,0,0,success
+doc_01170,X2T7N7IH7E45XFYXNJH5Q3AYJU4BEC57.pdf,data\raw\kaggle_pdf\X2T7N7IH7E45XFYXNJH5Q3AYJU4BEC57.pdf,7,7,0,0,success
+doc_01171,X2TE62KGA4WZHW5FVEWCH6NZ76MUPQZ7.pdf,data\raw\kaggle_pdf\X2TE62KGA4WZHW5FVEWCH6NZ76MUPQZ7.pdf,5,5,0,0,success
+doc_01172,X3TAMFMWC3XPXVVNEVQVEKRWH7NDDESN.pdf,data\raw\kaggle_pdf\X3TAMFMWC3XPXVVNEVQVEKRWH7NDDESN.pdf,28,26,2,2,success
+doc_01173,X523GQMQOO6J2IFJ534QO3V3HYITF7XF.pdf,data\raw\kaggle_pdf\X523GQMQOO6J2IFJ534QO3V3HYITF7XF.pdf,2,1,1,0,success
+doc_01174,X5EXOJQVNIMMV5DVLLVVPXHKUKLC6RMK.pdf,data\raw\kaggle_pdf\X5EXOJQVNIMMV5DVLLVVPXHKUKLC6RMK.pdf,9,9,0,0,success
+doc_01175,X5J2UFQ52GKUF4JQCQ4DPJ62QF2EJ2XG.pdf,data\raw\kaggle_pdf\X5J2UFQ52GKUF4JQCQ4DPJ62QF2EJ2XG.pdf,6,6,0,0,success
+doc_01176,X5LYOK62EFBFVPNGADYEJUVEZJTZDHMC.pdf,data\raw\kaggle_pdf\X5LYOK62EFBFVPNGADYEJUVEZJTZDHMC.pdf,2,2,0,0,success
+doc_01177,X6EBX5HTWOYINUVPIPKY7AEPNNA7UT7H.pdf,data\raw\kaggle_pdf\X6EBX5HTWOYINUVPIPKY7AEPNNA7UT7H.pdf,2,2,0,0,success
+doc_01178,XB3VOX3H7BDY3WWU64AV6W65H5KVM2RX.pdf,data\raw\kaggle_pdf\XB3VOX3H7BDY3WWU64AV6W65H5KVM2RX.pdf,6,6,0,0,success
+doc_01179,XE4PKDJKVYU47OEWXRLEWILHJHQQZURY.pdf,data\raw\kaggle_pdf\XE4PKDJKVYU47OEWXRLEWILHJHQQZURY.pdf,1,0,1,1,success
+doc_01180,XGGSDGFBFOJ2GAT5CWQVQOO6N3PDMSGP.pdf,data\raw\kaggle_pdf\XGGSDGFBFOJ2GAT5CWQVQOO6N3PDMSGP.pdf,1,1,0,0,success
+doc_01181,XIQ3WFVYEVSMKJN2WPNDW74W26YD3PPG.pdf,data\raw\kaggle_pdf\XIQ3WFVYEVSMKJN2WPNDW74W26YD3PPG.pdf,9,9,0,0,success
+doc_01182,XIUQD2OYDIFIKQY5T5AHYPEFOP4XZFS7.pdf,data\raw\kaggle_pdf\XIUQD2OYDIFIKQY5T5AHYPEFOP4XZFS7.pdf,6,6,0,0,success
+doc_01183,XKCHYHXJXXWHZHTFNEIMA4IJZSXJSLLZ.pdf,data\raw\kaggle_pdf\XKCHYHXJXXWHZHTFNEIMA4IJZSXJSLLZ.pdf,6,6,0,0,success
+doc_01184,XLXYJ2Y3MNRFYEKWJ4VFACQHPYGFASLZ.pdf,data\raw\kaggle_pdf\XLXYJ2Y3MNRFYEKWJ4VFACQHPYGFASLZ.pdf,1,1,0,0,success
+doc_01185,XMC64RTH7WDHVXUWWYA6NIIMFKMUGH2M.pdf,data\raw\kaggle_pdf\XMC64RTH7WDHVXUWWYA6NIIMFKMUGH2M.pdf,3,3,0,0,success
+doc_01186,XMW6SGXOJREQ4QRTL4QUIV76ZB4733MN.pdf,data\raw\kaggle_pdf\XMW6SGXOJREQ4QRTL4QUIV76ZB4733MN.pdf,14,14,0,0,success
+doc_01187,XRB6BJ4SUI4BCJFSCPSBSJZGJQGAWI2A.pdf,data\raw\kaggle_pdf\XRB6BJ4SUI4BCJFSCPSBSJZGJQGAWI2A.pdf,57,57,0,0,success
+doc_01188,XRYHJNEQBXETTP5HKCE5THSUVASCXEG4.pdf,data\raw\kaggle_pdf\XRYHJNEQBXETTP5HKCE5THSUVASCXEG4.pdf,3,3,0,0,success
+doc_01189,XTYOD5JGKSMJAATU6RT4WK3LPOYBGYJY.pdf,data\raw\kaggle_pdf\XTYOD5JGKSMJAATU6RT4WK3LPOYBGYJY.pdf,6,6,0,0,success
+doc_01190,XUJHVZSHUO6SZ4PK733K7FVNZYTIAI6U.pdf,data\raw\kaggle_pdf\XUJHVZSHUO6SZ4PK733K7FVNZYTIAI6U.pdf,2,2,0,0,success
+doc_01191,XVMOJ76242273OL2PZZBK5FDBSS4YEE4.pdf,data\raw\kaggle_pdf\XVMOJ76242273OL2PZZBK5FDBSS4YEE4.pdf,1,1,0,0,success
+doc_01192,XW2HPZBL2U4ZBDGNITQU4EKCOT7ZL362.pdf,data\raw\kaggle_pdf\XW2HPZBL2U4ZBDGNITQU4EKCOT7ZL362.pdf,5,5,0,0,success
+doc_01193,XWYFIMBSF3TJJ7V3MIWFQYMAU35O6FTW.pdf,data\raw\kaggle_pdf\XWYFIMBSF3TJJ7V3MIWFQYMAU35O6FTW.pdf,1,1,0,0,success
+doc_01194,XXMOCEITLS2REBQNE745YN3E6JAODHZO.pdf,data\raw\kaggle_pdf\XXMOCEITLS2REBQNE745YN3E6JAODHZO.pdf,1,1,0,0,success
+doc_01195,XXZGBTO7DJBJ476EV6TWS6YH62WUYQU2.pdf,data\raw\kaggle_pdf\XXZGBTO7DJBJ476EV6TWS6YH62WUYQU2.pdf,2,2,0,0,success
+doc_01196,XYKJN65G53ZKHHSTN4BM6WZEXSYDKAVJ.pdf,data\raw\kaggle_pdf\XYKJN65G53ZKHHSTN4BM6WZEXSYDKAVJ.pdf,4,3,1,1,success
+doc_01197,XYUJKKMUXDLLC6JTCXEWHK5ZMNSTPHF6.pdf,data\raw\kaggle_pdf\XYUJKKMUXDLLC6JTCXEWHK5ZMNSTPHF6.pdf,1,1,0,0,success
+doc_01198,XZZRO7J6EAUYML2MRAZ6Y3PH5ZHQPGIL.pdf,data\raw\kaggle_pdf\XZZRO7J6EAUYML2MRAZ6Y3PH5ZHQPGIL.pdf,3,3,0,0,success
+doc_01199,Y2OOMETPKX3ZMEMJJYX5MHOHTIO3JVSP.pdf,data\raw\kaggle_pdf\Y2OOMETPKX3ZMEMJJYX5MHOHTIO3JVSP.pdf,1,1,0,0,success
+doc_01200,Y34N44UQJPD6YLGSXDZREWUIXVBPNLZH.pdf,data\raw\kaggle_pdf\Y34N44UQJPD6YLGSXDZREWUIXVBPNLZH.pdf,56,56,0,0,success
+doc_01201,Y3S5ELWZ63OQNZDWBJ5D6HWRVVKUF7LV.pdf,data\raw\kaggle_pdf\Y3S5ELWZ63OQNZDWBJ5D6HWRVVKUF7LV.pdf,2,0,2,2,success
+doc_01202,Y4C4I2PAQFLQEVARQJGECB27WBTI3R3R.pdf,data\raw\kaggle_pdf\Y4C4I2PAQFLQEVARQJGECB27WBTI3R3R.pdf,2,2,0,0,success
+doc_01203,Y5P3TB77KSPOLIUMLGDQIIGE7XMVNENP.pdf,data\raw\kaggle_pdf\Y5P3TB77KSPOLIUMLGDQIIGE7XMVNENP.pdf,68,68,0,0,success
+doc_01204,Y6WT6JF3T35SNVNTQLQWQCSXHVV62FOQ.pdf,data\raw\kaggle_pdf\Y6WT6JF3T35SNVNTQLQWQCSXHVV62FOQ.pdf,3,3,0,0,success
+doc_01205,YAHGIFMMSIKCA46JFMWO52HZ7YSVKKIL.pdf,data\raw\kaggle_pdf\YAHGIFMMSIKCA46JFMWO52HZ7YSVKKIL.pdf,4,4,0,0,success
+doc_01206,YAR75QR36NY73EDTEVNGAJVVJ6TTYHE7.pdf,data\raw\kaggle_pdf\YAR75QR36NY73EDTEVNGAJVVJ6TTYHE7.pdf,1,1,0,0,success
+doc_01207,YAXK7IA4W3QHHZRCYOHF3TJUMR2V32KE.pdf,data\raw\kaggle_pdf\YAXK7IA4W3QHHZRCYOHF3TJUMR2V32KE.pdf,2,2,0,0,success
+doc_01208,YBADYKBNS5RN7M3CAMP75XV6Y2DQH2U6.pdf,data\raw\kaggle_pdf\YBADYKBNS5RN7M3CAMP75XV6Y2DQH2U6.pdf,20,20,0,0,success
+doc_01209,YBTLDNWUYL3SLS4NVMFEB3OFUWOZBLA7.pdf,data\raw\kaggle_pdf\YBTLDNWUYL3SLS4NVMFEB3OFUWOZBLA7.pdf,19,19,0,0,success
+doc_01210,YCENQ63SSTK57JODMEMYLIL2VE73QSQH.pdf,data\raw\kaggle_pdf\YCENQ63SSTK57JODMEMYLIL2VE73QSQH.pdf,22,22,0,0,success
+doc_01211,YCFQUUS35NVOW5GBRHUQLBG5Z6WV7CL4.pdf,data\raw\kaggle_pdf\YCFQUUS35NVOW5GBRHUQLBG5Z6WV7CL4.pdf,1,1,0,0,success
+doc_01212,YCYN7CHWTHPZYST4LVE2OHZC2Y4INSNZ.pdf,data\raw\kaggle_pdf\YCYN7CHWTHPZYST4LVE2OHZC2Y4INSNZ.pdf,2,2,0,0,success
+doc_01213,YE54VY55FNS7H3IOPRHQYVOD2RJJW3DT.pdf,data\raw\kaggle_pdf\YE54VY55FNS7H3IOPRHQYVOD2RJJW3DT.pdf,2,2,0,0,success
+doc_01214,YE5PQJ6NUYA6UOWHADZIVVMCINU4AYZF.pdf,data\raw\kaggle_pdf\YE5PQJ6NUYA6UOWHADZIVVMCINU4AYZF.pdf,1,1,0,0,success
+doc_01215,YEFBTIMFZUJ5QQSKCQ4LHUMSFR6KUQNO.pdf,data\raw\kaggle_pdf\YEFBTIMFZUJ5QQSKCQ4LHUMSFR6KUQNO.pdf,1,1,0,0,success
+doc_01216,YEMPNY7TF626LFEX6EAVGN22YCCW27OI.pdf,data\raw\kaggle_pdf\YEMPNY7TF626LFEX6EAVGN22YCCW27OI.pdf,1,1,0,0,success
+doc_01217,YFPURNDOL6TDJBBMD6FIMGPZ64OBYAQ6.pdf,data\raw\kaggle_pdf\YFPURNDOL6TDJBBMD6FIMGPZ64OBYAQ6.pdf,0,0,0,0,success
+doc_01218,YFSVOALMVRC2URFKF2QD22YBH4PVS3BG.pdf,data\raw\kaggle_pdf\YFSVOALMVRC2URFKF2QD22YBH4PVS3BG.pdf,1,1,0,0,success
+doc_01219,YI6VCV5U4XK43LKHIXM2ZFEE3CMZSUVY.pdf,data\raw\kaggle_pdf\YI6VCV5U4XK43LKHIXM2ZFEE3CMZSUVY.pdf,4,4,0,0,success
+doc_01220,YIP65EJXPWIYWFTBYZWYMPFEVV43FAV3.pdf,data\raw\kaggle_pdf\YIP65EJXPWIYWFTBYZWYMPFEVV43FAV3.pdf,1,1,0,0,success
+doc_01221,YJW37FHX43WFG327VZASKGXCUC3DH55F.pdf,data\raw\kaggle_pdf\YJW37FHX43WFG327VZASKGXCUC3DH55F.pdf,1,0,1,1,success
+doc_01222,YMIVA7BMYFO2CPSIOO7XA2XMMGNCOOEP.pdf,data\raw\kaggle_pdf\YMIVA7BMYFO2CPSIOO7XA2XMMGNCOOEP.pdf,1,1,0,0,success
+doc_01223,YNLCJNZRFQJRJIU3YQVQUE3QPGPXKT3V.pdf,data\raw\kaggle_pdf\YNLCJNZRFQJRJIU3YQVQUE3QPGPXKT3V.pdf,30,25,5,2,success
+doc_01224,YOL5PGRP6HEUSC6TWCCHO3L53UQ2JKBS.pdf,data\raw\kaggle_pdf\YOL5PGRP6HEUSC6TWCCHO3L53UQ2JKBS.pdf,52,49,3,3,success
+doc_01225,YPJGTPONABVA34PNQIGXTGYHOH4IIROZ.pdf,data\raw\kaggle_pdf\YPJGTPONABVA34PNQIGXTGYHOH4IIROZ.pdf,13,13,0,0,success
+doc_01226,YPNQXE4XMRDK6YTLK3B44PDTF4TYHBNY.pdf,data\raw\kaggle_pdf\YPNQXE4XMRDK6YTLK3B44PDTF4TYHBNY.pdf,6,6,0,0,success
+doc_01227,YQY6Q5J2VJISODMWOY4RTLVPDNNJABCT.pdf,data\raw\kaggle_pdf\YQY6Q5J2VJISODMWOY4RTLVPDNNJABCT.pdf,3,3,0,0,success
+doc_01228,YQZG4CHDFUMUUDUEO2IY3GSWB4YCIKJI.pdf,data\raw\kaggle_pdf\YQZG4CHDFUMUUDUEO2IY3GSWB4YCIKJI.pdf,5,5,0,0,success
+doc_01229,YR3GWIPLRONWKH7DSOR3LVKXS2ORMWMC.pdf,data\raw\kaggle_pdf\YR3GWIPLRONWKH7DSOR3LVKXS2ORMWMC.pdf,2,2,0,0,success
+doc_01230,YS6AIKVZKRRKLU2JGEBFS3PO665RXHWI.pdf,data\raw\kaggle_pdf\YS6AIKVZKRRKLU2JGEBFS3PO665RXHWI.pdf,4,4,0,0,success
+doc_01231,YSFDRVDRV6XMSNVXRD4KM266EUJZWMYZ.pdf,data\raw\kaggle_pdf\YSFDRVDRV6XMSNVXRD4KM266EUJZWMYZ.pdf,2,2,0,0,success
+doc_01232,YTZFSDRLFKSKIT5B6YTESDKRXLM2ZBWZ.pdf,data\raw\kaggle_pdf\YTZFSDRLFKSKIT5B6YTESDKRXLM2ZBWZ.pdf,2,2,0,0,success
+doc_01233,YV3RJXNXP6ZR6V2SSVVQJWYAHBZSZ3GQ.pdf,data\raw\kaggle_pdf\YV3RJXNXP6ZR6V2SSVVQJWYAHBZSZ3GQ.pdf,9,9,0,0,success
+doc_01234,YVM7OB53IEXWGJUUIKINFKKEDK23PC5K.pdf,data\raw\kaggle_pdf\YVM7OB53IEXWGJUUIKINFKKEDK23PC5K.pdf,2,2,0,0,success
+doc_01235,YVUWMOMVE6IHAXQQF2GCM3YB373ESZG2.pdf,data\raw\kaggle_pdf\YVUWMOMVE6IHAXQQF2GCM3YB373ESZG2.pdf,5,2,3,0,success
+doc_01236,YW5EG7WIE6SVR7TIUOYEPKFDDV6OENFK.pdf,data\raw\kaggle_pdf\YW5EG7WIE6SVR7TIUOYEPKFDDV6OENFK.pdf,1,1,0,0,success
+doc_01237,YWJI57UE6VBGPHTJYLGMHWGRIBWIF2BG.pdf,data\raw\kaggle_pdf\YWJI57UE6VBGPHTJYLGMHWGRIBWIF2BG.pdf,1,0,1,1,success
+doc_01238,Z2ABHWIEHLGHKMQDUVUCEL3EH7SEXCIT.pdf,data\raw\kaggle_pdf\Z2ABHWIEHLGHKMQDUVUCEL3EH7SEXCIT.pdf,1,1,0,0,success
+doc_01239,Z2PBT7PYLNZKSJS4W7IDRXYXK55Y62YZ.pdf,data\raw\kaggle_pdf\Z2PBT7PYLNZKSJS4W7IDRXYXK55Y62YZ.pdf,4,4,0,0,success
+doc_01240,Z3WZ7DRI3LWQUHWWRHOMKHBF3A5L4NTD.pdf,data\raw\kaggle_pdf\Z3WZ7DRI3LWQUHWWRHOMKHBF3A5L4NTD.pdf,2,1,1,0,success
+doc_01241,Z42OE7PSGVKK54B3J2LWZ4THMYJIJHGJ.pdf,data\raw\kaggle_pdf\Z42OE7PSGVKK54B3J2LWZ4THMYJIJHGJ.pdf,3,3,0,0,success
+doc_01242,Z4BERFZH7TEKHVOZBCOGG7TB2KKXGT6P.pdf,data\raw\kaggle_pdf\Z4BERFZH7TEKHVOZBCOGG7TB2KKXGT6P.pdf,10,0,10,10,success
+doc_01243,Z4MKPGHSBSWXQDAPTZGIXYMGFXIGJQOV.pdf,data\raw\kaggle_pdf\Z4MKPGHSBSWXQDAPTZGIXYMGFXIGJQOV.pdf,2,2,0,0,success
+doc_01244,Z6MFGCCD2MPGIYU6LAJOFH3VJWFDDW37.pdf,data\raw\kaggle_pdf\Z6MFGCCD2MPGIYU6LAJOFH3VJWFDDW37.pdf,4,0,4,4,success
+doc_01245,ZAIRYEDJ6SHNYMBVPJMCBULE2HL7HMRV.pdf,data\raw\kaggle_pdf\ZAIRYEDJ6SHNYMBVPJMCBULE2HL7HMRV.pdf,93,93,0,0,success
+doc_01246,ZBBJMP3UTNWVC7OUQZMQW3TDIOEAVTVS.pdf,data\raw\kaggle_pdf\ZBBJMP3UTNWVC7OUQZMQW3TDIOEAVTVS.pdf,1,1,0,0,success
+doc_01247,ZBOY7WHWU4JUMTIM2RO2TCO5VONTYYE4.pdf,data\raw\kaggle_pdf\ZBOY7WHWU4JUMTIM2RO2TCO5VONTYYE4.pdf,1,1,0,0,success
+doc_01248,ZC2ELDSYWFVOJZRXTLERXVM7UMXWCWZN.pdf,data\raw\kaggle_pdf\ZC2ELDSYWFVOJZRXTLERXVM7UMXWCWZN.pdf,1,0,1,1,success
+doc_01249,ZD2BVGDTNUWYDTD6I3Z5LX63B6W37HNW.pdf,data\raw\kaggle_pdf\ZD2BVGDTNUWYDTD6I3Z5LX63B6W37HNW.pdf,12,0,12,12,success
+doc_01250,ZDFWMKCHQYHS6FUNM6VG6IBZUGFGRP2Z.pdf,data\raw\kaggle_pdf\ZDFWMKCHQYHS6FUNM6VG6IBZUGFGRP2Z.pdf,1,1,0,0,success
+doc_01251,ZEUIAARRTYABYRX2TMCK5AHQO6AIOQXM.pdf,data\raw\kaggle_pdf\ZEUIAARRTYABYRX2TMCK5AHQO6AIOQXM.pdf,3,3,0,0,success
+doc_01252,ZEVGJOLU5PKURGKDQ3GMLEWFTBUGJXT6.pdf,data\raw\kaggle_pdf\ZEVGJOLU5PKURGKDQ3GMLEWFTBUGJXT6.pdf,2,2,0,0,success
+doc_01253,ZEZKWHVDSQXEMJQPI3I6NGC26E63NXNR.pdf,data\raw\kaggle_pdf\ZEZKWHVDSQXEMJQPI3I6NGC26E63NXNR.pdf,1,1,0,0,success
+doc_01254,ZF3VSSCDPGCPC7BIYVD474NMD3TEZZW2.pdf,data\raw\kaggle_pdf\ZF3VSSCDPGCPC7BIYVD474NMD3TEZZW2.pdf,3,3,0,0,success
+doc_01255,ZG4LEUW7PZHS3KKJS6YEPD3F6MV2G3HH.pdf,data\raw\kaggle_pdf\ZG4LEUW7PZHS3KKJS6YEPD3F6MV2G3HH.pdf,1,0,1,1,success
+doc_01256,ZJ5HVWDVHYK4BXVX65BYRTCCCJRRIV4L.pdf,data\raw\kaggle_pdf\ZJ5HVWDVHYK4BXVX65BYRTCCCJRRIV4L.pdf,2,2,0,0,success
+doc_01257,ZKGOIITRHIYI24D2FHP5NHRNQAWT6IQM.pdf,data\raw\kaggle_pdf\ZKGOIITRHIYI24D2FHP5NHRNQAWT6IQM.pdf,2,2,0,0,success
+doc_01258,ZKNFU42LM7BXETBTWEC42DOXCGU2MDLS.pdf,data\raw\kaggle_pdf\ZKNFU42LM7BXETBTWEC42DOXCGU2MDLS.pdf,1,1,0,0,success
+doc_01259,ZNYZJRGRBVNDHPENIJ5DZ7KK2QLJZXYQ.pdf,data\raw\kaggle_pdf\ZNYZJRGRBVNDHPENIJ5DZ7KK2QLJZXYQ.pdf,2,2,0,0,success
+doc_01260,ZOSGUBBCKERLX4O7ASNWV3DLHDYOVOZ2.pdf,data\raw\kaggle_pdf\ZOSGUBBCKERLX4O7ASNWV3DLHDYOVOZ2.pdf,7,4,3,3,success
+doc_01261,ZRLDRES3WQDNUZBVIGADP5JISMEUTD5C.pdf,data\raw\kaggle_pdf\ZRLDRES3WQDNUZBVIGADP5JISMEUTD5C.pdf,54,53,1,1,success
+doc_01262,ZRWJZJQPWO5B3TIBCWQKW47LFR6BM3HW.pdf,data\raw\kaggle_pdf\ZRWJZJQPWO5B3TIBCWQKW47LFR6BM3HW.pdf,3,0,3,3,success
+doc_01263,ZUWRZSXWC4YCHANQID44W33VTJ4XQU4I.pdf,data\raw\kaggle_pdf\ZUWRZSXWC4YCHANQID44W33VTJ4XQU4I.pdf,2,2,0,0,success
+doc_01264,ZWCWI7G7GYM3DHO2HOJBJRQNBG7GTV4C.pdf,data\raw\kaggle_pdf\ZWCWI7G7GYM3DHO2HOJBJRQNBG7GTV4C.pdf,1,1,0,0,success
+doc_01265,ZYUTCEHUM7TZDJS75XRY72MWSWNR2QPF.pdf,data\raw\kaggle_pdf\ZYUTCEHUM7TZDJS75XRY72MWSWNR2QPF.pdf,22,19,3,3,success
+doc_01266,ZZLARWOCNXAHCS25AGWDA2UPFRV3G6TU.pdf,data\raw\kaggle_pdf\ZZLARWOCNXAHCS25AGWDA2UPFRV3G6TU.pdf,2,2,0,0,success
+doc_01267,ZZQLCOG5KWQV2VU4YXWFHHZJV6FDFGK5.pdf,data\raw\kaggle_pdf\ZZQLCOG5KWQV2VU4YXWFHHZJV6FDFGK5.pdf,1,1,0,0,success

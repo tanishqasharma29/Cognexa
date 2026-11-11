@@ -1,0 +1,172 @@
+[
+  {
+    "query_id": "qA1",
+    "query": "Find information about finite automata state graphs widely compiler design lexical",
+    "expected_chunks_a": [
+      "doc_00001_p1_c1"
+    ],
+    "expected_chunks_b": [
+      "doc_00001_p1_c1"
+    ]
+  },
+  {
+    "query_id": "qA3",
+    "query": "Find information about function agent needs consider available action current state",
+    "expected_chunks_a": [
+      "doc_00145_p114_c1"
+    ],
+    "expected_chunks_b": [
+      "doc_00145_p114_c1"
+    ]
+  },
+  {
+    "query_id": "qA4",
+    "query": "Find information about congressional record house h4360 june verdate sfmt record12",
+    "expected_chunks_a": [
+      "doc_00204_p202_c1"
+    ],
+    "expected_chunks_b": [
+      "doc_00204_p202_c1"
+    ]
+  },
+  {
+    "query_id": "qA5",
+    "query": "Find information about emerging infectious diseases december another dimension breitschwerdt kordick",
+    "expected_chunks_a": [
+      "doc_00291_p200_c1"
+    ],
+    "expected_chunks_b": [
+      "doc_00291_p200_c1"
+    ]
+  },
+  {
+    "query_id": "qA6",
+    "query": "Find information about ocha centre humanitarian data octobre responsabilit donn dans",
+    "expected_chunks_a": [
+      "doc_00593_p41_c1"
+    ],
+    "expected_chunks_b": [
+      "doc_00593_p41_c1"
+    ]
+  },
+  {
+    "query_id": "qA7",
+    "query": "Find information about bachus floor statement house economic stimulus package chairman",
+    "expected_chunks_a": [
+      "doc_00807_p13_c1"
+    ],
+    "expected_chunks_b": [
+      "doc_00807_p13_c1"
+    ]
+  },
+  {
+    "query_id": "qA8",
+    "query": "Find information about yyyy appendix wgs84geolocusintersect test results geodesic input start",
+    "expected_chunks_a": [
+      "doc_00991_p320_c1"
+    ],
+    "expected_chunks_b": [
+      "doc_00991_p320_c1"
+    ]
+  },
+  {
+    "query_id": "qA9",
+    "query": "Find information about kathryn french court think right herskovits covered service",
+    "expected_chunks_a": [
+      "doc_01056_p27_c1"
+    ],
+    "expected_chunks_b": [
+      "doc_01056_p27_c1"
+    ]
+  },
+  {
+    "query_id": "qA10",
+    "query": "Find information about congressman olver denounces foolhardy surface transportation proposal washington",
+    "expected_chunks_a": [
+      "doc_01267_p1_c1"
+    ],
+    "expected_chunks_b": [
+      "doc_01267_p1_c1"
+    ]
+  },
+  {
+    "query_id": "qOCR1",
+    "query": "Find information about automatic lexer generation compiler front-end back-end exer tokens",
+    "expected_chunks_a": [],
+    "expected_chunks_b": [
+      "doc_00001_p22_c1"
+    ]
+  },
+  {
+    "query_id": "qOCR2",
+    "query": "Find information about jntu- computer oriented statistical methods iintu-hyderara problems suppose",
+    "expected_chunks_a": [],
+    "expected_chunks_b": [
+      "doc_00086_p24_c1"
+    ]
+  },
+  {
+    "query_id": "qOCR3",
+    "query": "Find information about kbann domain theory training examples propositional nonrecursive horn",
+    "expected_chunks_a": [],
+    "expected_chunks_b": [
+      "doc_00146_p48_c1"
+    ]
+  },
+  {
+    "query_id": "qOCR4",
+    "query": "Find information about probability substrate presence clay cobble pisand gravel pciay",
+    "expected_chunks_a": [],
+    "expected_chunks_b": [
+      "doc_00219_p56_c1"
+    ]
+  },
+  {
+    "query_id": "qOCR5",
+    "query": "Find information about observatoire jananarive madagascar nouvelle volume bulletin mensuel observations",
+    "expected_chunks_a": [],
+    "expected_chunks_b": [
+      "doc_00337_p81_c1"
+    ]
+  },
+  {
+    "query_id": "qOCR6",
+    "query": "Find information about exhibit response smda summary safety effectiveness data kenneth",
+    "expected_chunks_a": [],
+    "expected_chunks_b": [
+      "doc_00588_p1_c1"
+    ]
+  },
+  {
+    "query_id": "qOCR7",
+    "query": "Find information about school lesson-5 editor note last series articles enncersing",
+    "expected_chunks_a": [],
+    "expected_chunks_b": [
+      "doc_00796_p83_c1"
+    ]
+  },
+  {
+    "query_id": "qOCR8",
+    "query": "Find information about testimony elaine chao secretary labor committee education workforce",
+    "expected_chunks_a": [],
+    "expected_chunks_b": [
+      "doc_01040_p59_c1"
+    ]
+  },
+  {
+    "query_id": "qOCR9",
+    "query": "Find information about part inventory individual collections ground water information organized",
+    "expected_chunks_a": [],
+    "expected_chunks_b": [
+      "doc_01093_p50_c1"
+    ]
+  },
+  {
+    "query_id": "qOCR10",
+    "query": "Find information about public service commission south carolina docket application chem-nuclear",
+    "expected_chunks_a": [],
+    "expected_chunks_b": [
+      "doc_01262_p3_c1"
+    ]
+  }
+]

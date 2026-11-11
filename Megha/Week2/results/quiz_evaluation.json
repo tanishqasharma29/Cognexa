@@ -1,0 +1,51 @@
+{
+  "summary": {
+    "total_questions": 2,
+    "complete_fields": 2,
+    "evidence_present": 2,
+    "citation_present": 2,
+    "answerable": 2,
+    "valid_difficulty": 2,
+    "duplicates": 0
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question": "What are the two sub-layers that compose each identical layer in the Transformer encoder?",
+      "answer": "The first sub-layer is a multi-head self-attention mechanism, and the second is a simple, position-wise fully connected feed-forward network.",
+      "source_file": "d2.pdf",
+      "page": 3,
+      "chunk_id": "d2_p3_c1",
+      "difficulty": "easy",
+      "checks": {
+        "complete_fields": true,
+        "evidence_present": true,
+        "citation_present": true,
+        "answer_present": true,
+        "question_present": true,
+        "answerable": true,
+        "valid_difficulty": true,
+        "duplicate_question": false
+      }
+    },
+    {
+      "question_number": 2,
+      "question": "In the Transformer architecture, what third sub-layer does the decoder insert in addition to the two sub-layers found in each encoder layer?",
+      "answer": "The decoder inserts a third sub-layer that performs multi-head attention over the output of the encoder stack.",
+      "source_file": "d2.pdf",
+      "page": 3,
+      "chunk_id": "d2_p3_c1",
+      "difficulty": "medium",
+      "checks": {
+        "complete_fields": true,
+        "evidence_present": true,
+        "citation_present": true,
+        "answer_present": true,
+        "question_present": true,
+        "answerable": true,
+        "valid_difficulty": true,
+        "duplicate_question": false
+      }
+    }
+  ]
+}
