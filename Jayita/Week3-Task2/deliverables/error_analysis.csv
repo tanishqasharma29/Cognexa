@@ -1,0 +1,140 @@
+document_id,document_name,page_id,page_number,potential_error_sources,handwriting_suspected,low_resolution,skew_detected,equation_detected,table_detected,diagram_suspected,ocr_confidence
+DOC_0001,biodiversity and conservation.pdf,DOC_0001_P0001,1,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.92453899
+DOC_0001,biodiversity and conservation.pdf,DOC_0001_P0002,2,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.904471522
+DOC_0001,biodiversity and conservation.pdf,DOC_0001_P0003,3,Skew; Equations; Tables,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,0.912972983
+DOC_0001,biodiversity and conservation.pdf,DOC_0001_P0004,4,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.95227607
+DOC_0001,biodiversity and conservation.pdf,DOC_0001_P0005,5,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.975166213
+DOC_0001,biodiversity and conservation.pdf,DOC_0001_P0006,6,Skew; Equations; Tables,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,0.945871856
+DOC_0001,biodiversity and conservation.pdf,DOC_0001_P0007,7,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.971822197
+DOC_0001,biodiversity and conservation.pdf,DOC_0001_P0008,8,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.920088277
+DOC_0001,biodiversity and conservation.pdf,DOC_0001_P0009,9,Skew; Equations; Tables,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,0.95945578
+DOC_0001,biodiversity and conservation.pdf,DOC_0001_P0010,10,Skew; Equations; Tables,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,0.920348106
+DOC_0001,biodiversity and conservation.pdf,DOC_0001_P0011,11,Skew; Equations; Tables,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,0.914470421
+DOC_0001,biodiversity and conservation.pdf,DOC_0001_P0012,12,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.940165932
+DOC_0001,biodiversity and conservation.pdf,DOC_0001_P0013,13,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.873898256
+DOC_0002,human eye and colorful world.pdf,DOC_0002_P0001,1,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.908007365
+DOC_0002,human eye and colorful world.pdf,DOC_0002_P0002,2,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.820405337
+DOC_0002,human eye and colorful world.pdf,DOC_0002_P0003,3,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.970399185
+DOC_0002,human eye and colorful world.pdf,DOC_0002_P0004,4,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.955160665
+DOC_0002,human eye and colorful world.pdf,DOC_0002_P0005,5,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.91641849
+DOC_0002,human eye and colorful world.pdf,DOC_0002_P0006,6,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.917267735
+DOC_0002,human eye and colorful world.pdf,DOC_0002_P0007,7,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.92227154
+DOC_0002,human eye and colorful world.pdf,DOC_0002_P0008,8,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.865326912
+DOC_0002,human eye and colorful world.pdf,DOC_0002_P0009,9,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.972103967
+DOC_0002,human eye and colorful world.pdf,DOC_0002_P0010,10,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.839845268
+DOC_0002,human eye and colorful world.pdf,DOC_0002_P0011,11,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.918652176
+DOC_0002,human eye and colorful world.pdf,DOC_0002_P0012,12,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.87571404
+DOC_0002,human eye and colorful world.pdf,DOC_0002_P0013,13,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.969223153
+DOC_0002,human eye and colorful world.pdf,DOC_0002_P0014,14,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.929607373
+DOC_0002,human eye and colorful world.pdf,DOC_0002_P0015,15,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.958139104
+DOC_0003,microbes in human welfare.pdf,DOC_0003_P0001,1,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.942335361
+DOC_0003,microbes in human welfare.pdf,DOC_0003_P0002,2,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.957484435
+DOC_0003,microbes in human welfare.pdf,DOC_0003_P0003,3,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.946206574
+DOC_0003,microbes in human welfare.pdf,DOC_0003_P0004,4,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.957356992
+DOC_0003,microbes in human welfare.pdf,DOC_0003_P0005,5,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.929635491
+DOC_0003,microbes in human welfare.pdf,DOC_0003_P0006,6,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.96448573
+DOC_0003,microbes in human welfare.pdf,DOC_0003_P0007,7,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.92423341
+DOC_0003,microbes in human welfare.pdf,DOC_0003_P0008,8,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.943275583
+DOC_0003,microbes in human welfare.pdf,DOC_0003_P0009,9,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.948625801
+DOC_0003,microbes in human welfare.pdf,DOC_0003_P0010,10,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.962579078
+DOC_0003,microbes in human welfare.pdf,DOC_0003_P0011,11,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.92031682
+DOC_0004,minerals and energy resources.pdf,DOC_0004_P0001,1,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.932995995
+DOC_0004,minerals and energy resources.pdf,DOC_0004_P0002,2,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.778391337
+DOC_0004,minerals and energy resources.pdf,DOC_0004_P0003,3,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.836317977
+DOC_0004,minerals and energy resources.pdf,DOC_0004_P0004,4,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.893800079
+DOC_0004,minerals and energy resources.pdf,DOC_0004_P0005,5,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.894435009
+DOC_0004,minerals and energy resources.pdf,DOC_0004_P0006,6,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.886679243
+DOC_0004,minerals and energy resources.pdf,DOC_0004_P0007,7,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.943465995
+DOC_0004,minerals and energy resources.pdf,DOC_0004_P0008,8,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.891408295
+DOC_0004,minerals and energy resources.pdf,DOC_0004_P0009,9,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.882656587
+DOC_0004,minerals and energy resources.pdf,DOC_0004_P0010,10,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.87961714
+DOC_0004,minerals and energy resources.pdf,DOC_0004_P0011,11,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.886389911
+DOC_0004,minerals and energy resources.pdf,DOC_0004_P0012,12,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.91868487
+DOC_0004,minerals and energy resources.pdf,DOC_0004_P0013,13,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.972367691
+DOC_0004,minerals and energy resources.pdf,DOC_0004_P0014,14,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.925423631
+DOC_0004,minerals and energy resources.pdf,DOC_0004_P0015,15,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.88989955
+DOC_0004,minerals and energy resources.pdf,DOC_0004_P0016,16,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.979393592
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0001,1,Equations; Diagrams,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,0.881680621
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0002,2,Equations; Tables; Diagrams,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,0.879889167
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0003,3,Equations; Diagrams,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,0.873153316
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0004,4,Equations,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,0.75712122
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0005,5,Equations,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,0.872482995
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0006,6,Equations,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,0.829329668
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0007,7,Equations; Diagrams,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,0.920941942
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0008,8,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.855934498
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0009,9,Equations; Diagrams,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,0.795624441
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0010,10,Equations; Diagrams,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,0.87957568
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0011,11,Equations; Diagrams,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,0.869304577
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0012,12,Equations; Diagrams,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,0.887430549
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0013,13,Equations; Diagrams,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,0.965444428
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0014,14,Equations; Diagrams,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,0.923353407
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0015,15,Equations,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,0.856117799
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0016,16,Equations; Diagrams,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,0.871579812
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0017,17,Equations,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,0.883852244
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0018,18,Equations; Tables; Diagrams,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,0.844561329
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0019,19,Equations,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,0.922660584
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0020,20,Equations; Diagrams,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,0.835956639
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0021,21,Equations,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,0.851618358
+DOC_0005,ml notes -lalit preparation.pdf,DOC_0005_P0022,22,Equations,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,0.744404927
+DOC_0006,money and credit.pdf,DOC_0006_P0001,1,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.916904637
+DOC_0006,money and credit.pdf,DOC_0006_P0002,2,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.884640826
+DOC_0006,money and credit.pdf,DOC_0006_P0003,3,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.876952223
+DOC_0006,money and credit.pdf,DOC_0006_P0004,4,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.903258045
+DOC_0006,money and credit.pdf,DOC_0006_P0005,5,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.810959123
+DOC_0006,money and credit.pdf,DOC_0006_P0006,6,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.88937427
+DOC_0006,money and credit.pdf,DOC_0006_P0007,7,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.85522671
+DOC_0006,money and credit.pdf,DOC_0006_P0008,8,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.922954657
+DOC_0006,money and credit.pdf,DOC_0006_P0009,9,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.887109641
+DOC_0006,money and credit.pdf,DOC_0006_P0010,10,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.917276097
+DOC_0006,money and credit.pdf,DOC_0006_P0011,11,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.906539216
+DOC_0006,money and credit.pdf,DOC_0006_P0012,12,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.804204452
+DOC_0006,money and credit.pdf,DOC_0006_P0013,13,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.873051643
+DOC_0006,money and credit.pdf,DOC_0006_P0014,14,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.953033017
+DOC_0006,money and credit.pdf,DOC_0006_P0015,15,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.84247037
+DOC_0006,money and credit.pdf,DOC_0006_P0016,16,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.961940194
+DOC_0007,organisms and populations.pdf,DOC_0007_P0001,1,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.952329195
+DOC_0007,organisms and populations.pdf,DOC_0007_P0002,2,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.925306599
+DOC_0007,organisms and populations.pdf,DOC_0007_P0003,3,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.966869449
+DOC_0007,organisms and populations.pdf,DOC_0007_P0004,4,Skew; Equations; Tables,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,0.897828409
+DOC_0007,organisms and populations.pdf,DOC_0007_P0005,5,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.94327532
+DOC_0007,organisms and populations.pdf,DOC_0007_P0006,6,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.8912583
+DOC_0007,organisms and populations.pdf,DOC_0007_P0007,7,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.956305002
+DOC_0007,organisms and populations.pdf,DOC_0007_P0008,8,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.972152986
+DOC_0007,organisms and populations.pdf,DOC_0007_P0009,9,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.940520241
+DOC_0007,organisms and populations.pdf,DOC_0007_P0010,10,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.97237531
+DOC_0007,organisms and populations.pdf,DOC_0007_P0011,11,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.981811635
+DOC_0007,organisms and populations.pdf,DOC_0007_P0012,12,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.967783628
+DOC_0007,organisms and populations.pdf,DOC_0007_P0013,13,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.943727977
+DOC_0007,organisms and populations.pdf,DOC_0007_P0014,14,Skew; Equations; Tables,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,0.984672932
+DOC_0008,political parties.pdf,DOC_0008_P0001,1,Tables,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,0.913380067
+DOC_0008,political parties.pdf,DOC_0008_P0002,2,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.941053488
+DOC_0008,political parties.pdf,DOC_0008_P0003,3,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.965057468
+DOC_0008,political parties.pdf,DOC_0008_P0004,4,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.90153027
+DOC_0008,political parties.pdf,DOC_0008_P0005,5,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.923343451
+DOC_0008,political parties.pdf,DOC_0008_P0006,6,Tables,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,0.922882897
+DOC_0008,political parties.pdf,DOC_0008_P0007,7,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.92158494
+DOC_0008,political parties.pdf,DOC_0008_P0008,8,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.907438931
+DOC_0008,political parties.pdf,DOC_0008_P0009,9,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.940903664
+DOC_0008,political parties.pdf,DOC_0008_P0010,10,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.944821669
+DOC_0008,political parties.pdf,DOC_0008_P0011,11,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.937948472
+DOC_0008,political parties.pdf,DOC_0008_P0012,12,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.952988107
+DOC_0008,political parties.pdf,DOC_0008_P0013,13,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.980585674
+DOC_0008,political parties.pdf,DOC_0008_P0014,14,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.931293306
+DOC_0008,political parties.pdf,DOC_0008_P0015,15,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.657338808
+DOC_0009,rise of nationalism in europe.pdf,DOC_0009_P0001,1,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.914524206
+DOC_0009,rise of nationalism in europe.pdf,DOC_0009_P0002,2,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.88035001
+DOC_0009,rise of nationalism in europe.pdf,DOC_0009_P0003,3,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.901616034
+DOC_0009,rise of nationalism in europe.pdf,DOC_0009_P0004,4,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.960288207
+DOC_0009,rise of nationalism in europe.pdf,DOC_0009_P0005,5,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.940134977
+DOC_0009,rise of nationalism in europe.pdf,DOC_0009_P0006,6,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.919476853
+DOC_0009,rise of nationalism in europe.pdf,DOC_0009_P0007,7,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.920988345
+DOC_0009,rise of nationalism in europe.pdf,DOC_0009_P0008,8,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.930127698
+DOC_0009,rise of nationalism in europe.pdf,DOC_0009_P0009,9,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.954551072
+DOC_0009,rise of nationalism in europe.pdf,DOC_0009_P0010,10,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.983640467
+DOC_0009,rise of nationalism in europe.pdf,DOC_0009_P0011,11,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.87577566
+DOC_0009,rise of nationalism in europe.pdf,DOC_0009_P0012,12,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.95454396
+DOC_0009,rise of nationalism in europe.pdf,DOC_0009_P0013,13,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.911140327
+DOC_0009,rise of nationalism in europe.pdf,DOC_0009_P0014,14,Skew; Equations; Tables,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,0.920226722
+DOC_0009,rise of nationalism in europe.pdf,DOC_0009_P0015,15,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.933316893
+DOC_0009,rise of nationalism in europe.pdf,DOC_0009_P0016,16,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.966838041
+DOC_0009,rise of nationalism in europe.pdf,DOC_0009_P0017,17,Equations; Tables,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,0.9392579
