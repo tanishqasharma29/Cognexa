@@ -9,9 +9,9 @@
 
 # Week 2
 - [x] **Task 1** Extraction and Chunking — Megha Saini (2024 IMT -048)
-- [x] **Task 2** Vector Embeddings, lexical and dense retrieval, RRF — Jayita Yadav (2024 IMT -031)
+- [x] **Task 2** Vector Embeddings, lexical and dense retrieval, RRF — Tanishqa Sharma (2024 IMG -048)
 - [x] **Task 3** Context Selection and Reranking — Aastha (2024 IMG-001)
-- [x] **Task 4** Quiz Generation and Source Citations — Tanishqa Sharma (2024 IMG -048)
+- [x] **Task 4** Quiz Generation and Source Citations —  Jayita Yadav (2024 IMT -031)
 - [x] **Task 5** Evaluation, Testing and Final Result (Hit@5, MRR, top-k) — Sanchi Gokhale (2024 IMT -027)
       
 
