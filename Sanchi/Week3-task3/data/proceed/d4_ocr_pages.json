@@ -1,0 +1,29 @@
+[
+  {
+    "document_id": "d4",
+    "source_file": "d4.pdf",
+    "page": 1,
+    "text": "2-2\nhow the complexes are joined by reaction arrows. Recall that the complexes\nof a network are just the entities that appear at the heads and tails of\nthe reaction arrows — A, 2B, A+tC, D and B+tE in network (1.1). Recall\nalso that, in the sense of the discussion at the end of Lecture 1, we regard\nthe complexes to be vectors in m4 - (In particular, they lie in pe.)\nThus, it makes sense to add two complexes, to subtract one complex from\nanother, to multiply a complex by a number, and to take the scalar product\nof a complex with any other vector of mn? - Moreover, it makes sense to\nspeak of the support of a complex. For example, supp(At+B) = {A,B} ,\nsupp(2B) = {B}, supp(A) = {A}, and so on. Loosely speaking, the support\nof a complex is just the set of species that \"appear in\" that complex.\nWe shall always use symbols like y, y' or y\" to designate complexes in a\nreaction network.\nDefinition 2.1.\" A chemical reaction network consists of three sets:\n(i) a finite set A » elements of which are called the species of\nthe network. yi\n(ii) a finite set v4 of distinct vectors in IP“ such that\nU suppy = f .\nyEG\nElements of iv are called the complexes of the network.\n(iii) a relation RO G x& such that\n(2) (ey €R, Yyeg.\n(b) For each yeQ there exists a y' €& such that\n(y',y) € & or such that (y,y') ef.\n\nElements of A are called the reactions of the network. For\n\neach (y,y') € & we say that complex y reacts to complex y',\n\nand we write the more suggestive y + y’ in place of (y,y') if\n\nand only if y reacts to y'. The vector y [resp., y'] is called\n\nthe reactant complex [product complex] of the reaction y > y'.\n*tThe definition of a reaction network given here is similar to but a little\nmore restrictive than that given by Horn and me in [ FH2 ].",
+    "character_count": 1757,
+    "word_count": 347,
+    "extraction_method": "tesseract_ocr"
+  },
+  {
+    "document_id": "d4",
+    "source_file": "d4.pdf",
+    "page": 2,
+    "text": "2-3\n\nExample. For network (1.1)\n\n& = {A, 2B, AC, D, BHE}CP\n\nA = {K+2B, 2B+A, AtC+D, D+AtC, D+BtE, BHE +AtC}.\nRemark 2.1. The restriction imposed in item (ii) of Definition 2.1 merely\nrequires that each element of y “appears in\" at least one complex; that\nis, y contains no superfluous species. The conditions imposed in (iii)\nassert, first, that no complex reacts to itself and, second, that no complex\nis \"isolated\": each element of % is the product complex of some reaction\nor is the reactant complex of some reaction. (A complex can, of course, be\nthe product complex for one reaction and the reactant complex for another.)\nRemark 2.2. We shall reserve the symbol n_ to denote the number of complexes\nin a given network.\nRemark 2.3. The component Ys (corresponding to species 4 e& ) of the vector\ny€ % is usually called by chemists the stoichiometric” coefficient of species\n4 in complex y. For example, in the complex A+C of network (1.1) the stoichio-\nmetric coefficient of A is one, the stoichiometric coefficient of C is one, and\nthe stoichiometric coefficients of B, D, and E are zero. In the complex 2B\nthe stoichiometric coefficient of B is two, and the stoichiometric coefficients\nof A,C, D and E are zero. For ye we note that suppy is the set of all\nspecies with non-zero stoichiometric coefficient in the complex y.\n*\nUgly though it is, the word \"stoichiometry\" has come to occupy an important\nplace in the vocabulary of chemists and chemical engineers. Rutherford\nAris, who knows about these things, traces the word back to its Greek roots —\nin fact, back to Plato's discussion of the material elements. He (Aris, not\nPlato) asserts, \"Stoichiometry literally means the measurement of the\nelements but the word is commonly used to refer to all manner of calcula-\ntions regarding the components of a chemical system... Stoichiometry is\nessentially the bookkeeping of the material components of the chemical\nsystem.\" [ A ] We shall use the word in this last sense.",
+    "character_count": 1975,
+    "word_count": 342,
+    "extraction_method": "tesseract_ocr"
+  },
+  {
+    "document_id": "d4",
+    "source_file": "d4.pdf",
+    "page": 3,
+    "text": "2-4\n2.B. Kinetics\n\nWe introduced the notion of a kinetics for a reaction network in an\ninformal way in Lecture 1. Here we shall be a little more precise about\nwhat we mean.\nDefinition 2.2. A kinetics for a reaction network Uf iG A} is an assign-~-\nment to each,reaction y~* y' € & of a continuous Yate function\nKy sy! 3 pe. Pp such that\n\nK y ryt > 0 if and only if suppyC suppc. (2.1)\n\nInterpretation: In the context of Lecture l K y ryt was the occurrence\nrate of the reaction y*y' when the (spatially homogeneous) contents of the\nreactor under study had composition c € Pp b . There we required only that\nthe rate functions take non-negative values. In condition (2.1) we go a\nlittle further by delineating those ce p4 for which the function\nAK yay! takes positive values. Note that, for the reaction y>y',\nsupp y is just the set of species appearing in the reactant complex jy.\n(Thus for A+tC+D, supp(AtC) = {A,C}.) Roughly speaking, supp y is the\nset of \"ingredients\" required for the occurrence of y-*y'. On the other\nhand, if ce pA is the instantaneous composition state of the mixture,\nthen suppc is the set of species which are actually present in the\nreactor. (Recall Example 1.B.1.) In rough terms, then, (2.1) says this:\nReaction y+y' proceeds at non-zero rate (however slowly) if and only if\nthe species appearing in the reactant complex y are actually present in\nthe reactor. (For example, AtC~>D proceeds at non-zero rate if and only\nif Cy #0 and Co ¥ 0.)",
+    "character_count": 1469,
+    "word_count": 269,
+    "extraction_method": "tesseract_ocr"
+  }
+]
