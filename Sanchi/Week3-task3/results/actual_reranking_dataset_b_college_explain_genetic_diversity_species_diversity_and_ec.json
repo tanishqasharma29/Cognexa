@@ -1,0 +1,72 @@
+[
+  {
+    "rank": 1,
+    "chunk_id": "college_college__college__ML UNIT-IV_p0043_c0001",
+    "document_id": "college_college__college__ML UNIT-IV",
+    "source_file": "ML UNIT-IV.pdf",
+    "dataset": "college",
+    "extraction_method": "pdf_text",
+    "page": 43,
+    "rerank_score": -2.1435787677764893,
+    "rrf_score": 0.03252247488101534,
+    "dense_rank": 2,
+    "bm25_rank": 1,
+    "text": "Baldwin Effect •The Baldwin effect provides an indirect mechanism for individual learning to positively impact the rate of evolutionary progress. •By increasing survivability and genetic diversity of the species, individual learning supports more rapid evolutionary progress. •Survivability increases the chance that the species will evolve genetic, non-learned traits that better fit the new environment."
+  },
+  {
+    "rank": 2,
+    "chunk_id": "college_college__college__Genetic Algorithm 26116 (2) (1)_p0037_c0001",
+    "document_id": "college_college__college__Genetic Algorithm 26116 (2) (1)",
+    "source_file": "Genetic Algorithm 26116 (2) (1).pdf",
+    "dataset": "college",
+    "extraction_method": "pdf_text",
+    "page": 37,
+    "rerank_score": -6.123798370361328,
+    "rrf_score": 0.01639344262295082,
+    "dense_rank": 1,
+    "bm25_rank": null,
+    "text": "Why Genetic Algorithms Work  It is possible to explain genetic algorithms by comparison with natural evolution: small changes that occur on a selective basis combined with reproduction will tend to improve the fitness of the population over time.  John Holland invented schemata to provide an explanation for genetic algorithms that is more rigorous. 37"
+  },
+  {
+    "rank": 3,
+    "chunk_id": "college_college__college__ML UNIT-IV_p0042_c0001",
+    "document_id": "college_college__college__ML UNIT-IV",
+    "source_file": "ML UNIT-IV.pdf",
+    "dataset": "college",
+    "extraction_method": "pdf_text",
+    "page": 42,
+    "rerank_score": -6.503703594207764,
+    "rrf_score": 0.015384615384615385,
+    "dense_rank": 5,
+    "bm25_rank": null,
+    "text": "Baldwin Effect •The second observation is: • Those individuals who are able to learn many traits will rely less strongly on their genetic code to \"hard-wire\" traits. • Those who are able to learn can support a more diverse gene pool, relying on individual learning to overcome the \"missing\" or \"not quite optimized\" traits in the genetic code. • A more diverse gene pool can, in turn, support more rapid evolutionary adaptation. • The ability of individuals to learn can have an indirect accelerating effect on the rate of evolutionary adaptation for the entire population."
+  },
+  {
+    "rank": 4,
+    "chunk_id": "college_college__college__Slide 1 NIC (1) (1)_p0023_c0001",
+    "document_id": "college_college__college__Slide 1 NIC (1) (1)",
+    "source_file": "Slide 1 NIC (1) (1).pdf",
+    "dataset": "college",
+    "extraction_method": "pdf_text",
+    "page": 23,
+    "rerank_score": -6.901844501495361,
+    "rrf_score": 0.029910714285714284,
+    "dense_rank": 4,
+    "bm25_rank": 10,
+    "text": "Evolutionary Learning (EL) -EL is a family of optimization and machine learning techniques inspired by biological evolution. -Instead of learning with gradient descent (like deep learning), it evolves a population of candidate solutions using selection, mutation, and recombination — similar to Darwin’s “survival of the fittest. •Population →Set of candidate solutions (analogous to species). •Fitness Function →How good a solution is (analogous to survival ability). •Selection → Favor the best solutions (natural selection). •Crossover / Recombination →Combine traits of two parents. •Mutation →Introduce random changes to explore new possibilities. •Generations →Iteratively repeat until good solutions emerge. • Advantages: Good for black-box optimization • Limitations: • Slow convergence • Examples & Applications: • Neural architecture search • Evolutionary Algorithms: 1. Genetic Algorithms (GA) Candidate solutions represented as chromosomes. Uses crossover + mutation to evolve better solutions. 2. Evolution Strategies (ES) Focuses more on mutation and step-size adaptation. 3. Genetic Programming (GP) Evolves entire computer programs (tree structures). 4. Differential Evolution (DE) Uses vector differences to guide mutation. 5. Swarm Intelligence (related) Inspired by behavior of ants, birds, fish. Includes PSO (Particle Swarm Optimization), ACO (Ant Colony Optimization), GWO (Grey Wolf Optimizer. • Trends: -Neuro-Evolution for deep RL (Evolving neural networks with survival of the fittest, instead of teaching them with equations.). Neuro-Evolution of Augmenting Topologies (NEAT) is an evolutionary algorithm."
+  },
+  {
+    "rank": 5,
+    "chunk_id": "college_college__college__Genetic Algorithm 26116 (2) (1)_p0008_c0001",
+    "document_id": "college_college__college__Genetic Algorithm 26116 (2) (1)",
+    "source_file": "Genetic Algorithm 26116 (2) (1).pdf",
+    "dataset": "college",
+    "extraction_method": "pdf_text",
+    "page": 8,
+    "rerank_score": -9.90783977508545,
+    "rrf_score": 0.015151515151515152,
+    "dense_rank": 6,
+    "bm25_rank": null,
+    "text": "Fitness • When we use traditional genetic algorithm, a metric is needed whereby the fitness of a chromosome can be objectively determined. • When we consider real creatures, fitness measure is based on the extent to which the physical form (phenotype) represented by the genetic information (genotype) met certain criteria. 8"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "rank": 1,
+    "chunk_id": "DOC_0001_p0001_c0001",
+    "document_id": "DOC_0001",
+    "source_file": "biodiversity and conservation.pdf",
+    "dataset": "ocr",
+    "extraction_method": "ocr_preprocessed",
+    "page": 1,
+    "rerank_score": 6.0102219581604,
+    "rrf_score": 0.03278688524590164,
+    "dense_rank": 1,
+    "bm25_rank": 1,
+    "text": "diversity nservation According to sociobiologist Edward wilson - hiological auganisation is known as Biodi- Versity.\" The most impartant of them are 1. Genetic Diversity - Genetic diversity refers to the different types of genes that are present in a population or in a given species. Frample: Rauwolfia vomitoria growing in different Himalayan ranges have different in term of Potency and concentration of active chemical (resper- pine) which is used in Blood phessive treatment. 2. Species Niversity — Diversity at the species level is species diversity. Fxample: The western Chats have greater amphbian species diversity than the estern ghats. 3. Ecological Diversity — Fcological diversity is the Variety of life farms that exist in different ecosystems. # · ·"
+  },
+  {
+    "rank": 2,
+    "chunk_id": "kaggle_kaggle__Pdf__UKNH3OQ2LY6SZKEQ7ITIOEHER4BHZEEN_p0048_c0001",
+    "document_id": "kaggle_kaggle__Pdf__UKNH3OQ2LY6SZKEQ7ITIOEHER4BHZEEN",
+    "source_file": "UKNH3OQ2LY6SZKEQ7ITIOEHER4BHZEEN.pdf",
+    "dataset": "kaggle",
+    "extraction_method": "pdf_text",
+    "page": 48,
+    "rerank_score": 3.865273952484131,
+    "rrf_score": 0.0304147465437788,
+    "dense_rank": 10,
+    "bm25_rank": 2,
+    "text": "Revised Final Lake States Regional Standard, V2.0 11/23/04 48 Terms as defined in FSC International Principles and Criteria Biological diversity: The variability among living organisms from all sources including, inter alia, terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are a part; this includes diversity within species, between species and of ecosystems. (see Convention on Biological Diversity, 1992) Biological diversity values: The intrinsic, ecological, genetic, social, economic, scientific, educational, cultural, recreational and aesthetic values of biological diversity and its components. (see Convention on Biological Diversity, 1992) Biological control agents: Living organisms used to eliminate or regulate the population of other living organisms. Chain of custody: The channel through which products are distributed from their origin in the forest to their end-use. Chemicals: The range of fertilizers, insecticides, fungicides, and hormones, which are used in forest management. Criterion (pl. Criteria): A means of judging whether or not a Principle (of forest stewardship) has been fulfilled. Customary rights: Rights, which result from a long series of habitual or customary actions, constantly repeated, which, have, by such repetition and by uninterrupted acquiescence, acquired the force of a law within a geographical or sociological unit. Ecosystem: A community of all plants and animals and their physical environment, functioning together as an interdependent unit. Endangered species: Any species that is in danger of extinction throughout all or a significant portion of its range. Exotic species: An introduced species not native or endemic to the area in question. Forest integrity: The composition, dynamics, functions and structural attributes of a natural forest. Forest management/manager: The people responsible for the operational management of the forest resource and of the enterprise, as well as the management system and structure, and the planning and field operations. Genetically modified organisms: Biological organisms which have been induced by various means to consist of genetic structural changes."
+  },
+  {
+    "rank": 3,
+    "chunk_id": "kaggle_kaggle__Pdf__UKNH3OQ2LY6SZKEQ7ITIOEHER4BHZEEN_p0022_c0001",
+    "document_id": "kaggle_kaggle__Pdf__UKNH3OQ2LY6SZKEQ7ITIOEHER4BHZEEN",
+    "source_file": "UKNH3OQ2LY6SZKEQ7ITIOEHER4BHZEEN.pdf",
+    "dataset": "kaggle",
+    "extraction_method": "pdf_text",
+    "page": 22,
+    "rerank_score": 3.827613353729248,
+    "rrf_score": 0.030798389007344232,
+    "dense_rank": 7,
+    "bm25_rank": 3,
+    "text": "Revised Final Lake States Regional Standard, V2.0 11/23/04 22 6.3.b. Genetic, species, and ecosystem diversity 6.3.b.1. Forest management conserves native plant and animal communities and species. For example: • Declining trees and snags (see Glossary) are left in the forest. • Vertical and horizontal structural complexity is maintained. • Diversity of understory species is maintained. • Well-distributed, large woody debris is maintained. • Habitats and refugia for sedentary species and those with narrow or special habitat requirements are created and/or maintained. • Artificial regeneration uses locally adapted seed and seedlings. 6.3.b.2. The forest owner or manager cooperates with local, state, and Federal agencies to protect and manage native plant and animal communities and species. 6.3.b.3. There is a consistent scientific method for selecting trees to plant, harvest and retain in order to preserve and/or enhance broad genetic and species diversity. For example: • Phenotypic diversity is maintained, in accordance with desired future conditions. 6.3.b.4. Forest owners or managers maximize habitat connectivity to the extent possible at the landscape level (e.g., through an ecological classification system, at the subsection or land-type association level). For example, habitat connectivity is enhanced by: • Creating habitat corridors and protecting riparian management zones (RMZs) (see Glossary) between habitats; • Changes in harvest-patch block (see Glossary) sizes, harvest patterns, and land use changes to create connectivity among existing patched of habitat; • Restoration plantings specifically to increase connectivity among existing patches of habitat. 6.3.c. Natural cycles that affect the productivity of the forest ecosystem 6.3.c.1. Biological legacies of the forest community are retained at the forest and stand levels, consistent with the objectives of the management plan, including but not limited to: large live and declining trees, coarse dead wood, logs, snags, den trees, and soil organic matter. 6.3.c.2. Forest management practices maintain soil fertility and organic matter, especially in the A horizon, while minimizing soil erosion and compaction. If degradation of soil quality occurs, as indicated by declining fertility or forest health, forest owners or managers modify soil management techniques. For example: • Primary management objectives shift from commercial production to restoration. • Site preparation is minimized. • Road system design and construction is upgraded. • The lightest practical equipment with the lowest ground pressure is used."
+  },
+  {
+    "rank": 4,
+    "chunk_id": "DOC_0001_p0005_c0001",
+    "document_id": "DOC_0001",
+    "source_file": "biodiversity and conservation.pdf",
+    "dataset": "ocr",
+    "extraction_method": "ocr_preprocessed",
+    "page": 5,
+    "rerank_score": 3.0840837955474854,
+    "rrf_score": 0.030330882352941176,
+    "dense_rank": 8,
+    "bm25_rank": 4,
+    "text": "Z = Slope of line / Reguession coefficient: -) 0.1 to 0.2 4 does not depend on taxonomic group. 4 does not depend on region 4 but far very large area, z = 0.6 to 1.2 Example: frugivare birds and mammals in thopical farest, z= 1.15. Impartance of species Diversity to the Ecosystem: (1) Stable community: Community with more species, generally tend to be mare stable than those with less spe- cies. Stable community do not show too mu- variation in productivity from year to year. Resistant to occasional natural/man- made disturbance. Resistant towards invasion by alien species. 2) David Tilman's experiment: Perform long term ecosystem experiment using the outdoor plot and explain species biomass relation."
+  },
+  {
+    "rank": 5,
+    "chunk_id": "DOC_0001_p0002_c0001",
+    "document_id": "DOC_0001",
+    "source_file": "biodiversity and conservation.pdf",
+    "dataset": "ocr",
+    "extraction_method": "ocr_preprocessed",
+    "page": 2,
+    "rerank_score": -1.1736609935760498,
+    "rrf_score": 0.016129032258064516,
+    "dense_rank": 2,
+    "bm25_rank": null,
+    "text": "3.63 Example: India have high biodiversity like grasslands, deserts, farests, Oceans and wetlands than Scandingvian country like Narway which have a low ecosystem biodiversity. Some nolewarthy points: — 70% are animals. (i) 9m 100% species 22% are plants. 8% others. liu In animals insects are most species Hich taxonomic group. — Esketebusi Tn invertebustes Ansect - most mollusca - 2nd most CHUSTacean - 34d most (iu) In vertebrates - Fish an plants V) Fungi × Angiosperm Algae mössfern Lichen Gymnosperm."
+  }
+]
